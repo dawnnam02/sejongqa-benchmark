@@ -16,7 +16,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 3. Quoted source text
-- `data/evidence.jsonl` and `diagnostics/graph_checks/` contain short quotations from the modern Korean translation of the Sejong sillok (Korean translation © Sejong the Great Memorial Society, 세종대왕기념사업회; provided online by the National Institute of Korean History, sillok.history.go.kr, with a Korea Open Government License (KOGL) mark; check the KOGL type on the source page). They are included only as evidence for the answers and judgments.
+- `data/evidence.jsonl` and `diagnostics/graph_checks/` contain short quotations from the modern Korean translation of the Sejong sillok (Korean translation © Sejong the Great Memorial Society, 세종대왕기념사업회; provided online by the National Institute of Korean History, sillok.history.go.kr, where the Korea Open Government License (KOGL) mark accompanies the classical Chinese original, not the translation). They are included only as evidence for the answers and judgments.
 - Rights in the translation remain with their holders; the licenses above do not cover the quoted text. If the provider objects, the `quote` fields will be removed and the `source_id` fields kept.
 
 ## 4. Full article texts

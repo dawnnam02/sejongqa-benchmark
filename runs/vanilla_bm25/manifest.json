@@ -18,5 +18,10 @@
  "questions_sha256": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
  "corpus_sha256": "9dee02459dbcc660d752df009b2cf7c4d955f3125e85e12c8664ab8d97ecf6c6",
  "retrieval": "BM25 only (character bigrams); dense retrieval disabled (top_k.dense = 0)",
- "smoke_test": "the first five items were answered in a pipeline smoke-test call with identical settings and are included in the 975"
+ "usage_gpt-4.1-mini": {
+  "prompt_tokens": 2093696
+ },
+ "usd": 0.8436,
+ "smoke_test": "the first five items were answered in a pipeline smoke-test call with identical settings and are included in the 975",
+ "added_after_main_runs": true
 }

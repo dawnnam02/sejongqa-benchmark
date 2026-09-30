@@ -32,7 +32,7 @@ def main():
         bad += not ok
         print("%s %-60s pred=%r gold=%r -> %s" % ("PASS" if ok else "FAIL", note, pred, gold, got))
     expected = {"closed": 18, "vanilla": 365, "gold": 728, "graphrag": 173, "vanilla_bm25": 396,
-                "graphrag_ctx": 29}
+                "graphrag_basic": 148, "graphrag_ctx": 29}
     for s, k in expected.items():
         p = os.path.join(HERE, "runs", s, "answers.jsonl")
         if os.path.exists(p):

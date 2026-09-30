@@ -52,7 +52,7 @@
    ]
   }
  },
- "note": "verdicts of blind re-solving against the gold answer; 'multiple_answers_main_matches' = the solver's main answer matched and alternatives were also listed",
+ "note": "verdicts of re-solving without the answer key (blinding self-reported), compared with the gold answer; 'multiple_answers_main_matches' = the solver's main answer matched and alternatives were also listed",
  "isolated_re_solving": {
   "Temporal": {
    "n": 56,
@@ -77,5 +77,19 @@
   "pairs_with_both_items_to_one_solver": 35,
   "of_these_re_solved_separately": 13,
   "source": "construction records (solver assignment files are not released)"
+ },
+ "temporal_one_solver_pairs": {
+  "note": "In the first Temporal pass 35 pairs went whole to one solver; 13 were later re-solved separately (10 sampled, 3 revised) and 22 were not. Counts from the internal solver-assignment records.",
+  "pairs_whole_to_one_solver": 35,
+  "re_solved_separately": 13,
+  "not_re_solved": 22,
+  "first_pass_exact_not_re_solved": [
+   36,
+   44
+  ],
+  "first_pass_exact_separated_pairs": [
+   172,
+   230
+  ]
  }
 }
