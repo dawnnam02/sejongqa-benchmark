@@ -16,11 +16,11 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 3. Quoted source text
-- `data/evidence.jsonl` and `diagnostics/graph_checks/` contain short quotations from the modern Korean translation of the Sejong sillok (Korean translation © Sejong the Great Memorial Society, 세종대왕기념사업회; provided online by the National Institute of Korean History, sillok.history.go.kr, where the Korea Open Government License (KOGL) mark accompanies the classical Chinese original, not the translation). They are included only as evidence for the answers and judgments.
+- `data/evidence.jsonl` and `diagnostics/graph_checks/` contain short quotations from the new modern Korean translation of the Sejong sillok (신역 조선왕조실록; © Institute for the Translation of Korean Classics, 한국고전번역원, 2022–; provided in the Korean Classics DB, db.itkc.or.kr, under its terms of use). They are included only as evidence for the answers and judgments.
 - Rights in the translation remain with their holders; the licenses above do not cover the quoted text. If the provider objects, the `quote` fields will be removed and the `source_id` fields kept.
 
 ## 4. Full article texts
-- They are **not** redistributed. Obtain them from the provider (https://sillok.history.go.kr) under its terms of use, then rebuild the corpus with `scripts/rebuild_corpus.py`. The two example articles in `graphrag/prompts/extract_graph.txt` are masked and restored the same way.
+- They are **not** redistributed. Obtain them from the provider (Korean Classics DB, https://db.itkc.or.kr) under its terms of use, then rebuild the corpus with `scripts/rebuild_corpus.py`. The two example articles in `graphrag/prompts/extract_graph.txt` are masked and restored the same way.
 
 ## 5. Model outputs
 - Answers and judgments in `runs/` were generated with gpt-4.1-mini (OpenAI). They are released for reproducibility, subject to the model provider's terms.

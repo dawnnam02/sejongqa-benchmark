@@ -1,7 +1,8 @@
 """Rebuild the SejongQA retrieval corpus (4,273 articles) from a local copy of the translation.
 
-The article texts are NOT redistributed. Obtain the modern Korean translation of the Sejong sillok
-from the National Institute of Korean History (https://sillok.history.go.kr) under its terms of use,
+The article texts are NOT redistributed. Obtain the new modern Korean translation of the Sejong sillok
+(Institute for the Translation of Korean Classics, Korean Classics DB, https://db.itkc.or.kr) under its
+terms of use,
 and convert it to a JSONL file with one article per line:
     {"article_ref": "00-08-11[01]", "date_heading": "세종 즉위년 무술(1418) 8월 11일(무자) 양력 1418-09-10",
      "body_text": "<translated body without title, source note, classification and footnotes>"}

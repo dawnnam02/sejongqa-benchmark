@@ -101,6 +101,7 @@ def diff(sa, sb, label):
 TABLE_III = {  # Table III: All with 95% CI
     ("closed", "All"): (1.8, 1.0, 2.8), ("vanilla", "All"): (37.4, 34.5, 40.5), ("vanilla_bm25", "All"): (40.6, 37.7, 43.6),
     ("graphrag", "All"): (17.7, 15.3, 20.3), ("graphrag_basic", "All"): (15.2, 12.7, 17.6), ("gold", "All"): (74.7, 71.7, 77.4),
+    ("gold_gpt41", "All"): (80.9, 78.3, 83.5),  # Section V: Gold Evidence re-read with gpt-4.1
 }
 DIFFS = {
     ("gold", "vanilla", "All"): (37.2, 33.6, 40.7), ("gold", "vanilla_bm25", "All"): (34.1, None, None),
@@ -109,6 +110,7 @@ DIFFS = {
     ("vanilla", "graphrag", "All"): (19.7, 16.5, 22.7), ("vanilla", "graphrag_basic", "All"): (22.3, 19.2, 25.4),
     ("graphrag", "graphrag_basic", "Identity"): (9.0, 1.7, 16.7), ("graphrag", "graphrag_basic", "All"): (2.6, -0.4, 5.8),
     ("graphrag_ctx", "graphrag", "All"): (0.5, -2.5, 3.5),
+    ("gold_gpt41", "gold", "All"): (6.3, 3.7, 8.9), ("gold_gpt41", "gold", "Temporal"): (11.3, 6.3, 16.7),
 }
 # Section V: every item type shows a gap to Gold Evidence whose CI excludes zero for every retrieval pipeline
 GAP_TYPES = ("same person", "different persons", "Temporal", "Multi-hop")

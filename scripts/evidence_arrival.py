@@ -1,4 +1,4 @@
-"""Table IV (gold articles in the reader's context) and the Gold-solved re-count of Section V
+"""Table IV (gold articles in the reader's context), the 109-question comparison of Section VI, and the Gold-solved re-count of Section V
 (python scripts/evidence_arrival.py; standard library).
 
 Context articles per question:
@@ -83,6 +83,32 @@ for name, (run, fn) in CTX.items():
         got += (None, None, None, None, None)
     ck("%s: any, all, Temporal both, EM/Gold (all arrived), EM/Gold (other), n" % name, got, PAPER[name])
     ck("%s: 5-/7-page items with all gold articles" % name, longall, 0)
+
+print("== Section VI: questions whose gold articles all reach both Vanilla RAG and GraphRAG Local")
+import random  # noqa: E402
+both = [i for i in IDS if set(G[i]["evidence_ids"]) <= CTX["Vanilla"][1](i) and set(G[i]["evidence_ids"]) <= CTX["Local"][1](i)]
+ck("questions / Vanilla EM / Local EM / difference",
+   (len(both), pct(sum(EM["vanilla"][i] for i in both), len(both)), pct(sum(EM["graphrag"][i] for i in both), len(both)),
+    round(100.0 * sum(EM["vanilla"][i] - EM["graphrag"][i] for i in both) / len(both), 1)), (109, 85.3, 74.3, 11.0))
+# 95% CI with the paper's units: minimal pairs (Identity, Temporal) or items (Multi-hop), stratified by category,
+# 2,000 resamples, random.Random(20260929), percentile (sorted[49], sorted[1949])
+units = collections.defaultdict(lambda: collections.defaultdict(list))
+for i in both:
+    c = G[i]["category"]
+    units[c][G[i]["pair_id"] if c in ("인물판정", "시간추론") and G[i].get("pair_id") else i].append(i)
+rng = random.Random(20260929)
+ds = []
+for _ in range(2000):
+    s_ = n_ = 0
+    for c, u in units.items():
+        us = list(u.values())
+        for grp in (rng.choice(us) for _ in us):
+            for i in grp:
+                s_ += EM["vanilla"][i] - EM["graphrag"][i]
+                n_ += 1
+    ds.append(100.0 * s_ / n_)
+ds.sort()
+ck("difference 95% CI", (round(ds[49], 1), round(ds[1949], 1)), (3.4, 19.2))
 
 print("== Section V: questions that Gold Evidence answers exactly")
 ok_ = [i for i in IDS if EM["gold"][i]]
