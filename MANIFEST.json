@@ -74,7 +74,7 @@
  "files_sha256": {
   ".gitignore": "a03e2bec5d2d04d09168c3a968fe04152364479aa2de93117cb16259b0e6e7bf",
   "LICENSE.md": "123e499c0f233e205d3b20ff9647eb581a1cc1c38ec0fe7bedb623f2ff27c237",
-  "README.md": "9de2f3ac7cfa2ea37187dedde97be21050af19f8dfca85cb460d76ab88f39f25",
+  "README.md": "28cf08303524fe95ff525d3716975a11e8ed45e12a440ff7659a5a20ac531f05",
   "code/15_GraphRAG질의.py": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f",
   "code/16b_LLM판정.py": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57",
   "code/22_Vanilla색인.py": "6ceb5d470a36b8f63e4aab565ae32690ba09a403dc6e0c32ca75cfa53bc1bd0b",

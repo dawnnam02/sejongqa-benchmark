@@ -5,9 +5,9 @@ SejongQA is a Korean-language benchmark of 975 questions over the modern Korean 
 - **Temporal** (150 pairs): the same event-anchored question under two temporal relation words, with different answers.
 - **Multi-hop** (375 items): questions following relation chains across two to seven wiki pages.
 
-This package accompanies the paper *Same Name, Different Day: A Minimal-Pair Benchmark Where Microsoft GraphRAG Local Search Trails Plain Retrieval on the Annals of King Sejong*. It contains everything needed to check the paper's numbers. The source article texts are not included (see Corpus).
+This package accompanies the paper *Same Name, Different Day: Minimal-Pair QA on the Sejong Annals and a GraphRAG Diagnosis*. It contains everything needed to check the paper's numbers. The source article texts are not included (see Corpus).
 
-> **Anonymous review copy.** Author names and affiliations are withheld for double-blind review. Please do not try to identify the authors.
+> **Review copy.** Author information is not included in this repository; see the paper.
 
 ## Checking the paper's numbers
 Python 3 (tested with 3.14). No API keys or network access are needed.
@@ -76,7 +76,7 @@ code/                        retrieval, query, judge and scoring code used for t
 - `graphrag/prompts/extract_graph.txt`: the two example articles are masked as `<<ARTICLE id>>`; `python scripts/rebuild_corpus.py --restore-prompt corpus/articles.csv` restores them and checks the hash of the prompt used (prefix `5c62347f4685df93`).
 
 ## Graph diagnostics
-- Section VI is recomputed from the identifier-level tables in `diagnostics/` and `graph/`. Name nodes are matched by exact string to the name as written in the question (Identity) or to the wiki page title (Multi-hop), including any Hanja given there; missing Hanja spellings and aliases are not inferred. "Same node" means that the node linked to a gold article's text unit is itself in the context's entity table. The answer-string checks need the context texts and are released as per-question flags.
+- Section VI is recomputed from the identifier-level tables in `diagnostics/` and `graph/`. For Identity, a name node is a node whose title equals the Hangul form of the questioned name with any parenthesized Hanja removed (e.g., 이비(李裶) → 이비), or that form followed by the same Hanja; people distinguished only by Hanja therefore map to one node, and a name matching several nodes counts as present if any of them matches. For Multi-hop, chain entities are matched by exact string to the wiki page title. Missing spellings and aliases are not inferred. "Same node" means that the node linked to a gold article's text unit is itself in the context's entity table. The answer-string checks need the context texts and are released as per-question flags.
 - `diagnostics/graph_checks/` holds the judgments of LLM annotators (Claude agents) against the source articles for 90 sampled graph elements and 8 Table IV candidates, and a second, non-blind pass over 35 of them by another Claude agent. Fields are in Korean: 판정 = verdict, 근거_인용 = quoted evidence (from the source article; in a few Table IV candidates, from the GraphRAG entity description being checked), 기사ID = article IDs, 설명 = explanation, 확신 = confidence, 표시 = tags; `table_iv_line` is the English line drafted for Table IV.
 
 ## Corpus
