@@ -1,0 +1,81 @@
+{
+ "first_pass": {
+  "Identity": {
+   "n": 300,
+   "verdicts": {
+    "match": 278,
+    "multiple_answers_main_matches": 16,
+    "partial_match": 5,
+    "mismatch": 1
+   },
+   "exact_agreement": [
+    278,
+    300
+   ],
+   "main_answer_agreement": [
+    294,
+    300
+   ]
+  },
+  "Temporal": {
+   "n": 300,
+   "verdicts": {
+    "match": 227,
+    "multiple_answers_main_matches": 41,
+    "partial_match": 27,
+    "mismatch": 5
+   },
+   "exact_agreement": [
+    227,
+    300
+   ],
+   "main_answer_agreement": [
+    268,
+    300
+   ]
+  },
+  "Multi-hop": {
+   "n": 375,
+   "verdicts": {
+    "match": 336,
+    "multiple_answers_main_matches": 39,
+    "partial_match": 0,
+    "mismatch": 0
+   },
+   "exact_agreement": [
+    336,
+    375
+   ],
+   "main_answer_agreement": [
+    375,
+    375
+   ]
+  }
+ },
+ "note": "verdicts of blind re-solving against the gold answer; 'multiple_answers_main_matches' = the solver's main answer matched and alternatives were also listed",
+ "isolated_re_solving": {
+  "Temporal": {
+   "n": 56,
+   "verdicts": {
+    "match": 45,
+    "multiple_answers_main_matches": 0,
+    "partial_match": 11,
+    "mismatch": 0
+   }
+  },
+  "Multi-hop": {
+   "n": 5,
+   "verdicts": {
+    "match": 5,
+    "multiple_answers_main_matches": 0,
+    "partial_match": 0,
+    "mismatch": 0
+   }
+  }
+ },
+ "temporal_solver_assignment": {
+  "pairs_with_both_items_to_one_solver": 35,
+  "of_these_re_solved_separately": 13,
+  "source": "construction records (solver assignment files are not released)"
+ }
+}

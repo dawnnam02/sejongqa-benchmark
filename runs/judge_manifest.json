@@ -1,0 +1,11 @@
+{
+ "system": "LLM-Eq judge",
+ "model_requested": "gpt-4.1-mini",
+ "model_returned": "gpt-4.1-mini-2025-04-14",
+ "temperature": 1,
+ "max_tokens": 5,
+ "n_votes": 3,
+ "rule": "EM = 1 accepted and abstentions rejected without a judge call; otherwise majority of three votes",
+ "system_prompt": "질문에 대한 모범 답과 응답이 주어진다. 응답이 모범 답과 같은 내용을 가리키면 '정답', 아니면 '오답'이라고 한 단어로만 답하라.\n표기 차이(띄어쓰기, 한자 병기, 숫자 표기, 조사)는 무시한다. 모범 답의 다른 표기로 답한 것도 정답이다. 응답이 모범 답보다 넓거나 여러 후보를 나열하면 오답이다.\n\n질문: {q}\n모범 답: {gold}{alias}\n응답: {pred}",
+ "system_prompt_sha256": "e59e65b9c8007b7f5b85bd80e04a4783956332cbcf6f67bbfb8ad938bc0689fd"
+}

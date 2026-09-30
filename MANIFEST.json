@@ -1,0 +1,158 @@
+{
+ "benchmark": "SejongQA",
+ "version": "v3-frozen-2026-09-29",
+ "n_items": 975,
+ "questions_sha256": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
+ "answers_sha256": "69ccaeec2d01955f40f11569dab59dfe449868f31940232c029d7e16b3c5c28c",
+ "corpus": {
+  "n_articles": 4273,
+  "n_chars": 2214948,
+  "articles_csv_sha256": "9dee02459dbcc660d752df009b2cf7c4d955f3125e85e12c8664ab8d97ecf6c6"
+ },
+ "models": {
+  "item_drafting_revision_resolving": "Claude Code sub-agents, Claude Opus 5.5 (claude-opus-5-5)",
+  "wiki_authoring": "not recorded",
+  "reader_and_judge": "gpt-4.1-mini-2025-04-14",
+  "embedding": "text-embedding-3-small",
+  "graphrag": "Microsoft GraphRAG 2.7.2, gpt-4.1-mini via LiteLLM (dated version not recorded)"
+ },
+ "graphrag_index_sha256": {
+  "documents": "19b027bc7487618a588353a046c22b2661a4c18d334123419fa3fe6ad3cf8909",
+  "text_units": "56db88fda4f1f6e827c7bb3752fe0641c84c53f843356707e8b87a9a409a3b7b",
+  "entities": "987f1101e944df03a44744988d8911d8d939cca1da16349917397387cd4ea219",
+  "relationships": "75c1a06e9331afe1880030961ca46b706a30a17b958a33b024c81ad5361a9769",
+  "communities": "6ac1bb752abc126ec40510f554fbda6641b81a2363ec66c375ed45230822578d",
+  "community_reports": "151bc82542eb1808f5d4c14564b32a6f36192e0cb68e95677a1a6bd78b8d9afa"
+ },
+ "graphrag_index_counts": {
+  "documents": 4273,
+  "text_units": 4600,
+  "entities": 18593,
+  "relationships": 55001,
+  "communities": 4131,
+  "community_reports": 4131
+ },
+ "graphrag_settings": {
+  "sha256_at_run": "765731d79e4a40ef6fc2456d030e81e7fbbed5d1283b9d4baefb6571776b7f73",
+  "sha256_released": "d9a42d945aeaf04622bda43f0bc5d01d9d5c549b1524c94803fc6af4ae850aa6",
+  "note": "comments removed; functional settings identical to the run"
+ },
+ "code": {
+  "note": "comments removed or shortened to English; code otherwise as run, except that internal references were removed from a few printed messages and an unused local model path was replaced by the environment variable E5_MODEL",
+  "files": {
+   "15_GraphRAG질의.py": {
+    "sha256_as_run": "508efbb8d6a2e9a1fb3322fff7cca19b938ffbc4569a0ddf2af0ca6b01a41f8f",
+    "sha256_released": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f"
+   },
+   "16b_LLM판정.py": {
+    "sha256_as_run": "d2135e1651e52ef9192de519e53ff1602956969a08b9882b99033b94f345b1a7",
+    "sha256_released": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57"
+   },
+   "22_Vanilla색인.py": {
+    "sha256_as_run": "f9c85dd6c8addac55b8c839ac543da0a54e847ceac3d2617e42cb1cd87c3972a",
+    "sha256_released": "6ceb5d470a36b8f63e4aab565ae32690ba09a403dc6e0c32ca75cfa53bc1bd0b"
+   },
+   "25_Vanilla검색.py": {
+    "sha256_as_run": "d26b561ba03aeba06404a5fdfba1a90520b771ce82e78ed5c13637adac0b30dd",
+    "sha256_released": "29c7390299c5a85712d77a4f4b7f949031b2a4730bd342255002a4c6a6ac8858"
+   },
+   "26_질의.py": {
+    "sha256_as_run": "42cc290750afbc743fab2f4c798db13e8fe6e65174d2aff6bbbe202b45082f47",
+    "sha256_released": "64df3c67a923b8400dee11497edf894bedacc0c4a943da77958d6d9a207ba4d0"
+   },
+   "27_채점.py": {
+    "sha256_as_run": "ff80e470b86e5162bf767482b5d3e910495cc976da0784b833235dfc8592aae1",
+    "sha256_released": "502afde0c13470ede95f224eca44d3082a56a3f1b9e0dcfe3d494fc101144274"
+   },
+   "v3공통.py": {
+    "sha256_as_run": "fbbdf79ee158b9da0991da8654419d133671827231eb79e4784e3c12ae1db56f",
+    "sha256_released": "ca180c64459d1bffb8ded8436b8a6d8377f47b3c855885244f4a1d62e20eaf59"
+   }
+  },
+  "26_질의.py": "the Closed-Book, Vanilla RAG and Gold Evidence runs used the previous version of this file; the only difference is the --retrieval option added for the BM25-only ablation"
+ },
+ "files_sha256": {
+  ".gitignore": "a03e2bec5d2d04d09168c3a968fe04152364479aa2de93117cb16259b0e6e7bf",
+  "LICENSE.md": "123e499c0f233e205d3b20ff9647eb581a1cc1c38ec0fe7bedb623f2ff27c237",
+  "README.md": "9de2f3ac7cfa2ea37187dedde97be21050af19f8dfca85cb460d76ab88f39f25",
+  "code/15_GraphRAG질의.py": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f",
+  "code/16b_LLM판정.py": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57",
+  "code/22_Vanilla색인.py": "6ceb5d470a36b8f63e4aab565ae32690ba09a403dc6e0c32ca75cfa53bc1bd0b",
+  "code/25_Vanilla검색.py": "29c7390299c5a85712d77a4f4b7f949031b2a4730bd342255002a4c6a6ac8858",
+  "code/26_질의.py": "64df3c67a923b8400dee11497edf894bedacc0c4a943da77958d6d9a207ba4d0",
+  "code/27_채점.py": "502afde0c13470ede95f224eca44d3082a56a3f1b9e0dcfe3d494fc101144274",
+  "code/v3공통.py": "ca180c64459d1bffb8ded8436b8a6d8377f47b3c855885244f4a1d62e20eaf59",
+  "data/answers.jsonl": "69ccaeec2d01955f40f11569dab59dfe449868f31940232c029d7e16b3c5c28c",
+  "data/article_ids.tsv": "0c1b1680c9c4624785d17baccb98c858c4d8b4edd7679db4553e0fa7fa63d293",
+  "data/author_sample.tsv": "341287963134455c7aaf8f64dab0a4ef01258c37dc68344614cccec8dc43f363",
+  "data/corpus_stats.json": "fdaabf282f526a4b3e124fd50c27e11d277df49cd721823066640f8f5dea7f07",
+  "data/evidence.jsonl": "e2791b2d9c314f5410a01bafb7f0dc34643be7f537d08c62f10128afde95474e",
+  "data/questions.jsonl": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
+  "data/temporal_prev_month.tsv": "1b071a045493e77ba601b472f04f6b1a9eb4168a5ade52511d7c94d86bbd5200",
+  "data/validation_summary.json": "1a7140c20700ae7a45209302a9d2748860c28d3f648033d787a07f54f855025a",
+  "diagnostics/answer_string.tsv": "ac952fd532c804afaaba031f452e9fcdac582474f5efb3acdbf5cef0f2750e1c",
+  "diagnostics/graph_checks/auto_flags.json": "5b2a6b560020f6914fd2f22fa6ef9733efb5e9775b21ba737941ff3c69fc56d4",
+  "diagnostics/graph_checks/hanja_split20.jsonl": "5802ff2c48d5883e45065a114ddff84419713f5b6ae4984393c2ac153a461aab",
+  "diagnostics/graph_checks/non_verbatim_names20.jsonl": "1681e7822b5ed8b27acb55f90171a7cb5f7077bf8b82e45ed727870320e85b5b",
+  "diagnostics/graph_checks/recheck35.jsonl": "acf0f32835cffe3a8d16756a508a9c0a96ee88d169b2cb50ea46d9e71879e3f4",
+  "diagnostics/graph_checks/relationships30.jsonl": "2784792f7b7e8a24cfd7b5e35502d8d0e679393c8d0ad2920197127f21660409",
+  "diagnostics/graph_checks/same_name_merge20.jsonl": "59dabefd51f19ad6c47b086f7dd48a28313913c02421bc651af39d5eefbea563",
+  "diagnostics/graph_checks/table_iv_candidates.jsonl": "8a14ebc6f6a00bd8ae9b613d4ce7e0dae652488f6c0277165058dd2402df18b7",
+  "diagnostics/identity_items.tsv": "47d2c8a749048652f1cccf73d3a9cc1a8d8e28790547ac20cdd04a9fdab67e5e",
+  "diagnostics/identity_pairs.tsv": "90474768e3d0a139759009c2c6d4bc9461e980b3ddb654f4797d6d026e1e2ed1",
+  "diagnostics/multihop.tsv": "0e3c8886ba2969a038e1d001ecd649db7e05a92ebc89d241234733dabfcb7d0b",
+  "diagnostics/temporal.tsv": "749d2ff0baa0d298c3401ab9d62ba16000265b81fa4227f684ff584be415eebc",
+  "diagnostics/vanilla_answer_string.tsv": "d28ef1341fd5427ae4cf7374523e2f4a778cbec4bce7dad0bda49bcb019fb5a1",
+  "graph/entities_ids.tsv": "43ebe4e82d010137e5bda60241bb56939b039fd07da53612bebcfa237e54b6ff",
+  "graph/relationships_ids.tsv": "387f4c107c24c862e0b317e2c30af99fc5ad5f88862be711e35de4755e6f87ee",
+  "graph/text_units_ids.tsv": "a034bc56fcabd62563c80a87eef6908f138f9c51a0ad2e4fa5202caaa5d04967",
+  "graphrag/index_stats.json": "60e3abd37960b3e13d1ff2d5876be50646d94e076aa15c5e1e2b5c4d6c682c70",
+  "graphrag/prompts/basic_search_system_prompt.txt": "026b8a1e6029142f056aab9ace58a2b4aecb31340e8d6c366389d3e7a2720211",
+  "graphrag/prompts/community_report_graph.txt": "dd5909455b93039efc05da0fb51f30b502b4d2010da0d06eb485a0dae7990963",
+  "graphrag/prompts/community_report_text.txt": "1622c6e0c6cc4951f5a5e63ea49aa9cf39ecd71a3aecaa5bdd6c2fa209aa455b",
+  "graphrag/prompts/drift_reduce_prompt.txt": "792b906898bb4f2c72b0647aa81e20e57155d252fc55754c4a9f31543f33ef17",
+  "graphrag/prompts/drift_search_system_prompt.txt": "141783780fb2d6aff8fe3077aa8b585a072e8b09b4b19cedf31851e020044b07",
+  "graphrag/prompts/extract_claims.txt": "5bfa097332b69708d8a7d5e348f0696d8b7a3a37b3b6d5dd6d1f53f94b4e4f36",
+  "graphrag/prompts/extract_graph.txt": "cc7b3fd3e1172bcd3047abfa34d6605bd91c2342f36740cfdd6c545229cb9365",
+  "graphrag/prompts/global_search_knowledge_system_prompt.txt": "b51eff360b2e08bcbd34d5eeff803b541e5178eaaa1c51da57d16fc36131822c",
+  "graphrag/prompts/global_search_map_system_prompt.txt": "5b0c4a052245d1d2328422184f7bf5ebcd33f124dae8695953d7d68f4440da39",
+  "graphrag/prompts/global_search_reduce_system_prompt.txt": "6bc9e3f23e5509c10d3332f0d19c6cd85ee2d4d7b94e3f60f8ed5f094e717185",
+  "graphrag/prompts/local_search_system_prompt.txt": "52f26f5642a62127245f49ab2e8787a3f143cbb77f74123d834172591f9e9fd5",
+  "graphrag/prompts/question_gen_system_prompt.txt": "cc559f0243f6039c877636a08cc6f39c0e09baa27768a979e2f9ede3adb50e30",
+  "graphrag/prompts/summarize_descriptions.txt": "a7d2bb71e9bf5e011348f34025342b7f740e7dbfe7f41e80c8f909aede3d8be8",
+  "graphrag/settings.yaml": "d9a42d945aeaf04622bda43f0bc5d01d9d5c549b1524c94803fc6af4ae850aa6",
+  "prompts/judge_llm_eq.txt": "262f63812e64fc37e5aef77dfcd9a8bd0a8ae0ea8348673cecba27cf88cd9609",
+  "prompts/reader_closed.txt": "d1ae086ac3eb5859c6c1db6f11d84bbe6d9326c7e3cf510da04c6ce623a39efa",
+  "prompts/reader_gold.txt": "e74ce70414c88576bc896fe678080c600103b7bb5f8c5c6c4c2e6212471bb60a",
+  "prompts/reader_vanilla.txt": "ef2bebab6885af10b534c209da19bd2bc2e9824f5ff0521ff019d7a1cf340fa2",
+  "runs/closed/answers.jsonl": "4c6e6e24548d70c68ca38fdcd1d228246697417c2993da747738c35f53735bb0",
+  "runs/closed/judged.jsonl": "bc597ce087ef0410068360dccb2b6e205b6e9c2c64f6cc890669c77c6a09b455",
+  "runs/closed/manifest.json": "f5f5453195000e8ba8b4583d772c7e22288f84a4e0be5a4225a8a26358c94bf2",
+  "runs/gold/answers.jsonl": "f7b0aed5355574ced79f387617b5a19d95766fe37e80c2e6e6bde4cb0cc26e95",
+  "runs/gold/judged.jsonl": "811488734504715f178a4cecf93a416c3e3d275aed9bf2d265dc481418c24c7b",
+  "runs/gold/manifest.json": "10e34da126fd59e1d87c7f9d828152b8bc77f4c815959bb26865fa04032be9e1",
+  "runs/graphrag/answers.jsonl": "fde58119546823d59dcefdd33ffa284a9a177c630833073e07bdbda69d23571d",
+  "runs/graphrag/context_index.jsonl": "41c46348cf21611c26ad94019b9885c47b2e3589d8b97fb196cc9b6362cc55d9",
+  "runs/graphrag/judged.jsonl": "b36df9e06f14d3e234601fd7148c5f21bf496e9c352f4d08aaf4b277b2c5132d",
+  "runs/graphrag/manifest.json": "c235b66bc920c87433eea5f5de251ba0d11b5a61caa2233fb2c49662dad5562b",
+  "runs/graphrag_ctx/answers.jsonl": "0edf751dd407be9d36585709398ed83444bc3ec9ac66a8e80c2abefdbc9baa6e",
+  "runs/graphrag_ctx/judged.jsonl": "24250e812422dfbd5df4db53fedd482ba1ef69b086860c1b1755322051bf911e",
+  "runs/graphrag_ctx/manifest.json": "5940ee5267b5718a2b7c6e742bf634353e09d9fc58002761c2dc37cbebdc8967",
+  "runs/graphrag_ctx/sample.json": "3b47cbd8b3b27352da929d9109355ca19cc8b9055d3db20bccd89908a16cf844",
+  "runs/judge_manifest.json": "fe2274a1003608d0ed7dffc8834cec0c3cb29c1056aae876d4b0a9e6ca02a7e7",
+  "runs/vanilla/answers.jsonl": "5af1bcfcc276d1280e0a8b5045bcb17208634b047405de0d4a0cc28746fdb264",
+  "runs/vanilla/judged.jsonl": "5e78e2084349263f423cc044084e46d9a9e605ecc20589f91a8f34feba362134",
+  "runs/vanilla/manifest.json": "02fed15d2b48d0a300d1b380bd1ff8df2cc78bb42c4a63e9307a3da4cd319b67",
+  "runs/vanilla/manifest_retrieval.json": "11a4c2e7f7e339b3b52603dc7294700526293185c36419413f71509812434144",
+  "runs/vanilla/retrieval.jsonl": "bb86881617dd58463593ed4a53a802a76f71ba2a661e957c17a6ba864b74b6dd",
+  "runs/vanilla_bm25/answers.jsonl": "c1c70e0cd675640636459f34c5bed7f646386933bd78b445bbad746bb302b90d",
+  "runs/vanilla_bm25/judged.jsonl": "93373a43791bd6d6c5924841308e3ae9d86f81bb286cbba31e25d44484596ea1",
+  "runs/vanilla_bm25/manifest.json": "81d26f44e181807bb669046522fed45dd6a448b821b3730c4718b62fb1c863d7",
+  "scripts/paired_ci.py": "9c596260e5731c54c4242aa9a085144bddbc9fa211bf426e77abd46cdda65e58",
+  "scripts/rebuild_corpus.py": "499d0b116a4e2c67fb32fbbe72c1bdc664efc2ec8439a6fab5e3188c445d2375",
+  "scripts/score.py": "3070fc808f2ec45dfb1e4da6f25534ed878a8fea63abcf5f4b449247b543ab62",
+  "scripts/test_score.py": "8c616da49323a693c3c2ca4e4610327fbeb746192e0c7ac6898a018291637145",
+  "scripts/verify_paper.py": "3c69633f8e1d80e5dc61be7e25d249d105e427b4ae91c192059cb1ff1acb7cd9",
+  "scripts/vi_recompute.py": "765c7cd9572ca9b95c8c4136a85382819334047108b4977df5e33bb5d526721e"
+ }
+}

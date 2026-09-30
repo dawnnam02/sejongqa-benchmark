@@ -1,0 +1,975 @@
+{"id": "PJ-001a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-001", "question": "이비(李裶)가 북경에 갔을 때 황제가 특별히 내려 준 양은 몇 마리인가?"}
+{"id": "PJ-001b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-001", "question": "경녕군이 북경에 갔을 때 황제가 특별히 내려 준 양은 몇 마리인가?"}
+{"id": "PJ-002a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-002", "question": "이비(李裶)가 태종의 국상 중에 몰래 쌀과 신물을 보낸 기생은?"}
+{"id": "PJ-002b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-002", "question": "경녕군이 태종의 국상 중에 몰래 쌀과 신물을 보낸 기생은?"}
+{"id": "PJ-003a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-003", "question": "야은이 졸했을 때 나이는 몇 살인가?"}
+{"id": "PJ-003b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-003", "question": "길재가 졸했을 때 나이는 몇 살인가?"}
+{"id": "PJ-004a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-004", "question": "금오산인이 태종의 세자 시절 제수받고 사양한 벼슬은?"}
+{"id": "PJ-004b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-004", "question": "길재가 태종의 세자 시절 제수받고 사양한 벼슬은?"}
+{"id": "PJ-005a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-005", "question": "임금이 의령부원군의 집에 제사하러 거둥했을 때 맞이한 상주는?"}
+{"id": "PJ-005b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-005", "question": "임금이 남재의 집에 제사하러 거둥했을 때 맞이한 상주는?"}
+{"id": "PJ-006a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-006", "question": "태조 묘정 배향 위차에서 충경공의 신주는 첫째 줄 몇째 자리인가?"}
+{"id": "PJ-006b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-006", "question": "태조 묘정 배향 위차에서 남재의 신주는 첫째 줄 몇째 자리인가?"}
+{"id": "PJ-007a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-007", "question": "맹가첩목아가 아목하로 돌아올 때 거느린 관하 백성은 몇 호인가?"}
+{"id": "PJ-007b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-007", "question": "동맹가첩목아가 아목하에 돌아올 때 데려온 관하 백성은 몇 호인가?"}
+{"id": "PJ-008a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-008", "question": "건주좌위 지휘사가 관하 40여 명과 함께 명에 조회할 때 데려간 동생은?"}
+{"id": "PJ-008b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-008", "question": "동맹가첩목아가 관하 40여 명과 함께 명에 조회할 때 데려간 동생은?"}
+{"id": "PJ-009a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-009", "question": "세종의 원자가 성균관에 입학해 속수례를 행한 박사는?"}
+{"id": "PJ-009b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-009", "question": "이향이 성균관에 입학해 속수례를 행한 박사는?"}
+{"id": "PJ-010a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-010", "question": "세종의 왕세자가 친영으로 맞아들인 배필은?"}
+{"id": "PJ-010b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-010", "question": "이향이 친영으로 맞아들인 배필은?"}
+{"id": "PJ-011a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-011", "question": "창녕부원군이 졸했을 때 나이는 몇 살인가?"}
+{"id": "PJ-011b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-011", "question": "성석린이 졸했을 때 나이는 몇 살인가?"}
+{"id": "PJ-012a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-012", "question": "독곡수가 한가할 때 늘 앉던 나무 의자의 이름은?"}
+{"id": "PJ-012b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-012", "question": "성석린이 한가할 때 늘 앉던 나무 의자의 이름은?"}
+{"id": "PJ-013a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-013", "question": "상왕의 지적 전에 주상이 처음 정한 중궁 명호는?"}
+{"id": "PJ-013b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-013", "question": "상왕의 지적 전에 세종이 처음 정한 중궁 명호는?"}
+{"id": "PJ-014a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-014", "question": "충녕이 즉위하며 백관의 조하를 받은 곳은?"}
+{"id": "PJ-014b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-014", "question": "이도가 즉위하며 백관의 조하를 받은 곳은?"}
+{"id": "PJ-015a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-015", "question": "공비가 어머니 안씨 집에서 잔치하고 궁에 돌아온 시각은?"}
+{"id": "PJ-015b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-015", "question": "소헌왕후가 어머니 안씨 집에서 잔치하고 궁에 돌아온 시각은?"}
+{"id": "PJ-016a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-016", "question": "한성 대화재 때 공비가 반드시 힘써 끄라 한 두 곳은?"}
+{"id": "PJ-016b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-016", "question": "한성 대화재 때 중궁이 반드시 힘써 끄라 한 두 곳은?"}
+{"id": "PJ-017a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-017", "question": "이제(李褆)의 집 창호 쇠를 병기로 의심했다가 처벌된 수령은?"}
+{"id": "PJ-017b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-017", "question": "양녕대군의 집 창호 쇠를 병기로 의심했다가 처벌된 수령은?"}
+{"id": "PJ-018a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-018", "question": "이제(李褆)의 맏아들이 가정대부로 봉해지며 받은 군호는?"}
+{"id": "PJ-018b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-018", "question": "양녕의 맏아들이 가정대부로 봉해지며 받은 군호는?"}
+{"id": "PJ-019a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-019", "question": "곡산군이 하경복과 함께 길주 읍성 자리로 청한 곳은?"}
+{"id": "PJ-019b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-019", "question": "연사종이 하경복과 함께 길주 읍성 자리로 청한 곳은?"}
+{"id": "PJ-020a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-020", "question": "낙천정 주연에서 곡산군의 국부민빈 발언을 반박한 이는?"}
+{"id": "PJ-020b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-020", "question": "낙천정 주연에서 연사종의 국부민빈 발언을 반박한 이는?"}
+{"id": "PJ-021a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-021", "question": "태후가 수강궁 별전에서 훙서했을 때 춘추는?"}
+{"id": "PJ-021b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-021", "question": "원경왕후가 수강궁 별전에서 훙서했을 때 춘추는?"}
+{"id": "PJ-022a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-022", "question": "별전에서 훙서한 원경왕태후의 지문을 지어 올린 이는?"}
+{"id": "PJ-022b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-022", "question": "별전에서 훙서한 대비의 지문을 지어 올린 이는?"}
+{"id": "PJ-023a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-023", "question": "柳寬으로 적히는 인물이 사직을 거부당한 뒤 오른 정승 자리는?"}
+{"id": "PJ-023b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-023", "question": "柳觀으로 적히는 인물이 사직을 거부당한 뒤 오른 정승 자리는?"}
+{"id": "PJ-024a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-024", "question": "柳寬으로 적히는 인물이 사직 전문에서 쇠약한 근력을 가엾이 여겨 받았다는 하사품은?"}
+{"id": "PJ-024b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-024", "question": "柳觀으로 적히는 인물이 사직 전문에서 쇠약한 근력을 가엾이 여겨 받았다는 하사품은?"}
+{"id": "PJ-025a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-025", "question": "상선감 좌소감의 청으로 서흥이 오른 고을 등급은?"}
+{"id": "PJ-025b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-025", "question": "윤봉의 청으로 서흥이 오른 고을 등급은?"}
+{"id": "PJ-026a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-026", "question": "윤 대인이 요구해 승문원이 베껴 써 준 노래는?"}
+{"id": "PJ-026b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-026", "question": "윤봉이 요구해 승문원이 베껴 써 준 노래는?"}
+{"id": "PJ-027a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-027", "question": "회안대군이 병들어 죽은 고을은?"}
+{"id": "PJ-027b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-027", "question": "이방간이 병들어 죽은 고을은?"}
+{"id": "PJ-028a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-028", "question": "태종이 회안을 살려 주며 본받겠다고 한 중국 황제는?"}
+{"id": "PJ-028b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-028", "question": "태종이 이방간을 살려 주며 본받겠다고 한 중국 황제는?"}
+{"id": "PJ-029a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-029", "question": "아버지 장천군을 따라 종군하기를 청한 사헌부 감찰은?"}
+{"id": "PJ-029b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-029", "question": "아버지 이종무를 따라 종군하기를 청한 사헌부 감찰은?"}
+{"id": "PJ-030a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-030", "question": "장천군이 거제도를 떠날 때 거느린 병선 수는?"}
+{"id": "PJ-030b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-030", "question": "이종무가 거제도를 떠날 때 거느린 병선 수는?"}
+{"id": "PJ-031a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-031", "question": "성산부원군이 8년간 문 닫고 글만 읽으며 지낸 고을은?"}
+{"id": "PJ-031b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-031", "question": "이직이 8년간 문 닫고 글만 읽으며 지낸 고을은?"}
+{"id": "PJ-032a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-032", "question": "태종이 성산부원군까지 미워하게 된 빌미인 그의 사위는?"}
+{"id": "PJ-032b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-032", "question": "태종이 이직까지 미워하게 된 빌미인 그의 사위는?"}
+{"id": "PJ-033a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-033", "question": "'노상왕'이라 불린 임금이 훙서할 때 향년은?"}
+{"id": "PJ-033b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-033", "question": "'인덕궁'이라 불린 임금이 훙서할 때 향년은?"}
+{"id": "PJ-034a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-034", "question": "명에 보낸 행장에 적힌 노상왕의 휘는?"}
+{"id": "PJ-034b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-034", "question": "명에 보낸 행장에 적힌 공정대왕의 휘는?"}
+{"id": "PJ-035a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-035", "question": "김도련 노비 뇌물 사건으로 한평군이 부처된 고을은?"}
+{"id": "PJ-035b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-035", "question": "김도련 노비 뇌물 사건으로 조연이 부처된 고을은?"}
+{"id": "PJ-036a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-036", "question": "병든 연사종을 대신해 한평부원군이 맡게 된 자리는?"}
+{"id": "PJ-036b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-036", "question": "병든 연사종을 대신해 조연이 맡게 된 자리는?"}
+{"id": "PJ-037a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-037", "question": "대마도 수호의 선부에게 부의를 보내고 제사 지내 준 조선 경차관은?"}
+{"id": "PJ-037b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-037", "question": "종정무에게 부의를 보내고 제사 지내 준 조선 경차관은?"}
+{"id": "PJ-038a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-038", "question": "돌아가신 수호공의 아들로 왜인 23인의 송환을 청한 이는?"}
+{"id": "PJ-038b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-038", "question": "종정무의 아들로 왜인 23인의 송환을 청한 이는?"}
+{"id": "PJ-039a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-039", "question": "종도도웅와가 도이단도로 편에 항복을 표하며 내려 달라 청한 것은?"}
+{"id": "PJ-039b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-039", "question": "종정성이 도이단도로 편에 항복을 표하며 내려 달라 청한 것은?"}
+{"id": "PJ-040a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-040", "question": "송희경이 돌아올 때 절교를 말한 도도웅와의 아우는?"}
+{"id": "PJ-040b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-040", "question": "송희경이 돌아올 때 절교를 말한 종정성의 아우는?"}
+{"id": "PJ-041a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-041", "question": "대마도 도만호가 일본국왕의 훙서를 알려 오자 답례로 받은 정포는?"}
+{"id": "PJ-041b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-041", "question": "좌위문대랑이 일본국왕의 훙서를 알려 오자 답례로 받은 정포는?"}
+{"id": "PJ-042a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-042", "question": "대마도 도만호가 유황 2000근을 바치며 배를 만들게 해 달라 청한 포구는?"}
+{"id": "PJ-042b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-042", "question": "좌위문대랑이 유황 2000근을 바치며 배를 만들게 해 달라 청한 포구는?"}
+{"id": "PJ-043a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-043", "question": "최원이 판경승부사를 거쳐 옮겨 간 판서 자리는?"}
+{"id": "PJ-043b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-043", "question": "최이가 판경승부사를 거쳐 옮겨 간 판서 자리는?"}
+{"id": "PJ-044a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-044", "question": "최원의 아버지로 강릉군에 봉해진 이는?"}
+{"id": "PJ-044b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-044", "question": "최이의 아버지로 강릉군에 봉해진 이는?"}
+{"id": "PJ-045a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-045", "question": "상왕이 군사 일을 직접 결단하며 주상이 넘기를 기다린다 한 나이는?"}
+{"id": "PJ-045b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-045", "question": "이방원이 군사 일을 직접 결단하며 주상이 넘기를 기다린다 한 나이는?"}
+{"id": "PJ-046a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-046", "question": "상왕이 열세 살 때 머물렀다고 회고한 절은?"}
+{"id": "PJ-046b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-046", "question": "태종이 열세 살 때 머물렀다고 회고한 절은?"}
+{"id": "PJ-047a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-047", "question": "평 장군의 아들로 내이포에서 주벌된 자는?"}
+{"id": "PJ-047b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-047", "question": "평도전의 아들로 내이포에서 주벌된 자는?"}
+{"id": "PJ-048a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-048", "question": "평 장군이 처자식 등 14명과 함께 안치된 곳은?"}
+{"id": "PJ-048b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-048", "question": "평도전이 처자식 등 14명과 함께 안치된 곳은?"}
+{"id": "PJ-049a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-049", "question": "서원부원군이 졸했을 때 나이는?"}
+{"id": "PJ-049b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-049", "question": "한상경이 졸했을 때 나이는?"}
+{"id": "PJ-050a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-050", "question": "신재가 태조에게 옥새를 바친 공으로 처음 받은 공신 칭호는?"}
+{"id": "PJ-050b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-050", "question": "한상경이 태조에게 옥새를 바친 공으로 처음 받은 공신 칭호는?"}
+{"id": "PJ-051a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-051", "question": "광록시 소경의 아우로 의영고 승이 된 이는?"}
+{"id": "PJ-051b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-051", "question": "한확의 아우로 의영고 승이 된 이는?"}
+{"id": "PJ-052a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-052", "question": "광록시 소경의 어머니 김씨가 졸하자 내린 종이는 몇 권인가?"}
+{"id": "PJ-052b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-052", "question": "한확의 어머니 김씨가 졸하자 내린 종이는 몇 권인가?"}
+{"id": "PJ-053a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-053", "question": "임금이 효령군의 서강 별서 강가 정자에 지어 준 이름은?"}
+{"id": "PJ-053b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-053", "question": "임금이 이보의 서강 별서 강가 정자에 지어 준 이름은?"}
+{"id": "PJ-054a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-054", "question": "태어나 열흘도 안 돼 병난 효령을 맡겨 기르게 한 집의 주인은?"}
+{"id": "PJ-054b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-054", "question": "태어나 열흘도 안 돼 병난 효령대군을 맡겨 기르게 한 집의 주인은?"}
+{"id": "PJ-055a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-055", "question": "왕세자빈에게 내릴 죽책문을 지어 바친 이는?"}
+{"id": "PJ-055b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-055", "question": "휘빈에게 내릴 죽책문을 지어 바친 이는?"}
+{"id": "PJ-056a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-056", "question": "세자빈의 어머니 정씨가 받은 봉작은?"}
+{"id": "PJ-056b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-056", "question": "휘빈의 어머니 정씨가 받은 봉작은?"}
+{"id": "PJ-057a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-057", "question": "원 참의가 양녕대군에게 죄주기를 상소할 때 맡은 관직은?"}
+{"id": "PJ-057b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-057", "question": "원숙이 양녕대군에게 죄주기를 상소할 때 맡은 관직은?"}
+{"id": "PJ-058a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-058", "question": "지여연군사가 올량합을 물리치고 급보하러 보낸 진무는?"}
+{"id": "PJ-058b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-058", "question": "이안길이 올량합을 물리치고 급보하러 보낸 진무는?"}
+{"id": "PJ-059a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-059", "question": "걸어서 옥에 나아간 우의정이 대질해 다툰 상대는?"}
+{"id": "PJ-059b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-059", "question": "걸어서 옥에 나아간 이원이 대질해 다툰 상대는?"}
+{"id": "PJ-060a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-060", "question": "창원군이 양광도 도관찰사로서 건의해 처음 세운 창고는?"}
+{"id": "PJ-060b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-060", "question": "성석린이 양광도 도관찰사로서 건의해 처음 세운 창고는?"}
+{"id": "PJ-061a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-061", "question": "조말생이 대부 벼슬을 준 김도련(金道鍊)의 아들은?"}
+{"id": "PJ-061b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-061", "question": "조말생이 대부 벼슬을 준 김도련(金道練)의 아들은?"}
+{"id": "PJ-062a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-062", "question": "김점(金點)이 풍년에는 사전 손실 조사를 맡기자고 한 쪽은?"}
+{"id": "PJ-062b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-062", "question": "김점(金漸)이 풍년에는 사전 손실 조사를 맡기자고 한 쪽은?"}
+{"id": "PJ-063a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-063", "question": "허조가 참찬의정부사가 된 인사에서 박안신(朴安信)이 받은 자리는?"}
+{"id": "PJ-063b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-063", "question": "허조가 참찬의정부사가 된 인사에서 박안신(朴安臣)이 받은 자리는?"}
+{"id": "PJ-064a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-064", "question": "도총제 최윤덕(崔潤德)이 농사를 심하게 망쳤다고 상왕에게 아뢴 고을은?"}
+{"id": "PJ-064b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-064", "question": "도총제 최윤덕(崔閏德)이 농사를 심하게 망쳤다고 상왕에게 아뢴 고을은?"}
+{"id": "PJ-065a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-065", "question": "유영(柳頴)이 형조 참판에서 파면된 것은 무엇을 훔친 사건 때문인가?"}
+{"id": "PJ-065b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-065", "question": "유영(柳穎)이 형조 참판에서 파면된 것은 무엇을 훔친 사건 때문인가?"}
+{"id": "PJ-066a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-066", "question": "직첩을 돌려받은 김타(金它)가 그것을 회수당할 때의 관직은?"}
+{"id": "PJ-066b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-066", "question": "직첩을 돌려받은 김타(金沱)가 그것을 회수당할 때의 관직은?"}
+{"id": "PJ-067a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-067", "question": "병조 참판 성엄(成渰)이 대신들과 함께 궁중 소견을 문제 삼은 대군은?"}
+{"id": "PJ-067b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-067", "question": "병조 참판 성엄(成揜)이 대신들과 함께 궁중 소견을 문제 삼은 대군은?"}
+{"id": "PJ-068a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-068", "question": "이천 수령 박고(朴翶)가 조사한 사건에서 동리 사람을 죽게 한 술은?"}
+{"id": "PJ-068b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-068", "question": "이천 수령 박고(朴翺)가 조사한 사건에서 동리 사람을 죽게 한 술은?"}
+{"id": "PJ-069a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-069", "question": "충경공이 고소한 이를 핍박해 죽게 할 때 제조로 있던 관서는?"}
+{"id": "PJ-069b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-069", "question": "남재가 고소한 이를 핍박해 죽게 할 때 제조로 있던 관서는?"}
+{"id": "PJ-070a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-070", "question": "야은에게 좌사간대부를 추증하며 함께 내린 품계는?"}
+{"id": "PJ-070b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-070", "question": "길재에게 좌사간대부를 추증하며 함께 내린 품계는?"}
+{"id": "PJ-071a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-071", "question": "정비 소생 아니어도 친왕자라야 한다며 이비(李裶)를 사은케 한 명 사신은?"}
+{"id": "PJ-071b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-071", "question": "정비 소생 아니어도 친왕자라야 한다며 경녕군을 사은케 한 명 사신은?"}
+{"id": "PJ-072a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-072", "question": "태상왕이 원자를 내보이며 세자 책봉을 잘 아뢰어 달라 한 명 사신은?"}
+{"id": "PJ-072b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-072", "question": "태상왕이 이향을 내보이며 세자 책봉을 잘 아뢰어 달라 한 명 사신은?"}
+{"id": "PJ-073a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-073", "question": "임금이 효령군의 잔을 일어서 받은 까닭을 명 사신에게 풀어 준 신하는?"}
+{"id": "PJ-073b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-073", "question": "임금이 이보의 잔을 일어서 받은 까닭을 명 사신에게 풀어 준 신하는?"}
+{"id": "PJ-074a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-074", "question": "유계문이 아목하에 갔을 때 건주좌위 도지휘사가 마중하며 이끈 병사 수는?"}
+{"id": "PJ-074b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-074", "question": "유계문이 아목하에 갔을 때 동맹가첩목아가 마중하며 이끈 병사 수는?"}
+{"id": "PJ-075a", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-075", "question": "장천부원군이 졸했을 때 받은 시호는?"}
+{"id": "PJ-075b", "category": "인물판정", "sub": "같은 사람", "pair_id": "PJ-075", "question": "이종무가 졸했을 때 받은 시호는?"}
+{"id": "PJ-076a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-076", "question": "이비(李裶)가 받은 군호는?"}
+{"id": "PJ-076b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-076", "question": "이인(李裀)이 받은 군호는?"}
+{"id": "PJ-077a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-077", "question": "효령대군의 이름은 무엇인가?"}
+{"id": "PJ-077b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-077", "question": "양녕대군의 이름은 무엇인가?"}
+{"id": "PJ-078a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-078", "question": "이제(李濟)가 받은 군호는?"}
+{"id": "PJ-078b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-078", "question": "이제(李褆)가 받은 군호는?"}
+{"id": "PJ-079a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-079", "question": "이원생이 받은 군호는?"}
+{"id": "PJ-079b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-079", "question": "이군생이 받은 군호는?"}
+{"id": "PJ-080a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-080", "question": "이원이 받은 부원군 봉호는?"}
+{"id": "PJ-080b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-080", "question": "이직이 받은 부원군 봉호는?"}
+{"id": "PJ-081a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-081", "question": "남은이 받은 군호는?"}
+{"id": "PJ-081b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-081", "question": "남재가 받은 군호는?"}
+{"id": "PJ-082a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-082", "question": "정탁이 우의정이 된 인사에서 성억의 새 관직은?"}
+{"id": "PJ-082b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-082", "question": "정탁이 우의정이 된 인사에서 성엄의 새 관직은?"}
+{"id": "PJ-083a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-083", "question": "김종서가 우정언이 된 인사에서 성억의 새 관직은?"}
+{"id": "PJ-083b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-083", "question": "김종서가 우정언이 된 인사에서 성엄의 새 관직은?"}
+{"id": "PJ-084a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-084", "question": "정기가 사헌부 지평이 된 인사에서 허지의 새 관직은?"}
+{"id": "PJ-084b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-084", "question": "정기가 사헌부 지평이 된 인사에서 허조의 새 관직은?"}
+{"id": "PJ-085a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-085", "question": "탁신이 예문관 제학이 된 인사에서 허해의 새 관직은?"}
+{"id": "PJ-085b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-085", "question": "탁신이 예문관 제학이 된 인사에서 허지의 새 관직은?"}
+{"id": "PJ-086a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-086", "question": "송희경이 선공감 정이 된 인사에서 김맹성의 새 관직은?"}
+{"id": "PJ-086b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-086", "question": "송희경이 선공감 정이 된 인사에서 맹사성의 새 관직은?"}
+{"id": "PJ-087a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-087", "question": "조견이 판우군도총제부사가 된 인사에서 이맹균의 새 관직은?"}
+{"id": "PJ-087b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-087", "question": "조견이 판우군도총제부사가 된 인사에서 맹사성의 새 관직은?"}
+{"id": "PJ-088a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-088", "question": "황희가 다시 좌의정이 된 인사에서 이맹균의 새 관직은?"}
+{"id": "PJ-088b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-088", "question": "황희가 다시 좌의정이 된 인사에서 김맹성의 새 관직은?"}
+{"id": "PJ-089a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-089", "question": "은영연 주관을 나눌 때 이지실이 맡은 쪽은?"}
+{"id": "PJ-089b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-089", "question": "은영연 주관을 나눌 때 이지강이 맡은 쪽은?"}
+{"id": "PJ-090a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-090", "question": "은영연을 주관할 때 유영의 관직은?"}
+{"id": "PJ-090b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-090", "question": "은영연을 주관할 때 유관의 관직은?"}
+{"id": "PJ-091a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-091", "question": "살곶이 전토를 나눠 줄 때 서진이 받은 양은?"}
+{"id": "PJ-091b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-091", "question": "살곶이 전토를 나눠 줄 때 서선이 받은 양은?"}
+{"id": "PJ-092a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-092", "question": "표운평 치사 사건 처결에서 서선이 받은 처분은?"}
+{"id": "PJ-092b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-092", "question": "표운평 치사 사건 처결에서 서달이 받은 처분은?"}
+{"id": "PJ-093a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-093", "question": "정수홍이 우사간대부가 된 인사에서 박광연의 새 관직은?"}
+{"id": "PJ-093b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-093", "question": "정수홍이 우사간대부가 된 인사에서 박관의 새 관직은?"}
+{"id": "PJ-094a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-094", "question": "윤회가 예문관 제학이 된 인사에서 김익생의 새 관직은?"}
+{"id": "PJ-094b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-094", "question": "윤회가 예문관 제학이 된 인사에서 김익정의 새 관직은?"}
+{"id": "PJ-095a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-095", "question": "김종서가 집의가 된 인사에서 김자갱의 새 관직은?"}
+{"id": "PJ-095b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-095", "question": "김종서가 집의가 된 인사에서 김자의 새 관직은?"}
+{"id": "PJ-096a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-096", "question": "황희가 판우군도총제부사가 된 인사에서 이징석의 새 관직은?"}
+{"id": "PJ-096b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-096", "question": "황희가 판우군도총제부사가 된 인사에서 이징의 새 관직은?"}
+{"id": "PJ-097a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-097", "question": "강상인 진술에서 심정을 부른 관직은?"}
+{"id": "PJ-097b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-097", "question": "강상인 진술에서 심온을 부른 관직은?"}
+{"id": "PJ-098a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-098", "question": "강상인 옥사로 심정이 죽은 방식은?"}
+{"id": "PJ-098b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-098", "question": "강상인 옥사로 심온이 죽은 방식은?"}
+{"id": "PJ-099a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-099", "question": "박자청이 참찬이 된 인사에서 심징의 새 관직은?"}
+{"id": "PJ-099b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-099", "question": "박자청이 참찬이 된 인사에서 심정의 새 관직은?"}
+{"id": "PJ-100a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-100", "question": "조말생이 병조 판서가 된 인사에서 원윤(元胤)의 새 관직은?"}
+{"id": "PJ-100b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-100", "question": "조말생이 병조 판서가 된 인사에서 원숙(元肅)의 새 관직은?"}
+{"id": "PJ-101a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-101", "question": "고석정 들판 술자리에 불린 조종생의 정식 관직은?"}
+{"id": "PJ-101b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-101", "question": "고석정 들판 술자리에 불린 조말생의 정식 관직은?"}
+{"id": "PJ-102a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-102", "question": "진언을 올린 신장 쪽은 모두 몇 인인가?"}
+{"id": "PJ-102b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-102", "question": "진언을 올린 신상 쪽은 모두 몇 인인가?"}
+{"id": "PJ-103a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-103", "question": "최윤덕이 공조 판서가 된 인사에서 신호의 새 관직은?"}
+{"id": "PJ-103b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-103", "question": "최윤덕이 공조 판서가 된 인사에서 신장의 새 관직은?"}
+{"id": "PJ-104a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-104", "question": "강상인 옥사 때 박습의 관직은?"}
+{"id": "PJ-104b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-104", "question": "강상인 옥사 때 박은의 관직은?"}
+{"id": "PJ-105a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-105", "question": "한검이 영돈녕부사가 된 인사에서 이종선의 직함은?"}
+{"id": "PJ-105b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-105", "question": "한검이 영돈녕부사가 된 인사에서 이종무의 직함은?"}
+{"id": "PJ-106a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-106", "question": "신상이 대사헌이 된 인사에서 정진(鄭津)의 새 관직은?"}
+{"id": "PJ-106b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-106", "question": "신상이 대사헌이 된 인사에서 정연(鄭淵)의 새 관직은?"}
+{"id": "PJ-107a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-107", "question": "장윤화가 이조 참의가 된 인사에서 정초(鄭招)의 새 관직은?"}
+{"id": "PJ-107b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-107", "question": "장윤화가 이조 참의가 된 인사에서 정진(鄭津)의 새 관직은?"}
+{"id": "PJ-108a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-108", "question": "연사종이 곡산군이 된 인사에서 유장의 새 관직은?"}
+{"id": "PJ-108b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-108", "question": "연사종이 곡산군이 된 인사에서 유영의 새 관직은?"}
+{"id": "PJ-109a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-109", "question": "사은 전문을 올린 하경리의 관직은?"}
+{"id": "PJ-109b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-109", "question": "사은 전문을 올린 하경복의 관직은?"}
+{"id": "PJ-110a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-110", "question": "허조가 이조 판서가 된 인사에서 김자지의 새 관직은?"}
+{"id": "PJ-110b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-110", "question": "허조가 이조 판서가 된 인사에서 김여지의 새 관직은?"}
+{"id": "PJ-111a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-111", "question": "강상인의 아우 강상례가 유배된 곳은?"}
+{"id": "PJ-111b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-111", "question": "강상인의 아우 강상신이 유배된 곳은?"}
+{"id": "PJ-112a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-112", "question": "강상인의 아우 강상려가 유배된 곳은?"}
+{"id": "PJ-112b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-112", "question": "강상인의 아우 강상망이 유배된 곳은?"}
+{"id": "PJ-113a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-113", "question": "박습의 아들 박의보가 유배된 곳은?"}
+{"id": "PJ-113b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-113", "question": "박습의 아들 박의손이 유배된 곳은?"}
+{"id": "PJ-114a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-114", "question": "강상인 옥사 최종 처결에서 이각(李慤)의 처분은?"}
+{"id": "PJ-114b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-114", "question": "강상인 옥사 최종 처결에서 이관(李灌)의 처분은?"}
+{"id": "PJ-115a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-115", "question": "심도원이 우사간대부가 된 인사에서 최관의 새 관직은?"}
+{"id": "PJ-115b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-115", "question": "심도원이 우사간대부가 된 인사에서 최부의 새 관직은?"}
+{"id": "PJ-116a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-116", "question": "정경이 전주 부윤이 된 인사에서 최운(崔沄)의 새 관직은?"}
+{"id": "PJ-116b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-116", "question": "정경이 전주 부윤이 된 인사에서 최견(崔蠲)의 새 관직은?"}
+{"id": "PJ-117a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-117", "question": "노한이 형조 판서가 된 인사에서 정초의 새 관직은?"}
+{"id": "PJ-117b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-117", "question": "노한이 형조 판서가 된 인사에서 정연의 새 관직은?"}
+{"id": "PJ-118a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-118", "question": "심도원이 이조 참판이 된 인사에서 성개의 새 관직은?"}
+{"id": "PJ-118b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-118", "question": "심도원이 이조 참판이 된 인사에서 성엄의 새 관직은?"}
+{"id": "PJ-119a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-119", "question": "양녕대군 대우를 간한 연명에서 신개의 관직은?"}
+{"id": "PJ-119b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-119", "question": "양녕대군 대우를 간한 연명에서 신상의 관직은?"}
+{"id": "PJ-120a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-120", "question": "양녕대군 대우를 간한 연명에서 황상의 관직은?"}
+{"id": "PJ-120b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-120", "question": "양녕대군 대우를 간한 연명에서 황희의 관직은?"}
+{"id": "PJ-121a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-121", "question": "권담은 권도의 무엇인가?"}
+{"id": "PJ-121b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-121", "question": "권근은 권도의 무엇인가?"}
+{"id": "PJ-122a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-122", "question": "태종 가계 기록에서 정연의 사위는?"}
+{"id": "PJ-122b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-122", "question": "태종 가계 기록에서 정역의 사위는?"}
+{"id": "PJ-123a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-123", "question": "아록위전 논의에서 이천의 관직은?"}
+{"id": "PJ-123b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-123", "question": "아록위전 논의에서 이발의 관직은?"}
+{"id": "PJ-124a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-124", "question": "시위 절제사 배정에서 이백온이 맡은 자리는?"}
+{"id": "PJ-124b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-124", "question": "시위 절제사 배정에서 이백강이 맡은 자리는?"}
+{"id": "PJ-125a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-125", "question": "강무 수가 논의에서 허성의 관직은?"}
+{"id": "PJ-125b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-125", "question": "강무 수가 논의에서 허조의 관직은?"}
+{"id": "PJ-126a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-126", "question": "정조 하례차 경사에 보낸 조치의 관직은?"}
+{"id": "PJ-126b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-126", "question": "정조 하례차 경사에 보낸 조비형의 관직은?"}
+{"id": "PJ-127a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-127", "question": "영락제 진위 사행 기사에서 안숭선의 관직은?"}
+{"id": "PJ-127b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-127", "question": "영락제 진위 사행 기사에서 안순의 관직은?"}
+{"id": "PJ-128a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-128", "question": "대마도 정벌 편성에서 이순몽의 직책은?"}
+{"id": "PJ-128b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-128", "question": "대마도 정벌 편성에서 이종무의 직책은?"}
+{"id": "PJ-129a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-129", "question": "황엄이 돌아갈 때 원민생이 맡은 일은?"}
+{"id": "PJ-129b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-129", "question": "황엄이 돌아갈 때 원숙이 맡은 일은?"}
+{"id": "PJ-130a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-130", "question": "강상인 옥사 처결에서 심인봉이 유배된 곳은?"}
+{"id": "PJ-130b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-130", "question": "강상인 옥사 처결에서 심징이 유배된 곳은?"}
+{"id": "PJ-131a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-131", "question": "사헌부 탄핵 기사에서 이의생의 작호는?"}
+{"id": "PJ-131b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-131", "question": "사헌부 탄핵 기사에서 이군생의 작호는?"}
+{"id": "PJ-132a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-132", "question": "해주 강무 때 이덕명의 직임은?"}
+{"id": "PJ-132b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-132", "question": "해주 강무 때 이명덕의 직임은?"}
+{"id": "PJ-133a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-133", "question": "양녕대군을 논한 대성 합동 상소에서 박고의 직분은?"}
+{"id": "PJ-133b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-133", "question": "양녕대군을 논한 대성 합동 상소에서 박관의 직분은?"}
+{"id": "PJ-134a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-134", "question": "공녕군의 이름은 무엇인가?"}
+{"id": "PJ-134b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-134", "question": "경녕군의 이름은 무엇인가?"}
+{"id": "PJ-135a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-135", "question": "태종 가계 기록에서 성녕대군의 장인은?"}
+{"id": "PJ-135b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-135", "question": "태종 가계 기록에서 양녕대군의 장인은?"}
+{"id": "PJ-136a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-136", "question": "수가 기록에 나오는 김월하의 관직은?"}
+{"id": "PJ-136b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-136", "question": "수가 기록에 나오는 장월하의 관직은?"}
+{"id": "PJ-137a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-137", "question": "조견이 받은 부원군 봉호는?"}
+{"id": "PJ-137b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-137", "question": "조연이 받은 부원군 봉호는?"}
+{"id": "PJ-138a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-138", "question": "이원이 좌의정이 된 인사에서 박자청의 새 직함은?"}
+{"id": "PJ-138b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-138", "question": "이원이 좌의정이 된 인사에서 박은의 새 직함은?"}
+{"id": "PJ-139a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-139", "question": "봉숭도감을 설치할 때 박신(朴信)이 맡은 자리는?"}
+{"id": "PJ-139b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-139", "question": "봉숭도감을 설치할 때 박은(朴訔)이 맡은 자리는?"}
+{"id": "PJ-140a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-140", "question": "권희달 처벌을 청한 연명에서 유관의 관직은?"}
+{"id": "PJ-140b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-140", "question": "권희달 처벌을 청한 연명에서 유정현의 관직은?"}
+{"id": "PJ-141a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-141", "question": "전시 대독관으로 나간 정흠지의 관직은?"}
+{"id": "PJ-141b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-141", "question": "전시 대독관으로 나간 정초의 관직은?"}
+{"id": "PJ-142a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-142", "question": "하경복이 참찬이 된 인사에서 안수산의 새 관직은?"}
+{"id": "PJ-142b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-142", "question": "하경복이 참찬이 된 인사에서 안순의 새 관직은?"}
+{"id": "PJ-143a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-143", "question": "김타가 집의가 된 인사에서 황보인의 새 관직은?"}
+{"id": "PJ-143b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-143", "question": "김타가 집의가 된 인사에서 황희의 새 관직은?"}
+{"id": "PJ-144a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-144", "question": "종정무의 아버지는?"}
+{"id": "PJ-144b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-144", "question": "종정성의 아버지는?"}
+{"id": "PJ-145a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-145", "question": "사헌부에서 김자이가 맡았던 관직은?"}
+{"id": "PJ-145b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-145", "question": "사헌부에서 김자지가 맡았던 관직은?"}
+{"id": "PJ-146a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-146", "question": "주상의 비인 공비의 아버지는?"}
+{"id": "PJ-146b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-146", "question": "상왕의 비인 대비의 아버지는?"}
+{"id": "PJ-147a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-147", "question": "'노상왕'으로 불린 임금의 능호는?"}
+{"id": "PJ-147b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-147", "question": "'태상왕'으로 불리다 훙서한 임금의 능호는?"}
+{"id": "PJ-148a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-148", "question": "사헌부의 탄핵을 받을 때 조치(曺致)의 관직은?"}
+{"id": "PJ-148b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-148", "question": "사헌부의 탄핵을 받을 때 조치(趙菑)의 관직은?"}
+{"id": "PJ-149a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-149", "question": "원접사 이맹균의 계문에 적힌 박실의 사신 직함은?"}
+{"id": "PJ-149b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-149", "question": "과전 환급 전지에 적힌 박실의 전 직함은?"}
+{"id": "PJ-150a", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-150", "question": "논죄 끝에 박신(朴晨)이 실제로 받은 처분은?"}
+{"id": "PJ-150b", "category": "인물판정", "sub": "다른 사람", "pair_id": "PJ-150", "question": "논핵 끝에 박신(朴信)이 실제로 받은 처분은?"}
+{"id": "TR-001a", "category": "시간추론", "sub": "", "pair_id": "TR-001", "question": "강상인이 단천 관노로 정속되기 직전 그에게 내려진 처분은?"}
+{"id": "TR-001b", "category": "시간추론", "sub": "", "pair_id": "TR-001", "question": "강상인이 단천 관노로 정속된 직후 그에게 내려진 처분은?"}
+{"id": "TR-002a", "category": "시간추론", "sub": "", "pair_id": "TR-002", "question": "고약해가 지통례문사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-002b", "category": "시간추론", "sub": "", "pair_id": "TR-002", "question": "고약해가 지통례문사에 제수된 직후 받은 관직은?"}
+{"id": "TR-003a", "category": "시간추론", "sub": "", "pair_id": "TR-003", "question": "권진이 나이 69세라며 사직을 청하기 직전 제수된 관직은?"}
+{"id": "TR-003b", "category": "시간추론", "sub": "", "pair_id": "TR-003", "question": "권진이 나이 69세라며 사직을 청한 직후 제수된 관직은?"}
+{"id": "TR-004a", "category": "시간추론", "sub": "", "pair_id": "TR-004", "question": "권채 부부가 사실대로 말하지 않았다고 의금부 제조가 아뢴 직전 권채에게 내린 처분은?"}
+{"id": "TR-004b", "category": "시간추론", "sub": "", "pair_id": "TR-004", "question": "권채 부부가 사실대로 말하지 않았다고 의금부 제조가 아뢴 직후 권채에게 내린 처분은?"}
+{"id": "TR-005a", "category": "시간추론", "sub": "", "pair_id": "TR-005", "question": "김자지가 형조 참판에 제수되기 직전 받은 관직은?"}
+{"id": "TR-005b", "category": "시간추론", "sub": "", "pair_id": "TR-005", "question": "김자지가 형조 참판에 제수된 직후 받은 관직은?"}
+{"id": "TR-006a", "category": "시간추론", "sub": "", "pair_id": "TR-006", "question": "김종서가 의주삭주도 경차관으로 떠난 그해 중순 제수된 관직은?"}
+{"id": "TR-006b", "category": "시간추론", "sub": "", "pair_id": "TR-006", "question": "김종서가 의주삭주도 경차관으로 떠난 그해 말 제수된 관직은?"}
+{"id": "TR-007a", "category": "시간추론", "sub": "", "pair_id": "TR-007", "question": "박관이 김한로의 나주 안치를 청하기 직전 같은 일로 허지가 든 이유는?"}
+{"id": "TR-007b", "category": "시간추론", "sub": "", "pair_id": "TR-007", "question": "박관이 김한로의 나주 안치를 청한 직후 같은 일로 허지가 든 이유는?"}
+{"id": "TR-008a", "category": "시간추론", "sub": "", "pair_id": "TR-008", "question": "조충좌가 교역마를 관압해 요동에 가기 직전 관압관의 직함은?"}
+{"id": "TR-008b", "category": "시간추론", "sub": "", "pair_id": "TR-008", "question": "조충좌가 교역마를 관압해 요동에 간 직후 관압관의 직함은?"}
+{"id": "TR-009a", "category": "시간추론", "sub": "", "pair_id": "TR-009", "question": "박신이 의금부에 갇혀 국문받기 직전 그에게 내려진 결정은?"}
+{"id": "TR-009b", "category": "시간추론", "sub": "", "pair_id": "TR-009", "question": "박신이 의금부에 갇혀 국문받은 직후 그에게 내려진 결정은?"}
+{"id": "TR-010a", "category": "시간추론", "sub": "", "pair_id": "TR-010", "question": "박안신이 공조 참의에 제수되기 직전 받은 관직은?"}
+{"id": "TR-010b", "category": "시간추론", "sub": "", "pair_id": "TR-010", "question": "박안신이 공조 참의에 제수된 직후 받은 관직은?"}
+{"id": "TR-011a", "category": "시간추론", "sub": "", "pair_id": "TR-011", "question": "박자청이 신보안과 함께 의금부에 갇히기 직전 받은 처분은?"}
+{"id": "TR-011b", "category": "시간추론", "sub": "", "pair_id": "TR-011", "question": "박자청이 신보안과 함께 의금부에 갇힌 직후 받은 처분은?"}
+{"id": "TR-012a", "category": "시간추론", "sub": "", "pair_id": "TR-012", "question": "대마도 상선에 염포 무역을 허가한 그해 중순 염포에 둔 수군 장수는?"}
+{"id": "TR-012b", "category": "시간추론", "sub": "", "pair_id": "TR-012", "question": "대마도 상선에 염포 무역을 허가한 그해 말 염포에 둔 수군 장수는?"}
+{"id": "TR-013a", "category": "시간추론", "sub": "", "pair_id": "TR-013", "question": "황희와 맹사성이 서달 사건으로 파직되기 직전 두 사람에게 내린 명은?"}
+{"id": "TR-013b", "category": "시간추론", "sub": "", "pair_id": "TR-013", "question": "황희와 맹사성이 서달 사건으로 파직된 직후 두 사람에게 내린 명은?"}
+{"id": "TR-014a", "category": "시간추론", "sub": "", "pair_id": "TR-014", "question": "서선이 고부 겸 청시사의 부사가 된 전해 그가 맡은 관찰사직은?"}
+{"id": "TR-014b", "category": "시간추론", "sub": "", "pair_id": "TR-014", "question": "서선이 고부 겸 청시사의 부사가 된 이듬해 그가 맡은 관찰사직은?"}
+{"id": "TR-015a", "category": "시간추론", "sub": "", "pair_id": "TR-015", "question": "성달생이 사은 표문을 받들고 경사에 가기 직전 제수된 관직은?"}
+{"id": "TR-015b", "category": "시간추론", "sub": "", "pair_id": "TR-015", "question": "성달생이 사은 표문을 받들고 경사에 간 직후 제수된 관직은?"}
+{"id": "TR-016a", "category": "시간추론", "sub": "", "pair_id": "TR-016", "question": "신장이 원자에게 소학을 가르치라는 명을 받은 그해 중순 제수된 관직은?"}
+{"id": "TR-016b", "category": "시간추론", "sub": "", "pair_id": "TR-016", "question": "신장이 원자에게 소학을 가르치라는 명을 받은 그해 말 제수된 관직은?"}
+{"id": "TR-017a", "category": "시간추론", "sub": "", "pair_id": "TR-017", "question": "신장이 주본 날짜 누락으로 하옥되기 직전 제수된 관직은?"}
+{"id": "TR-017b", "category": "시간추론", "sub": "", "pair_id": "TR-017", "question": "신장이 주본 날짜 누락으로 하옥된 직후 제수된 관직은?"}
+{"id": "TR-018a", "category": "시간추론", "sub": "", "pair_id": "TR-018", "question": "야인이 강계 지경에 들어와 화곡을 불태운 전날 야인이 침입한 곳은?"}
+{"id": "TR-018b", "category": "시간추론", "sub": "", "pair_id": "TR-018", "question": "야인이 강계 지경에 들어와 화곡을 불태운 이튿날 야인이 침입한 곳은?"}
+{"id": "TR-019a", "category": "시간추론", "sub": "", "pair_id": "TR-019", "question": "오승이 처음 판한성부사에 제수된 이듬해 받은 관직은?"}
+{"id": "TR-019b", "category": "시간추론", "sub": "", "pair_id": "TR-019", "question": "오승이 처음 판한성부사에 제수된 후년 받은 관직은?"}
+{"id": "TR-020a", "category": "시간추론", "sub": "", "pair_id": "TR-020", "question": "이순몽이 영천군에 안치되기 직전 그가 받은 처분은?"}
+{"id": "TR-020b", "category": "시간추론", "sub": "", "pair_id": "TR-020", "question": "이순몽이 영천군에 안치된 직후 그가 받은 처분은?"}
+{"id": "TR-021a", "category": "시간추론", "sub": "", "pair_id": "TR-021", "question": "이지강이 평안도 도관찰사가 된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-021b", "category": "시간추론", "sub": "", "pair_id": "TR-021", "question": "이지강이 평안도 도관찰사가 된 후년 그가 제수된 관직은?"}
+{"id": "TR-022a", "category": "시간추론", "sub": "", "pair_id": "TR-022", "question": "정초가 함길도 도관찰사로 나간 이듬해 그가 제수된 관직은?"}
+{"id": "TR-022b", "category": "시간추론", "sub": "", "pair_id": "TR-022", "question": "정초가 함길도 도관찰사로 나간 후년 그가 제수된 관직은?"}
+{"id": "TR-023a", "category": "시간추론", "sub": "", "pair_id": "TR-023", "question": "최사강이 우부대언에 제수된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-023b", "category": "시간추론", "sub": "", "pair_id": "TR-023", "question": "최사강이 우부대언에 제수된 후년 그가 제수된 관직은?"}
+{"id": "TR-024a", "category": "시간추론", "sub": "", "pair_id": "TR-024", "question": "이맹균이 경기 도관찰사에 제수된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-024b", "category": "시간추론", "sub": "", "pair_id": "TR-024", "question": "이맹균이 경기 도관찰사에 제수된 후년 그가 제수된 관직은?"}
+{"id": "TR-025a", "category": "시간추론", "sub": "", "pair_id": "TR-025", "question": "맹사성이 예문관 대제학에 제수된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-025b", "category": "시간추론", "sub": "", "pair_id": "TR-025", "question": "맹사성이 예문관 대제학에 제수된 후년 그가 제수된 관직은?"}
+{"id": "TR-026a", "category": "시간추론", "sub": "", "pair_id": "TR-026", "question": "김자가 신장과 함께 가사예가 된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-026b", "category": "시간추론", "sub": "", "pair_id": "TR-026", "question": "김자가 신장과 함께 가사예가 된 후년 그가 제수된 관직은?"}
+{"id": "TR-027a", "category": "시간추론", "sub": "", "pair_id": "TR-027", "question": "윤회가 집현전 부제학에 제수되기 직전 받은 관직은?"}
+{"id": "TR-027b", "category": "시간추론", "sub": "", "pair_id": "TR-027", "question": "윤회가 집현전 부제학에 제수된 직후 받은 관직은?"}
+{"id": "TR-028a", "category": "시간추론", "sub": "", "pair_id": "TR-028", "question": "곽존중이 동부대언에 제수되기 직전 받은 관직은?"}
+{"id": "TR-028b", "category": "시간추론", "sub": "", "pair_id": "TR-028", "question": "곽존중이 동부대언에 제수된 직후 받은 관직은?"}
+{"id": "TR-029a", "category": "시간추론", "sub": "", "pair_id": "TR-029", "question": "서선이 예조 참판에 제수되기 직전 받은 관직은?"}
+{"id": "TR-029b", "category": "시간추론", "sub": "", "pair_id": "TR-029", "question": "서선이 예조 참판에 제수된 직후 받은 관직은?"}
+{"id": "TR-030a", "category": "시간추론", "sub": "", "pair_id": "TR-030", "question": "유영이 황해도 도관찰사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-030b", "category": "시간추론", "sub": "", "pair_id": "TR-030", "question": "유영이 황해도 도관찰사에 제수된 직후 받은 관직은?"}
+{"id": "TR-031a", "category": "시간추론", "sub": "", "pair_id": "TR-031", "question": "김종서가 판관에 제수되기 직전 받은 관직은?"}
+{"id": "TR-031b", "category": "시간추론", "sub": "", "pair_id": "TR-031", "question": "김종서가 판관에 제수된 직후 받은 관직은?"}
+{"id": "TR-032a", "category": "시간추론", "sub": "", "pair_id": "TR-032", "question": "유계문이 좌사간대부에 제수되기 직전 받은 관직은?"}
+{"id": "TR-032b", "category": "시간추론", "sub": "", "pair_id": "TR-032", "question": "유계문이 좌사간대부에 제수된 직후 받은 관직은?"}
+{"id": "TR-033a", "category": "시간추론", "sub": "", "pair_id": "TR-033", "question": "안순이 의정부 참찬에 제수되기 직전 받은 관직은?"}
+{"id": "TR-033b", "category": "시간추론", "sub": "", "pair_id": "TR-033", "question": "안순이 의정부 참찬에 제수된 직후 받은 관직은?"}
+{"id": "TR-034a", "category": "시간추론", "sub": "", "pair_id": "TR-034", "question": "최사강이 병조 참판에 거듭 제수되기 직전 받은 관직은?"}
+{"id": "TR-034b", "category": "시간추론", "sub": "", "pair_id": "TR-034", "question": "최사강이 병조 참판에 거듭 제수된 직후 받은 관직은?"}
+{"id": "TR-035a", "category": "시간추론", "sub": "", "pair_id": "TR-035", "question": "김자지가 평안도 도관찰사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-035b", "category": "시간추론", "sub": "", "pair_id": "TR-035", "question": "김자지가 평안도 도관찰사에 제수된 직후 받은 관직은?"}
+{"id": "TR-036a", "category": "시간추론", "sub": "", "pair_id": "TR-036", "question": "곽존중이 정초 등과 함께 총제가 되기 직전 제수된 관직은?"}
+{"id": "TR-036b", "category": "시간추론", "sub": "", "pair_id": "TR-036", "question": "곽존중이 정초 등과 함께 총제가 된 직후 제수된 관직은?"}
+{"id": "TR-037a", "category": "시간추론", "sub": "", "pair_id": "TR-037", "question": "박실이 판홍주목사에 제수되기 직전 받은 직임은?"}
+{"id": "TR-037b", "category": "시간추론", "sub": "", "pair_id": "TR-037", "question": "박실이 판홍주목사에 제수된 직후 받은 직임은?"}
+{"id": "TR-038a", "category": "시간추론", "sub": "", "pair_id": "TR-038", "question": "세종이 사간원의 강무 정지 청을 물리친 그해 초 강무한 곳은?"}
+{"id": "TR-038b", "category": "시간추론", "sub": "", "pair_id": "TR-038", "question": "세종이 사간원의 강무 정지 청을 물리친 그해 중순 강무한 곳은?"}
+{"id": "TR-039a", "category": "시간추론", "sub": "", "pair_id": "TR-039", "question": "성달생이 신녕궁주를 위한 법화경 사경을 명받은 그해 초 제수된 관직은?"}
+{"id": "TR-039b", "category": "시간추론", "sub": "", "pair_id": "TR-039", "question": "성달생이 신녕궁주를 위한 법화경 사경을 명받은 그해 말 제수된 관직은?"}
+{"id": "TR-040a", "category": "시간추론", "sub": "", "pair_id": "TR-040", "question": "이맹균이 태상왕 국장에 대가 의장을 쓰자고 청한 그해 초 제수된 관직은?"}
+{"id": "TR-040b", "category": "시간추론", "sub": "", "pair_id": "TR-040", "question": "이맹균이 태상왕 국장에 대가 의장을 쓰자고 청한 그해 말 제수된 관직은?"}
+{"id": "TR-041a", "category": "시간추론", "sub": "", "pair_id": "TR-041", "question": "조비형이 송골매를 잡았다고 아뢴 그해 초 제수된 관직은?"}
+{"id": "TR-041b", "category": "시간추론", "sub": "", "pair_id": "TR-041", "question": "조비형이 송골매를 잡았다고 아뢴 그해 중순 제수된 관직은?"}
+{"id": "TR-042a", "category": "시간추론", "sub": "", "pair_id": "TR-042", "question": "최사강이 경상도 도관찰사가 된 이듬해 그가 제수된 관직은?"}
+{"id": "TR-042b", "category": "시간추론", "sub": "", "pair_id": "TR-042", "question": "최사강이 경상도 도관찰사가 된 후년 그가 제수된 관직은?"}
+{"id": "TR-043a", "category": "시간추론", "sub": "", "pair_id": "TR-043", "question": "탁신이 집현전 설치 인사에서 제학이 된 이듬해 받은 관직은?"}
+{"id": "TR-043b", "category": "시간추론", "sub": "", "pair_id": "TR-043", "question": "탁신이 집현전 설치 인사에서 제학이 된 후년 받은 관직은?"}
+{"id": "TR-044a", "category": "시간추론", "sub": "", "pair_id": "TR-044", "question": "원민생이 세자 조현의 수조관으로 전별연에 든 그해 초 선위사로 간 곳은?"}
+{"id": "TR-044b", "category": "시간추론", "sub": "", "pair_id": "TR-044", "question": "원민생이 세자 조현의 수조관으로 전별연에 든 그해 중순 선위사로 간 곳은?"}
+{"id": "TR-045a", "category": "시간추론", "sub": "", "pair_id": "TR-045", "question": "유관이 《고려사》를 고치라는 명을 받은 전해 제수된 관직은?"}
+{"id": "TR-045b", "category": "시간추론", "sub": "", "pair_id": "TR-045", "question": "유관이 《고려사》를 고치라는 명을 받은 이듬해 제수된 관직은?"}
+{"id": "TR-046a", "category": "시간추론", "sub": "", "pair_id": "TR-046", "question": "이명덕이 석전할 사람 수백 명을 모집한 이듬해 제수된 관직은?"}
+{"id": "TR-046b", "category": "시간추론", "sub": "", "pair_id": "TR-046", "question": "이명덕이 석전할 사람 수백 명을 모집한 후년 제수된 관직은?"}
+{"id": "TR-047a", "category": "시간추론", "sub": "", "pair_id": "TR-047", "question": "이직이 용서받고 성주에서 불려 온 이듬해 그가 받은 관직은?"}
+{"id": "TR-047b", "category": "시간추론", "sub": "", "pair_id": "TR-047", "question": "이직이 용서받고 성주에서 불려 온 후년 그가 받은 관직은?"}
+{"id": "TR-048a", "category": "시간추론", "sub": "", "pair_id": "TR-048", "question": "김자지가 판원주목사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-048b", "category": "시간추론", "sub": "", "pair_id": "TR-048", "question": "김자지가 판원주목사에 제수된 직후 받은 관직은?"}
+{"id": "TR-049a", "category": "시간추론", "sub": "", "pair_id": "TR-049", "question": "이순몽이 우군 절제사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-049b", "category": "시간추론", "sub": "", "pair_id": "TR-049", "question": "이순몽이 우군 절제사에 제수된 직후 받은 관직은?"}
+{"id": "TR-050a", "category": "시간추론", "sub": "", "pair_id": "TR-050", "question": "조비형이 수군도안무처치사에 제수되기 직전 받은 관직은?"}
+{"id": "TR-050b", "category": "시간추론", "sub": "", "pair_id": "TR-050", "question": "조비형이 수군도안무처치사에 제수된 직후 받은 관직은?"}
+{"id": "TR-051a", "category": "시간추론", "sub": "", "pair_id": "TR-051", "question": "김희복이 진헌할 말을 요동으로 관압해 가기 직전 관압관의 관직은?"}
+{"id": "TR-051b", "category": "시간추론", "sub": "", "pair_id": "TR-051", "question": "김희복이 진헌할 말을 요동으로 관압해 간 직후 관압관의 관직은?"}
+{"id": "TR-052a", "category": "시간추론", "sub": "", "pair_id": "TR-052", "question": "허원상이 진헌할 말을 요동으로 관압해 가기 직전 관압관의 관직은?"}
+{"id": "TR-052b", "category": "시간추론", "sub": "", "pair_id": "TR-052", "question": "허원상이 진헌할 말을 요동으로 관압해 간 직후 관압관의 관직은?"}
+{"id": "TR-053a", "category": "시간추론", "sub": "", "pair_id": "TR-053", "question": "안득상이 진헌할 말을 요동으로 관압해 가기 직전 관압관의 관직은?"}
+{"id": "TR-053b", "category": "시간추론", "sub": "", "pair_id": "TR-053", "question": "안득상이 진헌할 말을 요동으로 관압해 간 직후 관압관의 관직은?"}
+{"id": "TR-054a", "category": "시간추론", "sub": "", "pair_id": "TR-054", "question": "당몽현이 진헌할 말을 요동으로 관압해 간 그달 초 관압관의 관직은?"}
+{"id": "TR-054b", "category": "시간추론", "sub": "", "pair_id": "TR-054", "question": "당몽현이 진헌할 말을 요동으로 관압해 간 그달 말 관압관의 관직은?"}
+{"id": "TR-055a", "category": "시간추론", "sub": "", "pair_id": "TR-055", "question": "허원상이 교역하는 말을 요동으로 관압해 가기 직전 관압관의 관직은?"}
+{"id": "TR-055b", "category": "시간추론", "sub": "", "pair_id": "TR-055", "question": "허원상이 교역하는 말을 요동으로 관압해 간 직후 관압관의 관직은?"}
+{"id": "TR-056a", "category": "시간추론", "sub": "", "pair_id": "TR-056", "question": "권도가 호부 허위 보고 건으로 정배되기 직전 받은 처분은?"}
+{"id": "TR-056b", "category": "시간추론", "sub": "", "pair_id": "TR-056", "question": "권도가 호부 허위 보고 건으로 정배된 직후 받은 처분은?"}
+{"id": "TR-057a", "category": "시간추론", "sub": "", "pair_id": "TR-057", "question": "성달생이 연산으로 유배되기 직전 받은 처분은?"}
+{"id": "TR-057b", "category": "시간추론", "sub": "", "pair_id": "TR-057", "question": "성달생이 연산으로 유배된 직후 받은 처분은?"}
+{"id": "TR-058a", "category": "시간추론", "sub": "", "pair_id": "TR-058", "question": "세 사신이 목멱산에 올라 유람하기 직전 사신이 유람한 곳은?"}
+{"id": "TR-058b", "category": "시간추론", "sub": "", "pair_id": "TR-058", "question": "세 사신이 목멱산에 올라 유람한 직후 사신이 유람한 곳은?"}
+{"id": "TR-059a", "category": "시간추론", "sub": "", "pair_id": "TR-059", "question": "삼각산과 목멱산에 무당을 보내 비를 빈 직전 기우제를 지낸 토룡단은?"}
+{"id": "TR-059b", "category": "시간추론", "sub": "", "pair_id": "TR-059", "question": "삼각산과 목멱산에 무당을 보내 비를 빈 직후 기우제를 지낸 토룡단은?"}
+{"id": "TR-060a", "category": "시간추론", "sub": "", "pair_id": "TR-060", "question": "원경왕후가 갈마골 송정으로 거처를 옮긴 전날 머문 곳은?"}
+{"id": "TR-060b", "category": "시간추론", "sub": "", "pair_id": "TR-060", "question": "원경왕후가 갈마골 송정으로 거처를 옮긴 이튿날 머문 곳은?"}
+{"id": "TR-061a", "category": "시간추론", "sub": "", "pair_id": "TR-061", "question": "원경왕후가 김승주의 집으로 거처를 옮긴 전날 머문 곳은?"}
+{"id": "TR-061b", "category": "시간추론", "sub": "", "pair_id": "TR-061", "question": "원경왕후가 김승주의 집으로 거처를 옮긴 이튿날 머문 곳은?"}
+{"id": "TR-062a", "category": "시간추론", "sub": "", "pair_id": "TR-062", "question": "원경왕후 빈전에서 견전을 올린 전날 재궁에 행한 절차는?"}
+{"id": "TR-062b", "category": "시간추론", "sub": "", "pair_id": "TR-062", "question": "원경왕후 빈전에서 견전을 올린 이튿날 재궁에 행한 절차는?"}
+{"id": "TR-063a", "category": "시간추론", "sub": "", "pair_id": "TR-063", "question": "세종이 가뭄에 북 대신 종을 치게 한 전날 비를 빈 곳은?"}
+{"id": "TR-063b", "category": "시간추론", "sub": "", "pair_id": "TR-063", "question": "세종이 가뭄에 북 대신 종을 치게 한 이튿날 비를 빈 곳은?"}
+{"id": "TR-064a", "category": "시간추론", "sub": "", "pair_id": "TR-064", "question": "세종이 경회루 잔치에서 사신들에게 왕자 셋을 보인 전날 창성이 요구한 물건은?"}
+{"id": "TR-064b", "category": "시간추론", "sub": "", "pair_id": "TR-064", "question": "세종이 경회루 잔치에서 사신들에게 왕자 셋을 보인 이튿날 창성이 요구한 물건은?"}
+{"id": "TR-065a", "category": "시간추론", "sub": "", "pair_id": "TR-065", "question": "김을현이 5운 말을 요동으로 관압해 간 전날 말을 관압한 관원의 관직은?"}
+{"id": "TR-065b", "category": "시간추론", "sub": "", "pair_id": "TR-065", "question": "김을현이 5운 말을 요동으로 관압해 간 이튿날 말을 관압한 관원의 관직은?"}
+{"id": "TR-066a", "category": "시간추론", "sub": "", "pair_id": "TR-066", "question": "세종이 태상왕 상에 역월 제도를 물리친 전날 태상왕 주검에 행한 절차는?"}
+{"id": "TR-066b", "category": "시간추론", "sub": "", "pair_id": "TR-066", "question": "세종이 태상왕 상에 역월 제도를 물리친 이튿날 태상왕 주검에 행한 절차는?"}
+{"id": "TR-067a", "category": "시간추론", "sub": "", "pair_id": "TR-067", "question": "세종이 유영 등의 상소를 형조에 내려 조사하게 한 전날 그 상소를 그르다 한 관청은?"}
+{"id": "TR-067b", "category": "시간추론", "sub": "", "pair_id": "TR-067", "question": "세종이 유영 등의 상소를 형조에 내려 조사하게 한 이튿날 그 상소를 그르다 한 관청은?"}
+{"id": "TR-068a", "category": "시간추론", "sub": "", "pair_id": "TR-068", "question": "효령대군이 태상왕 빈전의 찬궁을 연 전날 태상왕께 올린 것은?"}
+{"id": "TR-068b", "category": "시간추론", "sub": "", "pair_id": "TR-068", "question": "효령대군이 태상왕 빈전의 찬궁을 연 이튿날 태상왕께 올린 것은?"}
+{"id": "TR-069a", "category": "시간추론", "sub": "", "pair_id": "TR-069", "question": "상왕이 노희봉을 보내 대비의 이거를 전지한 전날 대비가 옮겨 간 곳은?"}
+{"id": "TR-069b", "category": "시간추론", "sub": "", "pair_id": "TR-069", "question": "상왕이 노희봉을 보내 대비의 이거를 전지한 이튿날 대비가 옮겨 간 곳은?"}
+{"id": "TR-070a", "category": "시간추론", "sub": "", "pair_id": "TR-070", "question": "원숙을 보내 헌릉의 여러 일을 점검하게 한 전날 광효전에서 지낸 제사는?"}
+{"id": "TR-070b", "category": "시간추론", "sub": "", "pair_id": "TR-070", "question": "원숙을 보내 헌릉의 여러 일을 점검하게 한 이튿날 광효전에서 지낸 제사는?"}
+{"id": "TR-071a", "category": "시간추론", "sub": "", "pair_id": "TR-071", "question": "양녕대군이 이천으로 돌아간 전날 양녕대군 일로 아뢴 관청은?"}
+{"id": "TR-071b", "category": "시간추론", "sub": "", "pair_id": "TR-071", "question": "양녕대군이 이천으로 돌아간 이튿날 양녕대군 일로 아뢴 관청은?"}
+{"id": "TR-072a", "category": "시간추론", "sub": "", "pair_id": "TR-072", "question": "여러 관사가 합사해 양녕대군 처벌을 굳이 청한 전날 처벌을 청한 이들은?"}
+{"id": "TR-072b", "category": "시간추론", "sub": "", "pair_id": "TR-072", "question": "여러 관사가 합사해 양녕대군 처벌을 굳이 청한 이튿날 처벌을 청한 이들은?"}
+{"id": "TR-073a", "category": "시간추론", "sub": "", "pair_id": "TR-073", "question": "장룡의 집에서 난 불이 경시서와 인가를 태운 전날 불에 탄 관아 시설은?"}
+{"id": "TR-073b", "category": "시간추론", "sub": "", "pair_id": "TR-073", "question": "장룡의 집에서 난 불이 경시서와 인가를 태운 이튿날 불에 탄 관아 시설은?"}
+{"id": "TR-074a", "category": "시간추론", "sub": "", "pair_id": "TR-074", "question": "윤봉이 이대에게 이빈의 은덕을 말한 전날 사신에게 문안한 대언의 관직은?"}
+{"id": "TR-074b", "category": "시간추론", "sub": "", "pair_id": "TR-074", "question": "윤봉이 이대에게 이빈의 은덕을 말한 이튿날 사신에게 문안한 대언의 관직은?"}
+{"id": "TR-075a", "category": "시간추론", "sub": "", "pair_id": "TR-075", "question": "박실이 곽존중에게 윤봉이 매와 개를 원한다고 한 전날 사신에게 문안한 대언의 관직은?"}
+{"id": "TR-075b", "category": "시간추론", "sub": "", "pair_id": "TR-075", "question": "박실이 곽존중에게 윤봉이 매와 개를 원한다고 한 이튿날 사신에게 문안한 대언의 관직은?"}
+{"id": "TR-076a", "category": "시간추론", "sub": "", "pair_id": "TR-076", "question": "세자가 신궁에서 태상왕을 배알한 전날 세자가 참여한 의식이 열린 곳은?"}
+{"id": "TR-076b", "category": "시간추론", "sub": "", "pair_id": "TR-076", "question": "세자가 신궁에서 태상왕을 배알한 이튿날 세자가 참여한 의식이 열린 곳은?"}
+{"id": "TR-077a", "category": "시간추론", "sub": "", "pair_id": "TR-077", "question": "진휼을 못한 지곡산군수에게 장 90을 친 전날 진휼 실패로 수령이 받은 처분은?"}
+{"id": "TR-077b", "category": "시간추론", "sub": "", "pair_id": "TR-077", "question": "진휼을 못한 지곡산군수에게 장 90을 친 이튿날 진휼 실패로 수령이 받은 처분은?"}
+{"id": "TR-078a", "category": "시간추론", "sub": "", "pair_id": "TR-078", "question": "원경왕태후에게 존호를 더 올린 전날 주상이 담복 차림으로 예를 행한 곳은?"}
+{"id": "TR-078b", "category": "시간추론", "sub": "", "pair_id": "TR-078", "question": "원경왕태후에게 존호를 더 올린 이튿날 주상이 담복 차림으로 예를 행한 곳은?"}
+{"id": "TR-079a", "category": "시간추론", "sub": "", "pair_id": "TR-079", "question": "태상왕이 도성 역군의 많은 죽음을 늦게 알고 노한 전날 각 도의 역군 일을 맡긴 관원은?"}
+{"id": "TR-079b", "category": "시간추론", "sub": "", "pair_id": "TR-079", "question": "태상왕이 도성 역군의 많은 죽음을 늦게 알고 노한 이튿날 각 도의 역군 일을 맡긴 관원은?"}
+{"id": "TR-080a", "category": "시간추론", "sub": "", "pair_id": "TR-080", "question": "병조가 유랑민 추쇄 조목을 올린 그달 초 진휼 문제로 관원에게 내려진 처분은?"}
+{"id": "TR-080b", "category": "시간추론", "sub": "", "pair_id": "TR-080", "question": "병조가 유랑민 추쇄 조목을 올린 그달 말 진휼 문제로 관원에게 내려진 처분은?"}
+{"id": "TR-081a", "category": "시간추론", "sub": "", "pair_id": "TR-081", "question": "각 고을의 자복사를 모두 혁파하게 한 그달 초 불교를 배척하는 상소를 올린 관서는?"}
+{"id": "TR-081b", "category": "시간추론", "sub": "", "pair_id": "TR-081", "question": "각 고을의 자복사를 모두 혁파하게 한 그달 말 불교를 배척하는 상소를 올린 관서는?"}
+{"id": "TR-082a", "category": "시간추론", "sub": "", "pair_id": "TR-082", "question": "혁파한 사사노비를 동부·서부학당에 나눠 준 그달 초 진관사에서 지낸 재는?"}
+{"id": "TR-082b", "category": "시간추론", "sub": "", "pair_id": "TR-082", "question": "혁파한 사사노비를 동부·서부학당에 나눠 준 그달 말 진관사에서 지낸 재는?"}
+{"id": "TR-083a", "category": "시간추론", "sub": "", "pair_id": "TR-083", "question": "김점이 조계에서 자식 진료를 청해 세종이 정색한 그달 초 김점이 아뢴 건의는?"}
+{"id": "TR-083b", "category": "시간추론", "sub": "", "pair_id": "TR-083", "question": "김점이 조계에서 자식 진료를 청해 세종이 정색한 그달 말 김점이 아뢴 건의는?"}
+{"id": "TR-084a", "category": "시간추론", "sub": "", "pair_id": "TR-084", "question": "양녕대군에게 활과 화살을 내려 준 전월 그에게 내려 준 먹을거리는?"}
+{"id": "TR-084b", "category": "시간추론", "sub": "", "pair_id": "TR-084", "question": "양녕대군에게 활과 화살을 내려 준 그달 초 그에게 내려 준 먹을거리는?"}
+{"id": "TR-085a", "category": "시간추론", "sub": "", "pair_id": "TR-085", "question": "하연에게 직무에 나오라고 명한 그달 초 그의 처벌을 청하는 상소를 올린 관서는?"}
+{"id": "TR-085b", "category": "시간추론", "sub": "", "pair_id": "TR-085", "question": "하연에게 직무에 나오라고 명한 그달 말 그의 처벌을 청하는 상소를 올린 관서는?"}
+{"id": "TR-086a", "category": "시간추론", "sub": "", "pair_id": "TR-086", "question": "양녕대군에게 과천 국고의 쌀을 꾸어 준 전월 그에게 내려 준 물품은?"}
+{"id": "TR-086b", "category": "시간추론", "sub": "", "pair_id": "TR-086", "question": "양녕대군에게 과천 국고의 쌀을 꾸어 준 그달 초 그에게 내려 준 물품은?"}
+{"id": "TR-087a", "category": "시간추론", "sub": "", "pair_id": "TR-087", "question": "병중의 주상이 모화루에서 명 황제의 유조를 맞은 그달 초 권진이 맡은 접대 직임은?"}
+{"id": "TR-087b", "category": "시간추론", "sub": "", "pair_id": "TR-087", "question": "병중의 주상이 모화루에서 명 황제의 유조를 맞은 그달 말 권진이 맡은 접대 직임은?"}
+{"id": "TR-088a", "category": "시간추론", "sub": "", "pair_id": "TR-088", "question": "전가식·이양명·노이가 폐서인된 전월 장윤화의 벼슬에 내려진 조치는?"}
+{"id": "TR-088b", "category": "시간추론", "sub": "", "pair_id": "TR-088", "question": "전가식·이양명·노이가 폐서인된 그달 초 장윤화의 벼슬에 내려진 조치는?"}
+{"id": "TR-089a", "category": "시간추론", "sub": "", "pair_id": "TR-089", "question": "박관이 경녕군의 일점홍 일을 들어 상소한 전월 세종이 경녕군에게 내린 결정은?"}
+{"id": "TR-089b", "category": "시간추론", "sub": "", "pair_id": "TR-089", "question": "박관이 경녕군의 일점홍 일을 들어 상소한 그달 초 세종이 경녕군에게 내린 결정은?"}
+{"id": "TR-090a", "category": "시간추론", "sub": "", "pair_id": "TR-090", "question": "박은이 수척한 주상에게 육선을 청했다 거절된 그달 초 상왕이 정종 빈전에서 지낸 제사는?"}
+{"id": "TR-090b", "category": "시간추론", "sub": "", "pair_id": "TR-090", "question": "박은이 수척한 주상에게 육선을 청했다 거절된 그달 말 상왕이 정종 빈전에서 지낸 제사는?"}
+{"id": "TR-091a", "category": "시간추론", "sub": "", "pair_id": "TR-091", "question": "굶주린 두세 살 아이도 진휼하게 한 그달 초 기근 구제를 못한 수령에게 내린 처분은?"}
+{"id": "TR-091b", "category": "시간추론", "sub": "", "pair_id": "TR-091", "question": "굶주린 두세 살 아이도 진휼하게 한 그달 말 기근 구제를 못한 수령에게 내린 처분은?"}
+{"id": "TR-092a", "category": "시간추론", "sub": "", "pair_id": "TR-092", "question": "윤봉이 한강에서 백언을 맞은 그달 초 문안 온 관원에게 사신이 집안 일로 청한 것은?"}
+{"id": "TR-092b", "category": "시간추론", "sub": "", "pair_id": "TR-092", "question": "윤봉이 한강에서 백언을 맞은 그달 말 문안 온 관원에게 사신이 집안 일로 청한 것은?"}
+{"id": "TR-093a", "category": "시간추론", "sub": "", "pair_id": "TR-093", "question": "김점의 장물을 본래 주인에게 돌려주게 한 그달 초 김점의 신병에 대해 내린 명은?"}
+{"id": "TR-093b", "category": "시간추론", "sub": "", "pair_id": "TR-093", "question": "김점의 장물을 본래 주인에게 돌려주게 한 그달 말 김점의 신병에 대해 내린 명은?"}
+{"id": "TR-094a", "category": "시간추론", "sub": "", "pair_id": "TR-094", "question": "정벌 중 병사한 선군에게 쌀·콩을 내린 그달 초 쌀·콩을 내려 준 사망자의 사인은?"}
+{"id": "TR-094b", "category": "시간추론", "sub": "", "pair_id": "TR-094", "question": "정벌 중 병사한 선군에게 쌀·콩을 내린 그달 말 쌀·콩을 내려 준 사망자의 사인은?"}
+{"id": "TR-095a", "category": "시간추론", "sub": "", "pair_id": "TR-095", "question": "이종무의 과전을 멋대로 돌려준 호조 좌랑이 하옥된 그달 초 대간의 이종무 처벌 청 결과는?"}
+{"id": "TR-095b", "category": "시간추론", "sub": "", "pair_id": "TR-095", "question": "이종무의 과전을 멋대로 돌려준 호조 좌랑이 하옥된 그달 말 대간의 이종무 처벌 청 결과는?"}
+{"id": "TR-096a", "category": "시간추론", "sub": "", "pair_id": "TR-096", "question": "창성과 백언이 금강산 구경을 떠난 전월 창성이 청해 받은 물품은?"}
+{"id": "TR-096b", "category": "시간추론", "sub": "", "pair_id": "TR-096", "question": "창성과 백언이 금강산 구경을 떠난 그달 말 창성이 청해 받은 물품은?"}
+{"id": "TR-097a", "category": "시간추론", "sub": "", "pair_id": "TR-097", "question": "상왕이 패전한 박실을 석방하게 한 그달 초 정벌 장수의 처벌을 청한 관서는?"}
+{"id": "TR-097b", "category": "시간추론", "sub": "", "pair_id": "TR-097", "question": "상왕이 패전한 박실을 석방하게 한 그달 말 정벌 장수의 처벌을 청한 관서는?"}
+{"id": "TR-098a", "category": "시간추론", "sub": "", "pair_id": "TR-098", "question": "곽존중이 사신에게 조서·칙서를 두고 가기를 청한 전날 주상이 사신을 전송한 곳은?"}
+{"id": "TR-098b", "category": "시간추론", "sub": "", "pair_id": "TR-098", "question": "곽존중이 사신에게 조서·칙서를 두고 가기를 청한 이튿날 주상이 사신을 전송한 곳은?"}
+{"id": "TR-099a", "category": "시간추론", "sub": "", "pair_id": "TR-099", "question": "중궁이 경회루에서 처녀들에게 전별연을 베푼 전날 주상이 사신을 대접한 곳은?"}
+{"id": "TR-099b", "category": "시간추론", "sub": "", "pair_id": "TR-099", "question": "중궁이 경회루에서 처녀들에게 전별연을 베푼 이튿날 주상이 사신을 대접한 곳은?"}
+{"id": "TR-100a", "category": "시간추론", "sub": "", "pair_id": "TR-100", "question": "황희·신상도 이애가 서울에 살면 안 된다고 한 전날 주상이 정한 이애의 처우는?"}
+{"id": "TR-100b", "category": "시간추론", "sub": "", "pair_id": "TR-100", "question": "황희·신상도 이애가 서울에 살면 안 된다고 한 이튿날 주상이 정한 이애의 처우는?"}
+{"id": "TR-101a", "category": "시간추론", "sub": "", "pair_id": "TR-101", "question": "이숙치가 전라도에 굶주린 자가 없다고 복명한 전날 시행한 구휼 조치는?"}
+{"id": "TR-101b", "category": "시간추론", "sub": "", "pair_id": "TR-101", "question": "이숙치가 전라도에 굶주린 자가 없다고 복명한 이튿날 시행한 구휼 조치는?"}
+{"id": "TR-102a", "category": "시간추론", "sub": "", "pair_id": "TR-102", "question": "윤봉과 박실이 경사로 돌아간 전날 윤봉이 요구한 것은?"}
+{"id": "TR-102b", "category": "시간추론", "sub": "", "pair_id": "TR-102", "question": "윤봉과 박실이 경사로 돌아간 이튿날 윤봉이 요구한 것은?"}
+{"id": "TR-103a", "category": "시간추론", "sub": "", "pair_id": "TR-103", "question": "이원생의 직첩을 회수하고 지방에 안치하게 한 이듬해 그를 옮겨 둔 고을은?"}
+{"id": "TR-103b", "category": "시간추론", "sub": "", "pair_id": "TR-103", "question": "이원생의 직첩을 회수하고 지방에 안치하게 한 후년 그를 옮겨 둔 고을은?"}
+{"id": "TR-104a", "category": "시간추론", "sub": "", "pair_id": "TR-104", "question": "성엄이 호조 참판에 제수된 전해 제수된 관직은?"}
+{"id": "TR-104b", "category": "시간추론", "sub": "", "pair_id": "TR-104", "question": "성엄이 호조 참판에 제수된 이듬해 제수된 관직은?"}
+{"id": "TR-105a", "category": "시간추론", "sub": "", "pair_id": "TR-105", "question": "하연이 지신사에 제수된 이듬해 받은 경관 직은?"}
+{"id": "TR-105b", "category": "시간추론", "sub": "", "pair_id": "TR-105", "question": "하연이 지신사에 제수된 후년 받은 경관 직은?"}
+{"id": "TR-106a", "category": "시간추론", "sub": "", "pair_id": "TR-106", "question": "하연이 대사헌으로 궐내 활터 건립을 반대한 그해 중순 마지막으로 제수된 관직은?"}
+{"id": "TR-106b", "category": "시간추론", "sub": "", "pair_id": "TR-106", "question": "하연이 대사헌으로 궐내 활터 건립을 반대한 그해 말 마지막으로 제수된 관직은?"}
+{"id": "TR-107a", "category": "시간추론", "sub": "", "pair_id": "TR-107", "question": "이발이 대사헌에 제수된 전해 제수된 관직은?"}
+{"id": "TR-107b", "category": "시간추론", "sub": "", "pair_id": "TR-107", "question": "이발이 대사헌에 제수된 이듬해 제수된 관직은?"}
+{"id": "TR-108a", "category": "시간추론", "sub": "", "pair_id": "TR-108", "question": "허지가 형조 판서에 제수된 전해 받은 육조 관직은?"}
+{"id": "TR-108b", "category": "시간추론", "sub": "", "pair_id": "TR-108", "question": "허지가 형조 판서에 제수된 이듬해 받은 육조 관직은?"}
+{"id": "TR-109a", "category": "시간추론", "sub": "", "pair_id": "TR-109", "question": "병조가 군율을 어겼다며 하경복의 처벌을 청한 이듬해 제수된 관직은?"}
+{"id": "TR-109b", "category": "시간추론", "sub": "", "pair_id": "TR-109", "question": "병조가 군율을 어겼다며 하경복의 처벌을 청한 후년 제수된 관직은?"}
+{"id": "TR-110a", "category": "시간추론", "sub": "", "pair_id": "TR-110", "question": "백언의 어머니가 수원으로 돌아간 전월 백언이 창성과 함께 찾은 절은?"}
+{"id": "TR-110b", "category": "시간추론", "sub": "", "pair_id": "TR-110", "question": "백언의 어머니가 수원으로 돌아간 그달 초 백언이 창성과 함께 찾은 절은?"}
+{"id": "TR-111a", "category": "시간추론", "sub": "", "pair_id": "TR-111", "question": "박연에서 비를 빈 전월 술에 관해 주상이 내린 명은?"}
+{"id": "TR-111b", "category": "시간추론", "sub": "", "pair_id": "TR-111", "question": "박연에서 비를 빈 그달 초 술에 관해 주상이 내린 명은?"}
+{"id": "TR-112a", "category": "시간추론", "sub": "", "pair_id": "TR-112", "question": "승과 응시에 《명칭가곡》 암송을 요구한 전월 사찰 노비에게 내린 조치는?"}
+{"id": "TR-112b", "category": "시간추론", "sub": "", "pair_id": "TR-112", "question": "승과 응시에 《명칭가곡》 암송을 요구한 그달 초 사찰 노비에게 내린 조치는?"}
+{"id": "TR-113a", "category": "시간추론", "sub": "", "pair_id": "TR-113", "question": "천둥과 비로 세자 가례 행사를 멈춘 그달 초 김씨가 치른 가례 절차는?"}
+{"id": "TR-113b", "category": "시간추론", "sub": "", "pair_id": "TR-113", "question": "천둥과 비로 세자 가례 행사를 멈춘 그달 말 김씨가 치른 가례 절차는?"}
+{"id": "TR-114a", "category": "시간추론", "sub": "", "pair_id": "TR-114", "question": "원자가 어려 세자 책봉 의주를 고치게 한 전월 원자가 책봉 의식을 연습한 곳은?"}
+{"id": "TR-114b", "category": "시간추론", "sub": "", "pair_id": "TR-114", "question": "원자가 어려 세자 책봉 의주를 고치게 한 그달 말 원자가 책봉 의식을 연습한 곳은?"}
+{"id": "TR-115a", "category": "시간추론", "sub": "", "pair_id": "TR-115", "question": "규주가 반인 가하를 결박해 방에 가둔 그달 초 규주 등이 조선에 청한 것은?"}
+{"id": "TR-115b", "category": "시간추론", "sub": "", "pair_id": "TR-115", "question": "규주가 반인 가하를 결박해 방에 가둔 그달 말 규주 등이 조선에 청한 것은?"}
+{"id": "TR-116a", "category": "시간추론", "sub": "", "pair_id": "TR-116", "question": "평도전을 따르려던 왜통사를 장형에 처한 전월 상왕이 평도전에게 내린 상벌은?"}
+{"id": "TR-116b", "category": "시간추론", "sub": "", "pair_id": "TR-116", "question": "평도전을 따르려던 왜통사를 장형에 처한 그달 초 상왕이 평도전에게 내린 상벌은?"}
+{"id": "TR-117a", "category": "시간추론", "sub": "", "pair_id": "TR-117", "question": "권진·정진이 한강에서 백언을 맞은 전월 백언의 부모 중 한 사람에게 내린 것은?"}
+{"id": "TR-117b", "category": "시간추론", "sub": "", "pair_id": "TR-117", "question": "권진·정진이 한강에서 백언을 맞은 그달 말 백언의 부모 중 한 사람에게 내린 것은?"}
+{"id": "TR-118a", "category": "시간추론", "sub": "", "pair_id": "TR-118", "question": "전시귀 등에게 적을 막은 공으로 선온을 내린 전월 경원부에 쳐들어온 적의 수는?"}
+{"id": "TR-118b", "category": "시간추론", "sub": "", "pair_id": "TR-118", "question": "전시귀 등에게 적을 막은 공으로 선온을 내린 그달 초 경원부에 쳐들어온 적의 수는?"}
+{"id": "TR-119a", "category": "시간추론", "sub": "", "pair_id": "TR-119", "question": "안수산을 예천에 유배 보낸 이듬해 그에게 돌려준 것은?"}
+{"id": "TR-119b", "category": "시간추론", "sub": "", "pair_id": "TR-119", "question": "안수산을 예천에 유배 보낸 후년 그에게 돌려준 것은?"}
+{"id": "TR-120a", "category": "시간추론", "sub": "", "pair_id": "TR-120", "question": "김한로를 원하는 곳에 안치하게 한 이듬해 그를 옮겨 안치한 곳은?"}
+{"id": "TR-120b", "category": "시간추론", "sub": "", "pair_id": "TR-120", "question": "김한로를 원하는 곳에 안치하게 한 후년 그를 옮겨 안치한 곳은?"}
+{"id": "TR-121a", "category": "시간추론", "sub": "", "pair_id": "TR-121", "question": "유정현이 도성수축도감 도제조가 된 전해 그가 국상 때 맡은 직임은?"}
+{"id": "TR-121b", "category": "시간추론", "sub": "", "pair_id": "TR-121", "question": "유정현이 도성수축도감 도제조가 된 이듬해 그가 국상 때 맡은 직임은?"}
+{"id": "TR-122a", "category": "시간추론", "sub": "", "pair_id": "TR-122", "question": "종정성이 태종 승하를 조문하는 서계를 보낸 이듬해 그에게 보낸 정포는?"}
+{"id": "TR-122b", "category": "시간추론", "sub": "", "pair_id": "TR-122", "question": "종정성이 태종 승하를 조문하는 서계를 보낸 후년 그에게 보낸 정포는?"}
+{"id": "TR-123a", "category": "시간추론", "sub": "", "pair_id": "TR-123", "question": "한확이 황엄과 함께 고명을 받들고 온 전해 주상이 그에게 내린 것은?"}
+{"id": "TR-123b", "category": "시간추론", "sub": "", "pair_id": "TR-123", "question": "한확이 황엄과 함께 고명을 받들고 온 이듬해 주상이 그에게 내린 것은?"}
+{"id": "TR-124a", "category": "시간추론", "sub": "", "pair_id": "TR-124", "question": "세종이 경연에서 처음 《주역》을 강한 그해 초 강하기 시작한 책은?"}
+{"id": "TR-124b", "category": "시간추론", "sub": "", "pair_id": "TR-124", "question": "세종이 경연에서 처음 《주역》을 강한 그해 중순 강하기 시작한 책은?"}
+{"id": "TR-125a", "category": "시간추론", "sub": "", "pair_id": "TR-125", "question": "김타가 사헌부 집의가 된 이듬해 그의 직첩에 내린 처분은?"}
+{"id": "TR-125b", "category": "시간추론", "sub": "", "pair_id": "TR-125", "question": "김타가 사헌부 집의가 된 후년 그의 직첩에 내린 처분은?"}
+{"id": "TR-126a", "category": "시간추론", "sub": "", "pair_id": "TR-126", "question": "대간이 이종무 처벌을 윤허받지 못해 파직을 청한 그해 중순 그에게 돌려준 것은?"}
+{"id": "TR-126b", "category": "시간추론", "sub": "", "pair_id": "TR-126", "question": "대간이 이종무 처벌을 윤허받지 못해 파직을 청한 그해 말 그에게 돌려준 것은?"}
+{"id": "TR-127a", "category": "시간추론", "sub": "", "pair_id": "TR-127", "question": "표류 선군이 좌위문대랑의 호송으로 돌아온 그해 초 그에게 답례로 준 정포는?"}
+{"id": "TR-127b", "category": "시간추론", "sub": "", "pair_id": "TR-127", "question": "표류 선군이 좌위문대랑의 호송으로 돌아온 그해 중순 그에게 답례로 준 정포는?"}
+{"id": "TR-128a", "category": "시간추론", "sub": "", "pair_id": "TR-128", "question": "회례사가 돌아와 좌위문대랑의 도움을 아뢴 그해 초 그에게 보낸 정포는?"}
+{"id": "TR-128b", "category": "시간추론", "sub": "", "pair_id": "TR-128", "question": "회례사가 돌아와 좌위문대랑의 도움을 아뢴 그해 중순 그에게 보낸 정포는?"}
+{"id": "TR-129a", "category": "시간추론", "sub": "", "pair_id": "TR-129", "question": "양녕대군을 이천의 새집에 안치한 이듬해 그에게 내려 준 것은?"}
+{"id": "TR-129b", "category": "시간추론", "sub": "", "pair_id": "TR-129", "question": "양녕대군을 이천의 새집에 안치한 후년 그에게 내려 준 것은?"}
+{"id": "TR-130a", "category": "시간추론", "sub": "", "pair_id": "TR-130", "question": "세종이 처음 경연을 연 이듬해 경연에서 새로 강하기 시작한 책은?"}
+{"id": "TR-130b", "category": "시간추론", "sub": "", "pair_id": "TR-130", "question": "세종이 처음 경연을 연 후년 경연에서 새로 강하기 시작한 책은?"}
+{"id": "TR-131a", "category": "시간추론", "sub": "", "pair_id": "TR-131", "question": "좌위문대랑이 평도전 송환을 재차 청한 그해 초 그에게 답례로 준 조미는?"}
+{"id": "TR-131b", "category": "시간추론", "sub": "", "pair_id": "TR-131", "question": "좌위문대랑이 평도전 송환을 재차 청한 그해 중순 그에게 답례로 준 조미는?"}
+{"id": "TR-132a", "category": "시간추론", "sub": "", "pair_id": "TR-132", "question": "박안신이 조말생 처벌을 상소한 전날 대사헌이 청한 형벌은?"}
+{"id": "TR-132b", "category": "시간추론", "sub": "", "pair_id": "TR-132", "question": "박안신이 조말생 처벌을 상소한 이튿날 대사헌이 청한 형벌은?"}
+{"id": "TR-133a", "category": "시간추론", "sub": "", "pair_id": "TR-133", "question": "원숙이 최이의 일을 상왕에게 아뢴 그달 초 사헌부가 최이가 죄인에게 줬다고 한 것은?"}
+{"id": "TR-133b", "category": "시간추론", "sub": "", "pair_id": "TR-133", "question": "원숙이 최이의 일을 상왕에게 아뢴 그달 말 사헌부가 최이가 죄인에게 줬다고 한 것은?"}
+{"id": "TR-134a", "category": "시간추론", "sub": "", "pair_id": "TR-134", "question": "일본 사신 규주가 대궐에 하직 인사한 그달 초 종정무 집안에 보낸 조미 양은?"}
+{"id": "TR-134b", "category": "시간추론", "sub": "", "pair_id": "TR-134", "question": "일본 사신 규주가 대궐에 하직 인사한 그달 말 종정무 집안에 보낸 조미 양은?"}
+{"id": "TR-135a", "category": "시간추론", "sub": "", "pair_id": "TR-135", "question": "주상이 사은사 이교에게 의복·갓·신을 내린 전날 사신에게 준 물건은?"}
+{"id": "TR-135b", "category": "시간추론", "sub": "", "pair_id": "TR-135", "question": "주상이 사은사 이교에게 의복·갓·신을 내린 이튿날 사신에게 준 물건은?"}
+{"id": "TR-136a", "category": "시간추론", "sub": "", "pair_id": "TR-136", "question": "처녀 7명이 교자를 타고 사신을 따라 떠난 전날 최씨 때문에 준 물건은?"}
+{"id": "TR-136b", "category": "시간추론", "sub": "", "pair_id": "TR-136", "question": "처녀 7명이 교자를 타고 사신을 따라 떠난 이튿날 최씨 때문에 준 물건은?"}
+{"id": "TR-137a", "category": "시간추론", "sub": "", "pair_id": "TR-137", "question": "경기·황해 경차관이 기민 수를 아뢴 전월 한 도가 보고한 굶주리는 백성 수는?"}
+{"id": "TR-137b", "category": "시간추론", "sub": "", "pair_id": "TR-137", "question": "경기·황해 경차관이 기민 수를 아뢴 그달 초 한 도가 보고한 굶주리는 백성 수는?"}
+{"id": "TR-138a", "category": "시간추론", "sub": "", "pair_id": "TR-138", "question": "황엄이 황씨·이씨·한씨의 본가를 찾은 전월 그가 원숙 등에게 청한 것은?"}
+{"id": "TR-138b", "category": "시간추론", "sub": "", "pair_id": "TR-138", "question": "황엄이 황씨·이씨·한씨의 본가를 찾은 그달 초 그가 원숙 등에게 청한 것은?"}
+{"id": "TR-139a", "category": "시간추론", "sub": "", "pair_id": "TR-139", "question": "황엄과 유천이 경사로 돌아간 전월 황엄에게 준 인삼의 양은?"}
+{"id": "TR-139b", "category": "시간추론", "sub": "", "pair_id": "TR-139", "question": "황엄과 유천이 경사로 돌아간 그달 초 황엄에게 준 인삼의 양은?"}
+{"id": "TR-140a", "category": "시간추론", "sub": "", "pair_id": "TR-140", "question": "이종무가 대마도에서 거제도로 돌아온 전월 기록된 우리 군사 사망자 수는?"}
+{"id": "TR-140b", "category": "시간추론", "sub": "", "pair_id": "TR-140", "question": "이종무가 대마도에서 거제도로 돌아온 그달 초 기록된 우리 군사 사망자 수는?"}
+{"id": "TR-141a", "category": "시간추론", "sub": "", "pair_id": "TR-141", "question": "주상이 한상경 등과 명나라에 주문할 일을 논의한 전날 한상경이 간 곳은?"}
+{"id": "TR-141b", "category": "시간추론", "sub": "", "pair_id": "TR-141", "question": "주상이 한상경 등과 명나라에 주문할 일을 논의한 이튿날 한상경이 간 곳은?"}
+{"id": "TR-142a", "category": "시간추론", "sub": "", "pair_id": "TR-142", "question": "주상이 박습 등 병조 관원을 국문하게 한 전날 강상인이 받은 조치는?"}
+{"id": "TR-142b", "category": "시간추론", "sub": "", "pair_id": "TR-142", "question": "주상이 박습 등 병조 관원을 국문하게 한 이튿날 강상인이 받은 조치는?"}
+{"id": "TR-143a", "category": "시간추론", "sub": "", "pair_id": "TR-143", "question": "상왕이 서강에 가서 노상왕을 문병한 전월 노상왕이 병으로 머문 곳은?"}
+{"id": "TR-143b", "category": "시간추론", "sub": "", "pair_id": "TR-143", "question": "상왕이 서강에 가서 노상왕을 문병한 그달 말 노상왕이 병으로 머문 곳은?"}
+{"id": "TR-144a", "category": "시간추론", "sub": "", "pair_id": "TR-144", "question": "동전을 처음 쓰기 시작한 전월 구리 1근 값으로 쳐 주기로 한 동전은?"}
+{"id": "TR-144b", "category": "시간추론", "sub": "", "pair_id": "TR-144", "question": "동전을 처음 쓰기 시작한 그달 초 구리 1근 값으로 쳐 주기로 한 동전은?"}
+{"id": "TR-145a", "category": "시간추론", "sub": "", "pair_id": "TR-145", "question": "충청·경상·전라도에 찰방을 보낸 이듬해 황해도에 보낸 찰방의 관직은?"}
+{"id": "TR-145b", "category": "시간추론", "sub": "", "pair_id": "TR-145", "question": "충청·경상·전라도에 찰방을 보낸 후년 황해도에 보낸 찰방의 관직은?"}
+{"id": "TR-146a", "category": "시간추론", "sub": "", "pair_id": "TR-146", "question": "태상왕이 익안대군을 공정왕에게 배향하라 한 그달 초 공정대왕과 관련해 없앤 것은?"}
+{"id": "TR-146b", "category": "시간추론", "sub": "", "pair_id": "TR-146", "question": "태상왕이 익안대군을 공정왕에게 배향하라 한 그달 말 공정대왕과 관련해 없앤 것은?"}
+{"id": "TR-147a", "category": "시간추론", "sub": "", "pair_id": "TR-147", "question": "변계량이 지은 낙천정 기문을 현판에 새겨 건 그해 초 그가 지은 노래는?"}
+{"id": "TR-147b", "category": "시간추론", "sub": "", "pair_id": "TR-147", "question": "변계량이 지은 낙천정 기문을 현판에 새겨 건 그해 말 그가 지은 노래는?"}
+{"id": "TR-148a", "category": "시간추론", "sub": "", "pair_id": "TR-148", "question": "변계량이 〈화산별곡〉을 지어 바친 이듬해 그가 지은 글은?"}
+{"id": "TR-148b", "category": "시간추론", "sub": "", "pair_id": "TR-148", "question": "변계량이 〈화산별곡〉을 지어 바친 후년 그가 지은 글은?"}
+{"id": "TR-149a", "category": "시간추론", "sub": "", "pair_id": "TR-149", "question": "공비가 어머니 안씨 집에 행차해 잔치를 베푼 그해 중순 양전이 옮겨 간 궁은?"}
+{"id": "TR-149b", "category": "시간추론", "sub": "", "pair_id": "TR-149", "question": "공비가 어머니 안씨 집에 행차해 잔치를 베푼 그해 말 양전이 옮겨 간 궁은?"}
+{"id": "TR-150a", "category": "시간추론", "sub": "", "pair_id": "TR-150", "question": "주상이 모화루에서 사신 백언을 전송한 전월 중궁이 사신에게 답례로 준 것은?"}
+{"id": "TR-150b", "category": "시간추론", "sub": "", "pair_id": "TR-150", "question": "주상이 모화루에서 사신 백언을 전송한 그달 말 중궁이 사신에게 답례로 준 것은?"}
+{"id": "MH2-001", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "상왕께 아뢰지 않은 병조 관원을 가둘 때 삼성과 함께 심문한 위관은?"}
+{"id": "MH2-002", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "노비 뇌물 건으로 조말생에게 교형을 요구한 대사헌은?"}
+{"id": "MH2-003", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "조말생 부처 판결 이튿날 율문대로 논죄하자고 홀로 아뢴 지평은?"}
+{"id": "MH2-005", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "강상인이 압슬형 끝에 '군무는 한곳으로'란 말에 미소로 수긍했다고 끌어들인 이는?"}
+{"id": "MH2-006", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "강상인 옥사 초기 상왕이 따로 보내 의금부에서 심문하게 한 사람은?"}
+{"id": "MH2-007", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "홍여방만 아직 용서받지 못했다며 사면을 청한 지사간원사는?"}
+{"id": "MH2-008", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이원과 부상 내은달의 딸을 첩으로 삼으려 다툰 사람은?"}
+{"id": "MH2-009", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정종 국상 때 상복색 부제조는?"}
+{"id": "MH2-010", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "박자청이 동북면 선위사로서 구슬려 투항시킨 여진 추장은?"}
+{"id": "MH2-011", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "허지가 대사헌으로 박자청 논핵 끝에 집에 돌려보내질 때 휘하 집의는?"}
+{"id": "MH2-012", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "수강궁 공사를 감독해 상왕과 대비를 들게 한 공으로 치하받은 이는?"}
+{"id": "MH2-013", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원경왕후 국상 때 낙천정에서 상왕에게 음식을 대접받은 산릉도감 제조는?"}
+{"id": "MH2-014", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "성달생이 반송사로 배웅한 명 사신은?"}
+{"id": "MH2-015", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정연이 동부대언이 된 날 지신사가 된 사람은?"}
+{"id": "MH2-016", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "최사강이 대사헌이 될 때 한성 부윤으로 옮긴 전임 대사헌은?"}
+{"id": "MH2-017", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "조종생이 우부대언이 된 날 지신사에 오른 사람은?"}
+{"id": "MH2-018", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정연이 집의로서 간통을 탄핵한 장군 절제사는?"}
+{"id": "MH2-020", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "강상인 옥사 초기 주상이 이름을 들어 국문을 명한 의금부 제조는?"}
+{"id": "MH2-021", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "탁신이 세종의 감형 뜻에 맞서 용서하면 안 된다고 한 죄인은?"}
+{"id": "MH2-022", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이지강이 겸 대사헌으로서 사면을 거두라고 상소한 죄인은?"}
+{"id": "MH2-023", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정종 국상 때 상복색 제조는?"}
+{"id": "MH2-024", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "조비형의 영강현 보고를 뒤집은 경차관은?"}
+{"id": "MH2-025", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "풍양 이궁 공사의 동역관으로 궁침을 열흘 안에 지은 이는?"}
+{"id": "MH2-026", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "파직된 최이를 상왕 앞에서 단정한 사람이라 변호한 대신은?"}
+{"id": "MH2-027", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "도성수축도감에서 박자청의 독단을 꾸짖은 좌의정은?"}
+{"id": "MH2-028", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "김종서가 사헌부 집의가 된 날 대사헌이 된 사람은?"}
+{"id": "MH2-029", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "심온의 뒤를 이어 영의정부사가 된 사람은?"}
+{"id": "MH2-030", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이맹균이 공조 판서가 될 때 판한성부사로 옮긴 전임자는?"}
+{"id": "MH2-031", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "윤회가 병조 참의일 때 바로 위 병조 참판은?"}
+{"id": "MH2-032", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "유영이 대사헌이 될 때 형조 참판으로 옮긴 전임 대사헌은?"}
+{"id": "MH2-033", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이지강이 겸 대사헌이 될 때 통째 파직된 사헌부의 전임 대사헌은?"}
+{"id": "MH2-034", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "효령대군의 노비 소송을 터무니없다고 따진 사헌부 집의는?"}
+{"id": "MH2-035", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "국상 중 금주를 어긴 이순몽 등의 파직을 다시 청한 대사헌은?"}
+{"id": "MH2-036", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "심온이 영의정부사가 될 때 물러난 전임 영의정은?"}
+{"id": "MH2-037", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "성달생을 평안도 도절제사로 천거한 이조 판서는?"}
+{"id": "MH2-038", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "의금부 제조들이 나아가 중궁 폐위를 청한 궁은?"}
+{"id": "MH2-044", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "태종 국상 발인 때 견전을 올린 종친은?"}
+{"id": "MH2-045", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "처음 연 경연에서 동지경연사를 맡은 이는?"}
+{"id": "MH2-046", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "김자지가 평안도 도관찰사가 될 때 진휼 부실로 파직된 전임자는?"}
+{"id": "MH2-047", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "헌릉 비전 공사를 감독한 의정부 참찬은?"}
+{"id": "MH2-048", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이맹균이 예조 판서로 옮길 때 공조 판서를 이은 사람은?"}
+{"id": "MH2-049", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이맹균이 병조 판서가 될 때 병으로 사직한 전임자는?"}
+{"id": "MH2-050", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "박은이 병으로 물러날 때 이원이 좌의정감으로 천거한 사람은?"}
+{"id": "MH2-051", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "성엄이 부사로 따라간 세자빈 납채의 정사는?"}
+{"id": "MH2-052", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "연사종이 병들자 태종 수릉관을 이어받은 사람은?"}
+{"id": "MH2-053", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "권희달이 정사로 간 고부 겸 청시사 사행의 부사는?"}
+{"id": "MH2-055", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "유관과 함께 벽제에 가서 사신을 맞은 형조 판서는?"}
+{"id": "MH2-056", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "양녕대군의 어머니는?"}
+{"id": "MH2-057", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "신상이 대사헌일 때 소송 반려로 함께 하옥된 지평은?"}
+{"id": "MH2-058", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "광효전에 부묘 날 위판을 봉안한 종친은?"}
+{"id": "MH2-059", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "성엄이 한성 부윤이 될 때 파면된 전임자는?"}
+{"id": "MH2-060", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "최이가 진향사로 명에 갈 때 함께 간 진위사는?"}
+{"id": "MH2-061", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "최윤덕이 내이포에서 아들을 주벌한 귀화 왜인은?"}
+{"id": "MH2-062", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "김익정이 광중에서 물이 솟자 살피러 간 능은?"}
+{"id": "MH2-063", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "처음 연 경연에서 부검토관을 맡은 이는?"}
+{"id": "MH2-064", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원경왕후 국상에서 변계량과 함께 호상을 맡은 이는?"}
+{"id": "MH2-065", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "유계문이 우사간대부가 된 날 좌사간대부가 된 사람은?"}
+{"id": "MH2-066", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "최사강과 합사해 이애를 서울에 둘 수 없다고 간한 좌사간대부는?"}
+{"id": "MH2-067", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원경왕후의 둘째 아들은?"}
+{"id": "MH2-068", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "태종 국상 때 시책과 시보를 받들고 내전에 든 공조 판서는?"}
+{"id": "MH2-069", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "신상이 예조 판서로 문헌통고의 일곱 가지 일을 아뢸 때 예조 참판은?"}
+{"id": "MH2-070", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "신상과 함께 처녀 진헌색 제조가 된 판한성부사는?"}
+{"id": "MH2-071", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "박초가 좌군 절제사로 나선 대마도 정벌의 삼군 도체찰사는?"}
+{"id": "MH2-072", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이수와 함께 집현전 제학이 된 사람은?"}
+{"id": "MH2-073", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "탁신이 박사로서 성균관 입학례를 치러 준 세자는?"}
+{"id": "MH2-074", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "권도가 대사헌으로 이명덕 건을 아뢸 때 먼저 아뢴 사헌부 장령은?"}
+{"id": "MH2-075", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이명덕의 죄를 엄하게 논한 사헌부 집의는?"}
+{"id": "MH2-076", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "유정현이 형관을 겸해 안태사에서 빠지자 대신 맡은 사람은?"}
+{"id": "MH2-077", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "김점이 호조 판서일 때 함께 탄핵된 호조 참판은?"}
+{"id": "MH2-078", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정종 국상 때 빈전도감 제조가 된 예문관 제학은?"}
+{"id": "MH2-079", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "성엄이 부사로 납징을 전하러 간 집의 세자빈은?"}
+{"id": "MH2-080", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "윤봉을 서흥에서 선온으로 위로하러 보내진 공조 참판은?"}
+{"id": "MH2-081", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "황희가 상중에 기복되어 좌의정이 된 날 대사헌이 된 이는?"}
+{"id": "MH2-082", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "김한로를 청주로 옮기라는 명에 반대한 형조 판서는?"}
+{"id": "MH2-083", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "황엄이 귀국할 때 요동 군사들의 강매를 막은 의주도 병마사는?"}
+{"id": "MH2-084", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이발과 함께 의금부에서 박흥 등을 신문한 좌부대언은?"}
+{"id": "MH2-085", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "정종의 국장도감 제조가 된 판한성부사는?"}
+{"id": "MH2-086", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "유영이 잘못 아뢰었다며 그와 대질을 요구한 의금부 죄수는?"}
+{"id": "MH2-087", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "박은이 목숨을 보전한 것도 충분하니 녹봉도 줄 수 없다고 한 대군은?"}
+{"id": "MH2-088", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원경왕후 병환 때 개경사 관음보살에게 기도하러 보내진 환관은?"}
+{"id": "MH2-089", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "허지가 합사해 상왕전에 와 있으니 돌려보내라고 청한 대군은?"}
+{"id": "MH2-090", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "권희달의 직첩을 돌려주라는 명에 반대 상소한 대사헌은?"}
+{"id": "MH2-091", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "상왕이 태평관에서 베푼 위로연에 병을 핑계로 빠진 명 사신은?"}
+{"id": "MH2-092", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원민생이 명에 가져간 양목답올 주본에 정문이 인용된 건주좌위 추장은?"}
+{"id": "MH2-093", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "하연 등이 어머니 장사를 치르게 한 허락에 반대한 유배 죄인은?"}
+{"id": "MH2-094", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "허조가 권채 처벌이 강상을 어지럽힌다고 말을 건넨 지신사는?"}
+{"id": "MH2-095", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "양녕대군이 지방에 있어도 아들이 서울에 있으면 서울에 있는 격이라 한 대사헌은?"}
+{"id": "MH2-096", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "홍여방이 부사로 따라간 사은사행과 같은 날 떠난 상왕의 사은사는?"}
+{"id": "MH2-097", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "원숙이 의금부 제조로서 불응위로 가볍게 조율했다고 탄핵받은 죄인 무신은?"}
+{"id": "MH2-098", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "이명덕이 사면 전 일로 죄를 면하고도 뉘우치지 않는다며 탄핵 상소를 이끈 장령은?"}
+{"id": "MH2-099", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "조서로가 지신사로서 함께 명 사신에게 선물을 전하고 고두례를 물은 총제는?"}
+{"id": "MH2-100", "category": "멀티홉", "sub": "2hop", "pair_id": null, "question": "태상왕이 김익정에게 태조 배향 여부를 삼의정과 논의하게 하라 한 개국 공신은?"}
+{"id": "MH3-001", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "고약해가 형이 가볍다고 논한, 명에서 추태를 부린 사신의 일을 알린 이는?"}
+{"id": "MH3-002", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김여지가 삭망제 배참 복구를 청한 전각의 동지제를 두고 전례를 모른다 한 이는?"}
+{"id": "MH3-003", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김자지와 함께 병후 강무를 말린 대신과 평강 거둥 문제로 사이가 틀어진 이는?"}
+{"id": "MH3-004", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김자지와 병후 강무를 말린 대신과 구임법을 권하다 이조 판서로 그 법을 이룬 이는?"}
+{"id": "MH3-005", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "맹사성과 같은 자리에서 악장 공을 치하받은 이가 박습 주벌 재청자로 지목한 이는?"}
+{"id": "MH3-006", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "맹사성과 한자리에서 악장 공을 치하받은 이가 연종환원 물음에 침묵하자 답한 이는?"}
+{"id": "MH3-007", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박관이 아뢴 소송에서 서선을 불충하다 꾸짖은 이의 탐오를 임금께 아뢴 정승은?"}
+{"id": "MH3-008", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박신이 관련 사실을 듣고도 아뢰지 않아 탄핵받은 인물의 영의정부사 후임은?"}
+{"id": "MH3-009", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이명덕과 함께 철원 거둥을 멈추지 말라 청한 이와 향화 야인 무재를 뽑은 도진무는?"}
+{"id": "MH3-010", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "연종환원 혁파 물음에 원숙이 대신 답할 때 침묵한 이가 압슬형 발의자로 지목한 이는?"}
+{"id": "MH3-011", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "윤회가 임금의 이의를 상왕께 전한 진법서 저자가 발문에 새 활자 주조자로 적은 이는?"}
+{"id": "MH3-012", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "윤회가 상왕 물음에 모른다 한 뒤 동지제를 대행한 이에게 길복 근거를 반박당한 이는?"}
+{"id": "MH3-013", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "장윤화 파직 뒤 전라 관찰사가 된 이에게 박자청 참찬 임명을 넌지시 말한 대사헌은?"}
+{"id": "MH3-014", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "연종환원 물음에 변계량 대신 답한 이가 빈전 기간에 집을 고쳤다고 논박한 대군은?"}
+{"id": "MH3-015", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "유정현의 신장 신문 청을 상왕이 물리친 주창자의 통곡을 환관에게 전한 이는?"}
+{"id": "MH3-016", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "휘빈 김씨가 맞은 남편의 세자 좌사경은?"}
+{"id": "MH3-017", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "휘빈 김씨의 남편이 여덟 살에 입학례를 치른 곳은?"}
+{"id": "MH3-018", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "서선의 아들이 피해자 아들에게 보복 저격을 당했다고 아뢴 이는?"}
+{"id": "MH3-019", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "강무 중 난 한성 대화재에서 진화를 지휘한 중궁의 아버지는?"}
+{"id": "MH3-020", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "효령대군의 바로 위 형의 장인은?"}
+{"id": "MH3-021", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "양녕대군의 바로 아래 아우의 노비 소송을 따진 사헌부 집의는?"}
+{"id": "MH3-022", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김도련 노비 옥사 뒤 조말생 아들이 집을 엿보게 한 대사헌의 지신사 전임자는?"}
+{"id": "MH3-023", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "태평관 재건축에 홀로 반대한 대신의 영의정부사 전임자는?"}
+{"id": "MH3-024", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "태평관 재건축에 홀로 반대한 대신이 영돈녕으로 옮길 때 영의정부사 후임은?"}
+{"id": "MH3-025", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "길사순의 아버지가 입학해 생원·진사시에 입격한 곳은?"}
+{"id": "MH3-026", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박은이 예로써 기세를 꺾은 명 환관이 사은사로 고집한 친왕자는?"}
+{"id": "MH3-027", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "창성이 진마사라 부르게 한 호송관을 평안도 도절제사로 천거한 이는?"}
+{"id": "MH3-028", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "소헌왕후의 아버지가 영의정부사가 될 때 물러난 전임 영의정은?"}
+{"id": "MH3-029", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "서선 아들의 장인이 좌의정이 될 때 사직한 전임 좌의정은?"}
+{"id": "MH3-030", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "성엄이 한성 부윤이 될 때 파면된 전임자의 아들의 장인은?"}
+{"id": "MH3-031", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "허지가 밀지 칭탁 건으로 처벌을 거듭 청한 이의 지신사 후임은?"}
+{"id": "MH3-032", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "안순이 비전 공사를 감독한 능에 묻힌 임금을 3년 여막에서 모신 이는?"}
+{"id": "MH3-033", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박자청이 도랑·버드나무 공사를 감독한 능에 묻힌 임금을 3년 여막에서 모신 이는?"}
+{"id": "MH3-034", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "성균관에 여덟 살로 입학한 세자의 좌사경은?"}
+{"id": "MH3-035", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "말 1만 필을 요구한 사신이 하마연을 받은 객관의 재건축에 홀로 반대한 이는?"}
+{"id": "MH3-036", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "권희달이 고부 겸 청시사일 때 부사의 아들의 장인은?"}
+{"id": "MH3-037", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "공녀들이 순사한 명 황제의 죽음에 진위사로 간 이의 아들은?"}
+{"id": "MH3-038", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "광효전에 모신 혼전 주인의 맏아들은?"}
+{"id": "MH3-039", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이명덕이 기근으로 파직될 때 강원도 감사 후임의 살인한 사위는?"}
+{"id": "MH3-040", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이직이 사직할 때 좌의정 후임이 된 이의 살인한 사위는?"}
+{"id": "MH3-041", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "안순이 호조 판서일 때 전곡 출납을 맡은 겸판사의 영의정부사 전임자는?"}
+{"id": "MH3-042", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이천이 사륜거로 재궁을 산릉에 올린 국상에서 빈전이 된 궁은?"}
+{"id": "MH3-043", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "소헌왕후의 아버지가 명에 갈 때 호송해 준 평안도 관찰사는?"}
+{"id": "MH3-044", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "원경왕후 국상 때 고부하러 갔다 소환된 이의 평안도 도절제사 전임자는?"}
+{"id": "MH3-045", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박은이 예로써 기세를 꺾은 명 환관과 함께 고명을 가져온 정사는?"}
+{"id": "MH3-046", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이맹균이 예조 판서일 때 참의가 아목하에서 선온을 권한 여진 추장은?"}
+{"id": "MH3-047", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이발이 부음을 알리러 명에 간 국상의 산릉사는?"}
+{"id": "MH3-048", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박자청이 도랑·버드나무 공사를 감독한 능에 먼저 묻힌 왕후의 지문을 지은 이는?"}
+{"id": "MH3-049", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "곽존중의 지신사 전임자와 산장을 두고 다툰 이는?"}
+{"id": "MH3-050", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "허지가 밀지 칭탁 건으로 처벌을 거듭 청한 이의 전라도 관찰사 전임자는?"}
+{"id": "MH3-051", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "한확의 막내누이가 뽑힐 때 딸도 뽑혀 소환된 평안도 도절제사는?"}
+{"id": "MH3-052", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "한확의 맏누이가 순사한 명 황제의 죽음에 진위사로 간 이는?"}
+{"id": "MH3-053", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이지강이 사면 철회를 청한 죄인과 같은 때 명에 가 비행을 숨긴 정조사는?"}
+{"id": "MH3-054", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이맹균의 집으로 주상이 모시고 옮겨 간 대비의 둘째 아들은?"}
+{"id": "MH3-055", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이예가 부사로 따라간 일본 회례사의 정사가 집의로서 탄핵한 무신은?"}
+{"id": "MH3-056", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "최윤덕이 정사로 책인을 전한 세자빈의 남편은?"}
+{"id": "MH3-057", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "최이가 진향사로 갈 때 함께 간 진위사의 아들은?"}
+{"id": "MH3-058", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김타의 상소로 벌어진 수령 임기 논쟁에서 13인 상서를 이끈 부제학은?"}
+{"id": "MH3-059", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "탁신이 감형에 반대한 죄인과 같은 때 명에 가 비행을 숨긴 정조사는?"}
+{"id": "MH3-060", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "유계문이 아목하에서 선온을 권한 추장의 관문을 올린 함길도 도절제사는?"}
+{"id": "MH3-061", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "성엄이 한성 부윤이 될 때 파면된 전임자의 사람을 죽인 아들은?"}
+{"id": "MH3-062", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "유정현이 산릉사를 맡은 국상의 주인이 숨을 거둔 곳은?"}
+{"id": "MH3-063", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이원의 좌의정 전임자가 왜구 토벌에 보내자고 한 귀화 왜인은?"}
+{"id": "MH3-066", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "권진이 형조 판서로 죄를 조율한 대사헌의 전라도 관찰사 전임자는?"}
+{"id": "MH3-067", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "문종이 가례를 올린 해 세자 좌빈객의 공조 판서 후임은?"}
+{"id": "MH3-068", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김도련 노비 옥사 뒤 조말생 아들이 집을 엿보게 한 대사헌의 지신사 후임은?"}
+{"id": "MH3-069", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이순몽이 선왕의 개를 가져갔다고 아뢴 대군의 장인은?"}
+{"id": "MH3-070", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "효령대군의 어머니가 낙천정에서 옮겨 간 이궁은?"}
+{"id": "MH3-071", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "장윤화를 친척이라며 감싼 재상이 이름을 지은 정자는?"}
+{"id": "MH3-072", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박안신과 무고 옥사로 함께 갇힌 대사헌이 부사로 따른 세자빈 납채의 정사는?"}
+{"id": "MH3-073", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "원민생이 사리를 바치러 따라간 명 사신과 함께 고명을 가져온 정사는?"}
+{"id": "MH3-074", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "최윤덕이 처음 건의한 도성 공사에서 모두 돌로 쌓자는 안에 반대한 이조 판서는?"}
+{"id": "MH3-075", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "이천이 한강루에서 맞은 명 사신과 금강산을 함께 유람한 사신은?"}
+{"id": "MH3-076", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "원경왕후의 혼전에서 동지제를 대신 지낸 우의정은?"}
+{"id": "MH3-077", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김익정이 광중의 물을 살피러 간 능의 비전 공사를 감독한 참찬은?"}
+{"id": "MH3-078", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "한상경의 영의정 후임이 명에 갈 때 호송해 준 평안도 관찰사는?"}
+{"id": "MH3-079", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "허조가 진달한 수령 고소 금지책의 흠결을 상소한 좌사간대부는?"}
+{"id": "MH3-080", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "조비형의 공조 판서 전임자와 함께 헌수례를 청한 예조 참의는?"}
+{"id": "MH3-081", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "조연이 3년 여막을 지킨 능에 먼저 묻힌 왕후의 지문을 지은 이는?"}
+{"id": "MH3-082", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "황보인이 경차관으로 나간 기근에 콩과 쌀 17만 섬을 청한 관찰사는?"}
+{"id": "MH3-083", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "저화 유통 위기 때 경시서에서 강제 통용을 명한 영의정부사의 후임은?"}
+{"id": "MH3-084", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김점 탐오 사건을 태상왕 명으로 국문한 병조 참의의 바로 위 참판은?"}
+{"id": "MH3-085", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김자가 우보덕으로 모신 세자의 좌빈객 제수를 사양한 병조 판서는?"}
+{"id": "MH3-086", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "박습의 처형을 다시 청해 관철한 대신의 좌의정 후임은?"}
+{"id": "MH3-087", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "규주가 청한 대장경을 싣고 간 회례사 부사가 뒤에 부물을 전한 대마도주는?"}
+{"id": "MH3-088", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김점 탐오 사건을 국문한 병조 참의가 상왕 명으로 치제한 빈소의 주인은?"}
+{"id": "MH3-089", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "수령 임기 논쟁에서 13인 상서를 이끈 부제학을 문형 후계로 지목한 이는?"}
+{"id": "MH3-090", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "서달의 아버지가 부사로 간 고부 사행의 정사는?"}
+{"id": "MH3-091", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "임군례 옥사를 국문한 호조 판서가 예조 판서로서 터를 잡은 별묘는?"}
+{"id": "MH3-092", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "신유정을 부장으로 거느린 도원수에게 태종 수릉관 자리를 넘긴 이는?"}
+{"id": "MH3-093", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "김용기가 직첩을 빼앗긴 국상의 주인이 숨을 거둔 곳은?"}
+{"id": "MH3-094", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "양녕대군 이천 환원에 반대 상소를 이끈 대사헌의 전라도 관찰사 전임자는?"}
+{"id": "MH3-095", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "양녕대군 이천 환원에 반대 상소를 이끈 대사헌에게 평안도 감사를 넘긴 파직자는?"}
+{"id": "MH3-096", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "집현전에 문신을 모으자고 처음 건의한 대신이 예로써 기세를 꺾은 명 환관은?"}
+{"id": "MH3-097", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "송희경의 지함양군사 제수를 막으려 탄핵한 집의가 국문을 청한 무신은?"}
+{"id": "MH3-098", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "대장경 목판 요구 뒤 일본에 간 회례사 정사와 무고 옥사로 함께 갇힌 대사헌은?"}
+{"id": "MH3-099", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "임군례 옥사를 국문한 호조 판서가 부사로 따른 하정사는?"}
+{"id": "MH3-100", "category": "멀티홉", "sub": "3hop", "pair_id": null, "question": "길재가 입학한 곳에서 여덟 살에 입학례를 치른 세자는?"}
+{"id": "MH5-001", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "휘빈 김씨를 맞은 해에 그 남편의 좌빈객이 된 이의 집으로 주상이 모시고 옮겨 간 대비의 둘째 아들은?"}
+{"id": "MH5-002", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "길사순의 아버지가 입학해 공부한 곳에 여덟 살에 입학례를 치른 세자가 맞이한 세자빈은?"}
+{"id": "MH5-003", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "서선의 아들 살인 건에서 독자 속전의 전례가 없다고 아뢴 좌대언이 우보덕으로 모신 세자가 맞이한 세자빈은?"}
+{"id": "MH5-004", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "한확의 누이가 순사한 황제의 붕어 때 간 진위사의 아들이 장령으로 대신 파직을 청할 때 대사헌은?"}
+{"id": "MH5-005", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "상왕 거둥 탓에 사헌부가 유배될 때 주모자의 통곡을 전한 이의 강원도 감사 후임, 그 사위의 아버지의 한성 부윤 후임은?"}
+{"id": "MH5-006", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김한로의 사위를 낳은 왕비가 낙천정에서 옮겨 간 이궁의 공사를 감독한 이는?"}
+{"id": "MH5-007", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "안숭선의 아버지가 비전 공사를 감독한 능에 묻힌 선왕의 수릉관에게 병으로 그 자리를 넘긴 앞사람은?"}
+{"id": "MH5-008", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "서달의 장인의 강원도 감사 전임자가 징발을 맡은 성곽 공사에서 군인 떼죽음을 드문 일이 아니라 한 공조 참판은?"}
+{"id": "MH5-009", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "황엄과 고명을 가져온 정사의 막내누이가 뽑힌 진헌 때 딸도 뽑혀 소환된 평안도 도절제사의 평안도 감사 후임은?"}
+{"id": "MH5-010", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "사행 중 포학해 이종무 등이 함께 탄핵받게 한 이의 고부 겸 청시사 부사 아들의 장인이 처음 좌의정이 될 때 전임자는?"}
+{"id": "MH5-011", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "조서로가 추문으로 물러난 뒤 지신사가 된 이가 종사관으로 모신 도통사의 영의정부사 전임자의 딸인 왕비는?"}
+{"id": "MH5-012", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "소헌왕후의 아버지가 수괴로 몰린 옥사의 삼성 합동 심문 위관이 대사헌이 될 때 통째 파직된 전임 대사헌은?"}
+{"id": "MH5-013", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "서선의 아들이 피해자 집안에 보복 저격당했다고 아뢴 이가 평안도 도절제사로 천거한 무신의 평안도 감사 후임은?"}
+{"id": "MH5-014", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "성엄이 처음 한성 부윤이 될 때 파면된 전임자의 아들 살인 처리에 항의 상소한 겸 대사헌의 공조 판서 후임은?"}
+{"id": "MH5-015", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "안숭선의 아버지가 호조 판서일 때 그 위의 호조 겸판사가 산릉사를 맡은 국상의 주인이 묻힌 능은?"}
+{"id": "MH5-016", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "하연 후임 대사헌이 부임하자마자 도로 청주에 두라고 청한 대군의 바로 아래 동복아우가 부묘 날 위판을 모신 원묘는?"}
+{"id": "MH5-017", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "이지강 바로 앞의 대사헌이 도로 청주에 두자고 청한 대군의 어머니를 모신 혼전은?"}
+{"id": "MH5-018", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "장윤화의 전라도 감사 후임이 대사헌으로 추악한 행실을 탄핵한 종친이 옷과 신을 들고 맞으러 간 도망친 형의 장인은?"}
+{"id": "MH5-019", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김도련에게 받은 노비를 처남에게 물려받았다고 둘러댄 좌의정의 전임자가 대질도 필요 없다고 한 옥사 수괴의 딸인 왕비는?"}
+{"id": "MH5-020", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "곽승우의 집으로 주상이 모시고 옮겨 간 대비의 둘째 아들이 위판 봉안을 대행한 부묘에서 이래의 공을 증언한 참찬은?"}
+{"id": "MH5-021", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "원숙의 지신사 후임이 광중 물을 살피러 간 능의 비전 공사 감독자가 진위사로 갈 때 함께 간 진향사는?"}
+{"id": "MH5-022", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "황엄과 고명을 가져온 정사가 지방 발령 원망을 듣고 아뢴 무신의 집으로 주상이 모시고 옮겨 간 대비의 맏아들은?"}
+{"id": "MH5-023", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "강상인 옥사 수괴의 영의정부사 후임이 산릉사를 맡은 국상의 주인이 숨을 거둔 곳은?"}
+{"id": "MH5-024", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "낙천정 이름을 지은 대신이 병으로 물러난 좌의정의 후임이 총호사를 맡은 국상의 주인이 묻힌 능은?"}
+{"id": "MH5-025", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "이명덕이 징발을 주관한 성곽 공사에서 독단하다 집으로 돌려보내진 제조가 버드나무 심기를 감독한 능에 먼저 묻힌 왕후는?"}
+{"id": "MH5-026", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "성엄이 부사로 따라간 세자빈 납채 정사가 공조 판서로 시책과 시보를 받든 국상의 주인이 묻힌 능의 비전 공사 감독자는?"}
+{"id": "MH5-027", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "한확의 누이가 순사한 황제의 붕어 때 간 진향사가 식량을 준 유배 죄인 중 궁인을 통해 몰래 찾아뵌 옛 임금은?"}
+{"id": "MH5-028", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "적휴의 정체를 밝혀 보고한 경상도 관찰사 아들의 장인이 고양현 아사자를 아뢴 기근 때 의주·삭주 진제 경차관은?"}
+{"id": "MH5-029", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "원경왕후 혼전의 동지제를 대신 지낸 우의정이 좌의정에 천거했다 물리침 당한 이에게 병으로 수릉관을 넘긴 앞사람은?"}
+{"id": "MH5-030", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "심온이 수괴로 몰린 옥사에서 상왕이 따로 보내 심문케 한 무신의 납채 부사가 처음 한성 부윤이 될 때 파면된 전임자는?"}
+{"id": "MH5-031", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김자지의 평안도 감사 전임자가 연루되어 유배된 옥사의 삼성 합동 심문 위관이 예조 판서로 지관과 터를 잡은 별묘는?"}
+{"id": "MH5-032", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "연사종에게 수릉관을 넘겨받은 이가 연루된 노비 뇌물 옥사에서 연루 대신의 아들이 집을 엿보게 한 대사헌의 지신사 후임은?"}
+{"id": "MH5-033", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "세자 조현이 황제 만류로 무산된 해의 세자 좌빈객의 공조 판서 후임이 평안도 도절제사가 될 때 소환된 전임자는?"}
+{"id": "MH5-034", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "태종 부묘 때 이애 배향을 막은 좌의정의 전임자가 전라도 관찰사로서 기세를 꺾은 명 환관이 고명을 가져올 때 정사는?"}
+{"id": "MH5-035", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "상왕 거둥 탓에 사헌부가 유배될 때 주모자의 통곡을 전한 이의 지신사 후임이 대사헌으로 간통을 탄핵한 지신사의 후임은?"}
+{"id": "MH5-036", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "조연이 삼 년 여막을 지킨 능에 먼저 묻힌 왕후의 지문 찬자가 문형 후계로 지목한 이가 좌보덕으로 모신 세자는?"}
+{"id": "MH5-037", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "박안신과 무고 옥사 오결로 갇힌 대사헌을 납채 부사로 둔 정사가 사행 전 태상왕 위로연을 받은 정자를 이름 지은 이는?"}
+{"id": "MH5-038", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "고약해와 함께 파직된 감사가 징발을 주관한 도성 공사를 건의한 공조 판서가 사행 전 태상왕 위로연을 받은 정자는?"}
+{"id": "MH5-039", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "권희달의 비행을 숨겨 벌받은 사은사가 대질한 옥사에서 상왕이 따로 보내 심문케 한 무신이 책인을 전한 세자빈은?"}
+{"id": "MH5-040", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "사찰 노비를 옮겨 소속시킨 본궁이 빈전이 된 국상에서 사륜거를 만든 공조 참판이 서흥에서 위로한 명 사신은?"}
+{"id": "MH5-041", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "성균관에 입학한 세자의 좌빈객 제수를 사양한 이의 예조 참의가 앞서 경차관으로 아목하에서 선온을 권한 추장은?"}
+{"id": "MH5-042", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "오승에게서 공조 판서를 이은 이의 집으로 주상이 모시고 옮긴 대비의 혼전에 부묘 날 위판을 모신 종친은?"}
+{"id": "MH5-043", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "대마도 정벌 삼도 도통사의 영의정부사 후임이 하등극사로 간 황제 교체 때 선제를 조문한 진위사는?"}
+{"id": "MH5-044", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "고양현 아사자를 아뢴 예조 판서의 좌의정 전임에게 직첩·녹권 환급을 거두라 한 집의가 간 일본 회례사의 부사는?"}
+{"id": "MH5-045", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "중궁 폐위를 처음 넌지시 꺼낸 대신이 왜구 토벌에 쓰자 한 귀화 왜인의 송환을 청한 대마도주의 아버지는?"}
+{"id": "MH5-046", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "요동 의원의 세종 진찰 때 말을 전한 이가 사리 바치러 따라간 사신의 요구로 사은사가 된 왕자가 맞아 온 도망친 형은?"}
+{"id": "MH5-047", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "세종 책봉 고명의 부절을 둔 곳에 어실을 지은 제조가 도랑을 감독한 능에 묻힌 임금을 3년 여막에서 모신 이는?"}
+{"id": "MH5-048", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "명 황제 조현이 무산된 세자의 성균관 입학 박사가 감형에 정면 반대한 죄인이 고부 겸 청시사로 갈 때 부사는?"}
+{"id": "MH5-049", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "경자자 주조를 감독한 지신사의 후임과 환관과 술자리를 벌인 좌대언이 한성 부윤으로 옮길 때 대사헌 후임은?"}
+{"id": "MH5-050", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "조서로의 지신사 후임을 수뢰로 탄핵한 사헌부 집의의 당시 대사헌이 병조 판서가 될 때 병으로 물러난 전임은?"}
+{"id": "MH5-051", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "한상경의 영의정 후임과 평소 알던 명 사신이 친왕자를 고집해 사은사가 된 왕자가 돌아와 위로연을 받은 정자는?"}
+{"id": "MH5-052", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "조종생이 우부대언이 된 날 지신사가 된 이의 전임이 광중의 물을 살피러 간 능에 먼저 묻힌 왕후는?"}
+{"id": "MH5-053", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "최윤덕이 경원 이설론에 든 패전 장수의 원망을 아뢴 이의 막내누이가 뽑힌 진헌에서 요동서 먼저 경사로 간 사신은?"}
+{"id": "MH5-054", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "대마도 정벌 삼도 도통사의 영의정부사 전임과 평소 알던 명 사신에게 사리를 바치라고 딸려 보낸 관원은?"}
+{"id": "MH5-055", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "사사노비 혁파 때 회암사 전지 감축을 청한 이가 천거한 평안도 도절제사를 진마사라 부른 처녀 선발 사신들의 원접사는?"}
+{"id": "MH5-056", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "부민고소금지법 발안자가 평안도 도절제사로 천거한 무신이 반송한 명 사신과 다음 사행에 함께 온 짝 사신은?"}
+{"id": "MH5-057", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "풍양궁 공사 감독관의 독단을 도성수축도감에서 꾸짖은 좌의정이 대질한 옥사에서 상왕이 따로 보내 심문케 한 무신은?"}
+{"id": "MH5-058", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "박실이 대마도 정벌 때 모신 총지휘관이 대질한 옥사 초기 삼성 합동 심문 위관이 하정사 부사로 갈 때 정사는?"}
+{"id": "MH5-059", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "하연의 평안도 감사 전임의 사면을 청한 지사간원사가 장령 때 탄핵한 죄인 중 고부 겸 청시사였던 이의 부사는?"}
+{"id": "MH5-060", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "유정현의 영의정부사 후임이 공신 상소로 아버지의 공신 삭탈을 청한 옥사를 국문한 호조 판서가 하정사 부사일 때 정사는?"}
+{"id": "MH5-061", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "처녀로 뽑혔으나 병든 한씨의 오라비가 불평을 아뢴 무신의 죄를 불응위로 조율한 의금부 제조의 지신사 후임은?"}
+{"id": "MH5-062", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "법손노비 귀속을 상소한 형조 판서가 밀지 칭탁으로 처벌을 청한 이의 지신사 후임이 대사헌이 될 때 파직된 전임은?"}
+{"id": "MH5-063", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "기근 때 17만 섬을 청한 강원도 관찰사가 병조 참판일 때 판서에게 교형을 요구한 대사헌의 후임 대사헌은?"}
+{"id": "MH5-064", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김종서가 경차관으로 재조사해 파직시킨 참찬이 고부하러 갔다 불려 온 국상의 산릉도감 제조가 어실을 지은 건물은?"}
+{"id": "MH5-065", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "경녕군이 국상 중 영인을 재운 원묘에서 동지제를 대신 지낸 우의정이 가뭄 중 풍악을 울린 집 주인과 함께 간 진향사는?"}
+{"id": "MH5-066", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "말 5000필을 요구한 칙유를 가져온 태감을 맞은 원접사의 집으로 주상이 모시고 옮긴 대비가 묻힌 능은?"}
+{"id": "MH5-067", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "황보인이 경차관으로 간 기근 때 17만 섬을 청한 강원 관찰사가 안주에서 위로한 명 사신을 따라가 사리를 바친 관원은?"}
+{"id": "MH5-068", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "유영의 대사헌 전임이 추행으로 탄핵한 종친이 기생과 처음 음행한 국상 때 고부하러 갔다 불려 온 사신은?"}
+{"id": "MH5-069", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "고약해가 고신 환급을 청한 전 집의가 상소한 수령 임기 논쟁에서 13인 상서를 이끈 이가 좌보덕으로 가르친 세자는?"}
+{"id": "MH5-070", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "권채의 처분을 줄인 지신사가 좌부대언일 때의 지신사가 현물 거래 금령을 물은 동전 정책에서 장물 환산을 따진 집의는?"}
+{"id": "MH5-071", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "박관이 처벌을 청한 종친이 사은사에서 돌아와 위로연을 받은 정자의 이름을 지은 이가 왜구 토벌에 쓰자 한 귀화 왜인은?"}
+{"id": "MH5-072", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "서달이 보복 저격을 당했다고 아뢴 이가 형조 이송을 홀로 주장해 준 대사헌의 전임이 평안도 감사를 이을 때 파직된 이는?"}
+{"id": "MH5-073", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "권도의 처벌을 정배로 높이게 한 지평이 예조 정랑일 때 판서가 경상도 관찰사로서 포로 송환을 요구한 대마도주의 아버지는?"}
+{"id": "MH5-074", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "정연이 간통을 탄핵한 절제사의 막내누이가 뽑힌 진헌 전에 14세 이상을 청한 지사간원사가 고신 환급을 청한 전 집의는?"}
+{"id": "MH5-075", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "경자자 주조를 맡은 공조 참판이 사륜거를 만든 국상에서 견전을 대행한 종친의 노비 소송을 문제 삼은 사헌부 집의는?"}
+{"id": "MH5-076", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "신유정이 부장으로 모신 도원수의 부처 방면에 반대한 장령의 상관 대사헌이 한성 부윤으로 옮길 때 후임은?"}
+{"id": "MH5-077", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "공녀들이 순사한 명 황제의 죽음에 간 진향사를 파직 때 변호한 대신이 대질이 필요 없다고 한 이의 영의정 전임자는?"}
+{"id": "MH5-078", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "낙천정 기문 찬자를 연회 부복으로 탄핵한 대사헌의 강원도 경력이 고신 환급을 청한 전 대장 중 집의가 된 이는?"}
+{"id": "MH5-079", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김맹성이 우대언일 때 지신사가 대언으로 국문한 탐오 사건에서 율문대로 처벌을 거듭 청한 집의의 일본 회례사 부사는?"}
+{"id": "MH5-080", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "태종 국상의 총호사가 가뭄 중 풍악을 울리며 술을 마신 집 주인이 진위사로 조문한 명 황제의 처녀 요구를 전한 주문사는?"}
+{"id": "MH5-081", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "권희달 비행을 숨긴 사은사를 앞서 대사헌으로 탄핵한 이가 논죄를 청한 도망민의 섬에 가다 표착한 선군을 위로한 도만호는?"}
+{"id": "MH5-082", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "도성을 쌓자고 한 공조 판서가 경원 이설의 본보기로 든 패전 장수를 탄핵한 집의가 일본 회례사로 갈 때 부사는?"}
+{"id": "MH5-083", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "도성을 쌓자고 한 공조 판서가 내이포에서 아들을 벤 귀화 왜인을 천거한 대신이 전라도 관찰사 때 기세를 꺾은 명 환관은?"}
+{"id": "MH5-084", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "왜적을 피했다며 조치를 탄핵한 대사헌의 후임이 원하는 지방 부처에 반대한 이의 사면을 청한 지사간원사는?"}
+{"id": "MH5-085", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "효령대군 노비 소송을 따진 집의의 동부대언 때 지신사가 좌대언으로 의견을 물은 동전 정책에서 백성 뜻대로 쓰자던 참찬은?"}
+{"id": "MH5-086", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "최이가 식량을 준 유배 죄인을 정벌에 데려간 장수를 처음 탄핵한 장령이 동부대언일 때 모신 지신사는?"}
+{"id": "MH5-087", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "헌릉 지문 찬자를 연회 부복으로 탄핵한 대사헌이 안주에서 맞은 명 사신이 서흥 본가에 쌀·콩을 청해 준 환관은?"}
+{"id": "MH5-088", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "문종 세자 책봉을 먼저 청한 좌의정이 대질이 필요 없다 한 이를 호송한 평안도 관찰사가 형조 판서로 조율한 대사헌은?"}
+{"id": "MH5-089", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김훈을 정벌에 데려간 장수가 비행을 숨긴 진하사의 사형을 청한 좌사간대부의 상소를 '한가한 관원의 말'이라 한 지신사는?"}
+{"id": "MH5-090", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "동맹가첩목아를 투항시킨 이를 도성수축도감에서 꾸짖은 도제조가 좌의정감으로 천거한 이의 방면에 반대한 장령은?"}
+{"id": "MH5-091", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "세종 책봉 고명의 부절을 모신 곳에 어실을 짓던 선공감 제조를 논핵한 대사헌이 합사하여 처벌을 청한 종친은?"}
+{"id": "MH5-092", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "곽승우의 죄를 불응위로 조율한 의금부 제조가 유배지가 무겁다고 두둔한 무신이 반송사로 배웅한 명 사신 사행의 원접사는?"}
+{"id": "MH5-093", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "불교 혁파를 청한 집현전 제학이 참의로 모신 병조 판서를 부처 이튿날 율대로 논죄하자던 지평의 예조 정랑 시절 판서는?"}
+{"id": "MH5-094", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "홍여방과 부상의 딸을 두고 다툰 대신이 처음 알린 탐오 사건을 국문한 대언을 뒤에 수뢰로 탄핵한 사헌부 집의는?"}
+{"id": "MH5-095", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "광효전 동지제를 대신 지낸 우의정이 처음 알린 탐오 사건에서 죄인을 구슬려 신문한 이가 문형 후계로 꼽은 학자는?"}
+{"id": "MH5-096", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "김한로의 나주 이배를 청한 대사헌이 논핵한 이의 독단을 꾸짖은 좌의정이 가뭄 중 풍악을 울린 집의 주인은?"}
+{"id": "MH5-097", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "양녕대군의 장인을 나주에 두자 한 집의의 상소를 쓸모없다 한 지신사와 환관 술자리를 벌인 좌대언은?"}
+{"id": "MH5-098", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "심온을 호송해 준 관찰사가 어머니를 서울로 옮기자 한 명 사신과 금강산에 간 사신이 진마사라 부르게 한 호송관은?"}
+{"id": "MH5-099", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "황희의 강원도 감사 전임자의 지신사 후임이 추행으로 탄핵한 종친을 일점홍 건으로 탄핵한 우사간대부는?"}
+{"id": "MH5-100", "category": "멀티홉", "sub": "5hop", "pair_id": null, "question": "이명덕이 안주에서 맞은 명 사신이 사은사로 고집한 왕자를 탄핵한 우사간대부가 사형을 청한 사신은?"}
+{"id": "MH7-001", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "아들을 황희의 사위로 둔 이가 부사였던 고부 사행 정사의 망동을 드러낸 이의 누이가 순사한 명 황제에 진위사로 간 대신의 아들은?"}
+{"id": "MH7-002", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "길사순의 아버지가 공부한 곳에 여덟 살에 입학한 세자의 좌빈객 집으로 주상이 모시고 옮겨 간 대비의 둘째 아들은?"}
+{"id": "MH7-003", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "장윤화를 친척이라 감싼 재상이 전라도 관찰사 때 기세를 꺾은 명 환관과 고명을 가져온 정사의 막내누이와 함께 딸이 뽑힌 도절제사의 평안도 감사 후임은?"}
+{"id": "MH7-004", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "탁신이 감형에 반대한 죄인이 고부 사행 정사일 때 부사의 외아들 살인 속전에 전례가 없다고 아뢴 좌대언이 우보덕으로 모신 세자가 맞이한 세자빈은?"}
+{"id": "MH7-005", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "세종 책봉 고명의 부절을 모신 객관 재건에 반대한 대신이 산릉사를 맡은 국상 능의 비전 공사 감독관의 아들로, 감찰을 지냈다며 과전을 먼저 받은 이는?"}
+{"id": "MH7-006", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "심온이 수괴로 몰린 옥사 초기 상왕이 따로 보내 심문케 한 무신이 책인을 전한 세자빈의 남편의 그해 좌빈객이 병조 판서가 될 때 전임자는?"}
+{"id": "MH7-007", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김도련에게 노비 15구를 받은 우의정이 여막을 지킨 능에 먼저 묻힌 왕후의 지문 찬자가 문형 후계로 꼽은 학자가 좌보덕으로 모신 세자가 맞이한 세자빈은?"}
+{"id": "MH7-008", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "이종무가 대질한 옥사 초기 상왕이 따로 보낸 심문자의 세자빈 납채 부사에게 한성 부윤을 내준 파면자의 외아들 살인에 속전을 반대한 집의는?"}
+{"id": "MH7-009", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "박실이 대마도 정벌 때 모신 총지휘관이 대질한 옥사의 위관이 대사헌이 될 때 파직된 전임자가 도로 청주에 두자던 대군의 어머니는?"}
+{"id": "MH7-010", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "태종 부묘 때 이애 배향을 막은 좌의정의 전임자가 기세를 꺾은 명 환관이 친왕자를 고집해 사은사가 된 왕자를 탄핵한 대사헌의 형조 참판 이동 때 후임은?"}
+{"id": "MH7-011", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "경자자 주조를 감독한 지신사의 전임자가 유배가 무겁다고 두둔한 무신에게 처녀 호송 때 진마사라 부르게 한 명 사신들을 맞은 원접사의 병조 판서 전임자는?"}
+{"id": "MH7-012", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "연사종이 부처된 옥사에서 연루 대신의 아들이 집을 엿보게 한 대사헌이 광중을 살피러 간 능의 비전 감독관이 조문한 명 황제의 처녀 요구를 전한 주문사는?"}
+{"id": "MH7-013", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "강상인 옥사에 상왕이 따로 보낸 심문자가 경원 이설 때 본보기로 든 패장 집으로 옮긴 대비의 둘째 아들이 위판을 봉안한 부묘에서 이래 공을 증언한 참찬은?"}
+{"id": "MH7-014", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "말 1만 필 재요구에 감축 주청을 청한 이가 천거한 도절제사의 평안도 감사 후임이 논죄하자던 도망민 섬의 표착 선군을 위로한 도만호의 청으로 새로 열린 포구는?"}
+{"id": "MH7-015", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "최윤덕이 경원 이설의 본보기로 든 패전 장수의 원망을 아뢴 이와 함께 고명을 가져온 태감이 친왕자를 고집해 사은사가 된 왕자가 맞으러 간 도망친 형의 장인은?"}
+{"id": "MH7-016", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "고약해가 고신 환급을 청한 전 대장 중 집의가 불붙인 수령 임기 논쟁에서 연명 상서한 부제학이 좌보덕으로 모신 세자의 좌빈객을 사양한 이의 공조 판서 후임은?"}
+{"id": "MH7-017", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "헌릉 비전 감독관과 함께 명에 간 진향사가 식량을 준 유배 죄인을 정벌에 데려간 장수의 처벌을 청한 대사헌의 평안도 감사 전임자는?"}
+{"id": "MH7-018", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "이안경이 탄핵한 대신이 정부 징발을 주관한 성곽 공사를 처음 건의한 공조 판서가 명에 가기 전 위로연을 받은 정자의 기문 찬자와 《고려사》를 교정한 이는?"}
+{"id": "MH7-019", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "의금부 제조들이 중궁 폐위를 청하러 간 궁의 공사 감독자가 투항시킨 여진 추장을 아목하에서 만난 경차관이 예조 참의일 때 판서의 병조 판서 전임자는?"}
+{"id": "MH7-020", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "양녕대군 이천 환원에 반대 상소한 대사헌의 전라도 감사 전임자를 친척이라 감싼 재상이 왜구 토벌에 쓰자 한 귀화 왜인의 송환을 청한 대마도주의 아버지는?"}
+{"id": "MH7-021", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "좌위문대랑이 구해 준 회례사 정사와 함께 갇힌 대사헌이 납채 부사로 모신 정사가 경사행 전 위로연을 받은 정자를 이름 지은 이가 기세를 꺾은 명 환관은?"}
+{"id": "MH7-022", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "권채의 죄가 가볍다 한 지신사가 좌부대언일 때 지신사가 우부대언으로 처음 들 때 지신사의 전임자가 광중 물을 살피러 간 능에 먼저 묻힌 왕후는?"}
+{"id": "MH7-023", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "법손노비 귀속을 상소한 형조 판서가 밀지 칭탁으로 처벌을 청한 이의 지신사 후임이 유배지가 무겁다 한 무신이 반송사로 전송한 명 사신의 다음 사행 짝은?"}
+{"id": "MH7-024", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "목진공이 호조 참판일 때 판서의 아들이 장령으로 파직을 청한 대신이 정부 징발을 주관한 성곽 공사에서 독단하다 쫓겨난 제조가 버드나무를 심게 한 능은?"}
+{"id": "MH7-025", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "태종 부묘 때 이애 배향을 막은 좌의정이 청주로 옮기자 한 대군의 장인을 나주에 두자 한 집의의 상소를 쓸모없는 말이라 한 지신사의 전임자는?"}
+{"id": "MH7-026", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "원경왕후 혼전에 부묘 날 위판을 모신 종친의 노비 소송을 따진 집의가 동부대언일 때 지신사가 의견을 물은 화폐 정책에서 동전·쌀·포목 겸용을 청한 참찬은?"}
+{"id": "MH7-027", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "안숭선이 표문을 고쳐 뒤쫓은 조문 사행 무렵 등극 하례 정사가 역적 아비 공신 삭탈을 청한 옥사를 국문한 판서가 거절한 선물의 대마도인이 청해 새로 열린 포구는?"}
+{"id": "MH7-028", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "오승이 진헌색 제조를 맡은 뒤 새 황제 등극 하례 정사의 직첩 환급을 거두라 한 집의의 회례사 부사가 사물관압사로 만난 대마도주가 송환을 청한 귀화 왜인은?"}
+{"id": "MH7-029", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김익정 파직 다음 날 지신사가 된 이와 환관 술자리를 벌인 좌대언의 처벌을 재청한 지평이 예조 정랑일 때 판서가 사사로이 서신을 보낸 대마도주의 아버지는?"}
+{"id": "MH7-030", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김도련 노비 옥사에서 즉결을 재촉한 집의가 간통을 탄핵한 장군 절제사의 누이가 순사한 황제의 진향사가 식량을 준 유배 죄인이 몰래 찾아뵌 옛 임금은?"}
+{"id": "MH7-031", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김맹성이 우대언일 때 지신사가 종사관으로 모신 도통사의 영의정 후임이 아비 공신 삭탈을 청한 역적이 선위 내막을 안다던 명 사신을 따라가 사리를 바친 배신은?"}
+{"id": "MH7-032", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김훈을 정벌에 데려간 장수를 처음 탄핵한 장령이 집의로 즉결을 재촉한 옥사에서 종이 엿본 대사헌의 지신사 전임자가 대사헌이 될 때 파직된 전임자는?"}
+{"id": "MH7-033", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "부민고소금지법의 흠결을 상소한 좌사간대부가 아목하에서 만난 여진 추장을 투항시킨 이가 버드나무를 심게 한 능에 먼저 묻힌 왕후의 혼전은?"}
+{"id": "MH7-034", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "대마도 재정벌을 고집한 대신의 매부 사위 발탁을 아뢴 지신사의 전임자가 간통을 탄핵한 지신사와 환관과 어울린 좌대언이 한성 부윤이 될 때 대사헌 후임은?"}
+{"id": "MH7-035", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "경녕군이 국상 중 영인을 재운 원묘에서 동지제를 대행한 우의정이 좌의정에 천거한 이의 방면을 반대한 장령의 당시 대사헌이 한성 부윤이 될 때 후임은?"}
+{"id": "MH7-036", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "윤회의 사간대부 감축 반대론을 아뢴 지신사의 대사헌 전임자가 납채 부사로 모신 정사가 건의한 성곽 공사에서 쫓겨난 제조가 어실을 지은 명 사신 객관은?"}
+{"id": "MH7-037", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "한확의 막내누이가 뽑힌 진헌 때 딸도 뽑힌 도절제사를 천거한 판서가 발안한 법의 흠결을 상소한 이가 예조 참의일 때 판서의 집으로 주상이 모시고 간 대비는?"}
+{"id": "MH7-038", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "고양현에 아사자가 난 기근 때 의주·삭주 진제 경차관이 수뢰를 탄핵한 부윤이 국문한 탐오 사건에서 율대로 벌하자 한 집의의 회례사 부사가 부의한 대마도주는?"}
+{"id": "MH7-039", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "평도전을 백령도에서 책망한 처치사를 도절제사로 천거한 판서가 형조로 보내자고 홀로 두둔한 대사헌의 후임이 사면 철회를 청한 죄인의 비행을 숨긴 사은사는?"}
+{"id": "MH7-040", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "상왕 거둥을 따진 대관들의 유배 옥사를 국문한 의금부 제조의 영의정 전임자와 알던 명 사신에게 사리를 딸려 보낸 관원이 처녀 요구를 전한 황제의 진향사는?"}
+{"id": "MH7-041", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "형조 참판 조치가 집행하다 문책된 법손노비 귀속을 상소한 판서가 논핵한 선공감 제조의 독단을 꾸짖은 좌의정이 청주로 옮기자 한 대군의 바로 아래 동복아우는?"}
+{"id": "MH7-042", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "이방간을 부왕 원수라 한 대사헌의 집의가 우사간대부로 탄핵한 종친과 함께 떠난 주상 사은사 부사의 사면을 청한 이가 고신 환급을 청한 전 집의는?"}
+{"id": "MH7-043", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "오승이 진헌색 제조를 맡은 뒤 죽은 명 황제의 진위사와 함께 간 진향사를 변호한 대신이 대질이 필요 없다 한 이가 영의정이 될 때 물러난 전임자는?"}
+{"id": "MH7-044", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "풍양궁 공사 감독자의 독단을 꾸짖은 좌의정의 바로 앞 좌의정이 대질이 필요 없다 한 이를 호송해 준 평안도 관찰사가 형조 판서로 죄를 조율한 대사헌은?"}
+{"id": "MH7-045", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김여지의 하정사 부사가 받지 말자 한 선물의 대마도인이 배를 보내 구한 회례사가 국문을 청한 무신의 집으로 옮겨 간 대비가 낙천정에서 옮긴 이궁은?"}
+{"id": "MH7-046", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "곽승우의 국문을 청한 집의의 회례사 부사를 처벌하라 한 좌사간대부가 우사간대부로 처벌을 청한 종친을 사은사로 가게 한 명 사신에게 사리를 딸려 보낸 관원은?"}
+{"id": "MH7-047", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "백언과 금강산을 유람한 사신이 진마사라 부르게 한 호송관의 평안도 도절제사 후임이 고부하러 갔다 소환된 국상의 산릉도감 제조를 불손하다고 논핵한 대사헌은?"}
+{"id": "MH7-048", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "원민생이 처녀 요구를 전한 황제의 후계 등극 하례 정사의 좌의정 후임이 아사자를 아뢴 기근에 모미 징수를 반대한 이가 집의로 함께 처벌을 기다린 대사헌은?"}
+{"id": "MH7-049", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "신장을 문형 후계로 지목한 이를 부복 건으로 탄핵한 대사헌이 주관한 공사에서 군인 사망을 예사라 한 공조 참판이 한강루에서 맞은 명 사신의 금강산 동행 사신은?"}
+{"id": "MH7-050", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김용기가 재궁을 잘못 봉안해 직첩을 빼앗긴 국상의 산릉사의 영의정 후임의 좌의정 후임, 그 사위의 살인 건에서 속전 전례가 없다고 아뢴 좌대언은?"}
+{"id": "MH7-051", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "백언과 함께 온 조선 출신 환관을 맞은 원접사의 집으로 피병 온 대비의 혼전에서 백관 배종을 그만두게 한 이가 대질이 필요 없다고 한 옥사의 수괴는?"}
+{"id": "MH7-053", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "강무 때 난 대화재 진화를 지휘한 중궁의 어머니 관천 몰입을 반대한 이가 시책을 고한 국상의 고부사의 보고를 뒤집은 경차관이 곡식 50섬 건으로 탄핵한 지신사는?"}
+{"id": "MH7-054", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "원단 기우제의 오제 제문을 지은 이가 병조 참의일 때 참판의 지신사 후임이 추악한 행실로 탄핵한 종친이 기생과 처음 음란한 짓을 한 국상의 산릉도감 제조는?"}
+{"id": "MH7-055", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "성달생이 삼척에 유배된 옥사의 위관이 겸 대사헌으로 사면을 거두라 한 죄인과 같은 때 명에 간 정조사가 공초에서 지목한 좌군 장수를 파선 죄로 논한 관찰사는?"}
+{"id": "MH7-056", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "이발이 부음을 알리러 간 국상의 산릉도감 제조를 논핵한 대사헌이 밀지 칭탁 건으로 처벌을 거듭 청한 이의 평안도 관찰사 전임자를 사면해 달라 한 지사간원사는?"}
+{"id": "MH7-057", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "성석린의 아들 상중에 고기를 권하러 보내진 환관이 직첩을 빼앗긴 국상의 총호사와 첩을 다툰 이를 사면해 달라 한 지사간원사가 장령일 때 처벌이 가볍다 한 사신은?"}
+{"id": "MH7-059", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김도련의 뇌물 노비를 받은 좌의정이 처음 아뢴 탐오 사건에서 거듭 엄벌을 청한 집의와 무고 옥사로 함께 갇힌 대사헌의 한성 부윤 전임자의 아들의 장인은?"}
+{"id": "MH7-060", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "황희의 사위가 일으킨 살인 사건에서 속전을 반대한 집의가 지평일 때 대사헌의 평안도 감사 전임자와 상인의 딸을 첩으로 다툰 이의 좌의정 전임자는?"}
+{"id": "MH7-061", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "대기근에 콩과 쌀 17만 섬을 청한 강원도 관찰사의 경력이 장령으로 탄핵한 진하사를 사형하자던 좌사간대부의 상소를 깎아내린 지신사의 후임은?"}
+{"id": "MH7-063", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "임군례 옥사를 국문한 호조 판서가 고친 100호 안을 낸 감찰이 200섬 수뢰로 탄핵한 이의 지신사 전임자와 산장을 다툰 이를 부처 이튿날 논죄하자던 지평은?"}
+{"id": "MH7-064", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김여지가 합사해 처벌을 청한 옥사를 국문한 의금부 제조가 도통사로 이끈 원정에서 적을 막은 우군 절제사가 죽고 싶다 말한 상대가 감사일 때 경력은?"}
+{"id": "MH7-065", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "가뭄에 인심 화합 5조목을 올린 이가 관찰사 때 글을 받은 관노의 아버지 휘하 참판이 수긍했다 진술한 장천군이 비행을 덮어 준 진하사의 사형을 청한 좌사간대부는?"}
+{"id": "MH7-066", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "강상인이 군사 분속을 물었다던 우의정이 천거한 이에게 수릉관을 넘긴 이가 나라가 부유하면 백성이 가난하다 하자 반박한 이를 논죄하자던 지평이 정랑 때 판서는?"}
+{"id": "MH7-067", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "말 5000필 교역 칙유를 가져온 태감 중 금강산에 가려던 이의 원접사의 공조 판서 후임의 보고를 뒤집은 경차관과 속전 일로 논죄된 대사헌이 탄핵한 종친은?"}
+{"id": "MH7-068", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "이원생을 두고 전정에서 간쟁한 장령과 속전 일로 논죄된 대사헌의 지신사 후임이 불효로 국문을 청한 대군의 바로 아래 동복아우의 노비 소송을 문제 삼은 집의는?"}
+{"id": "MH7-069", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "박안신이 국문을 청한 무신의 불평을 아뢴 소경의 막내누이가 뽑힌 진헌에서 14세 이상만 뽑자 한 지사간원사와 함께 파직된 감사가 병조 참판일 때의 판서는?"}
+{"id": "MH7-070", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "정종 국상의 섭상주 왕자를 포천으로 옮기는 데 반대한 장령이 파직을 청한 대신이 안주에서 맞은 명 사신이 친왕자로 요구한 사은사를 기생 일로 탄핵한 우사간대부는?"}
+{"id": "MH7-071", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김도련 노비 옥사 때 파직된 재상의 아들이 엿보게 한 대사헌이 지신사로 감독한 활자를 주조한 공조 참판이 서흥에서 위로한 명 사신의 원접사의 공조 판서 전임은?"}
+{"id": "MH7-072", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "설순이 좌사경으로 모신 세자의 입학례 박사가 용서 말라 한 사신의 사형을 청한 좌사간대부가 집의일 때 집으로 쫓겨난 대사헌이 압슬형을 주장한 대상은?"}
+{"id": "MH7-073", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "말 1만 필 진헌 사신이 묵은 관사의 재건을 홀로 반대한 대신의 영의정 전임자를 호송한 평안도 관찰사가 모친을 서울로 옮기자 한 사신의 금강산 동행 사신은?"}
+{"id": "MH7-074", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "동맹가첩목아가 마중한 경차관이 내치라 한 신하의 먼 안치를 궁정에 엎드려 청한 대사헌의 지신사 후임이 광중의 물을 살핀 능에서 병든 수릉관을 대신한 이는?"}
+{"id": "MH7-075", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "성석린에게 상왕이 고기를 권하러 보낸 지사의 전라도 관찰사 후임이 간통으로 탄핵한 지신사의 후임이 종사관으로 모신 도통사가 다시 짓기를 홀로 반대한 건물은?"}
+{"id": "MH7-076", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "평도전을 싸움에 보내자고 한 대신이 이름 지은 정자의 기문을 쓴 이를 연회에서 엎드린 일로 탄핵한 대사헌의 지신사 후임이 간통으로 탄핵한 지신사는?"}
+{"id": "MH7-077", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "대장경 목판 요구 사건의 회례사와 함께 갇힌 대사헌의 한성 부윤 전임이 부사였던 고부 사행 정사의 사면 환수를 청한 대사헌이 받지 말자 한 편등을 보낸 왜인은?"}
+{"id": "MH7-078", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "문종 세자 책봉을 먼저 청한 좌의정이 왜구 토벌에 천거한 귀화 왜인을 책망한 처치사의 평안도 도절제사 후임의 공조 판서 전임이 원접사로 맞은 상선감 좌소감은?"}
+{"id": "MH7-079", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "정종 국상에서 섭상주로 담제를 대리한 왕자를 전정에서 간쟁한 장령이 속전 일로 함께 논죄된 대사헌의 후임의 후임 대사헌이 부사로 따라간 하정사행의 정사는?"}
+{"id": "MH7-080", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "정흠지의 수뢰를 탄핵한 사헌부 집의의 상관 대사헌이 예조 판서일 때의 참의가 선온을 권한 여진 추장의 관문을 올린 도절제사에게 땅을 사사로이 준 호조 판서는?"}
+{"id": "MH7-081", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "황보인이 강원도 경차관으로 간 기근 때 곡식 17만 섬을 청한 관찰사의 후임의 좌의정 전임자가 역적의 아비 공신 삭탈을 청한 옥사를 국문한 좌대언은?"}
+{"id": "MH7-082", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "종정성이 처자 송환을 청한 평 장군을 백령도에서 책망한 처치사가 연루되어 유배된 옥사를 국문한 의금부 제조가 산릉사를 맡은 국상에서 재궁을 안치한 궁은?"}
+{"id": "MH7-083", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "김용기가 직첩을 빼앗긴 국상에서 견전을 올린 대군의 노비 소송을 따진 집의가 간통을 탄핵한 절제사의 누이가 뽑힌 진헌에서 먼저 경사로 간 사신은?"}
+{"id": "MH7-084", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "적휴 도망 사건을 보고한 도관찰사의 아들의 장인의 강원도 관찰사 전임자가 승전색에게 공초 뒤 통곡했다고 전해 준 죄인의 평안도 감사 후임의 대사헌 후임은?"}
+{"id": "MH7-085", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "정인지가 사장을 돌려주러 간 영돈녕부사가 삼도 도통사였던 원정의 재정벌을 우의정으로 말린 이가 청주로 옮기자 한 대군의 어머니가 낙천정에서 옮겨 간 이궁은?"}
+{"id": "MH7-087", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "수강궁 공사 감독으로 치하받은 이를 도성수축도감에서 꾸짖은 좌의정이 증인을 세워 아뢴 탐오 사건을 태상왕 명으로 국문한 병조 참의의 참판의 강원도 관찰사 후임은?"}
+{"id": "MH7-088", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "태평관 어실을 멋대로 지은 선공감 제조가 도랑을 판 능에서 태종을 3년 모신 수릉관의 방면을 막은 장령이 매관매직으로 탄핵한 재상이 통곡했다 전한 죄인은?"}
+{"id": "MH7-089", "category": "멀티홉", "sub": "7hop", "pair_id": null, "question": "권희달이 진하사로 갈 때의 사은사가 옥에서 대질한 옥사의 국문을 명받은 의금부 제조의 영의정부사 후임이 소환되자 반대 상소한 집의와 함께 갇힌 대사헌은?"}

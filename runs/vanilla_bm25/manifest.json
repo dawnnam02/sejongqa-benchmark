@@ -1,0 +1,22 @@
+{
+ "system": "vanilla_bm25",
+ "run_date": "2026-09-29",
+ "model_requested": "gpt-4.1-mini",
+ "model_returned": "gpt-4.1-mini-2025-04-14",
+ "temperature": 0,
+ "max_tokens": 100,
+ "top_k": {
+  "bm25": 20,
+  "dense": 0,
+  "rrf_k": 60,
+  "rrf_saved": 20,
+  "final": 8
+ },
+ "system_prompt": "당신은 조선 세종대 실록 기사에 관한 질문에 답한다.\n아래 [자료]에 주어진 기사 조각만 근거로 답하라. 자료 밖의 지식을 쓰지 마라.\n답변 형식: 짧은 답 하나. 단어나 짧은 구로만 답하고 설명·근거 표기는 쓰지 않는다. 답할 수 없으면 '근거 부족'이라고만 쓴다.",
+ "system_prompt_sha256": "b5a2edc09435fff0a9d196ebcfc27e91d1289cb5929f33e75d17757620cdcdbc",
+ "n_questions": 975,
+ "questions_sha256": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
+ "corpus_sha256": "9dee02459dbcc660d752df009b2cf7c4d955f3125e85e12c8664ab8d97ecf6c6",
+ "retrieval": "BM25 only (character bigrams); dense retrieval disabled (top_k.dense = 0)",
+ "smoke_test": "the first five items were answered in a pipeline smoke-test call with identical settings and are included in the 975"
+}
