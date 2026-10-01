@@ -12,7 +12,7 @@
  "models": {
   "item_drafting_revision_resolving": "Claude Code sub-agents, Claude Opus 5.5 (claude-opus-5-5)",
   "wiki_authoring": "Claude Opus 5 (authors' record of the model; no run log released)",
-  "reader_and_judge": "gpt-4.1-mini-2025-04-14; Gold-context also re-read with gpt-4.1-2025-04-14 (runs/gold_gpt41)",
+  "reader_and_judge": "gpt-4.1-mini-2025-04-14 (answer generation and LLM-Eq); Gold-context also with gpt-4.1-2025-04-14 (runs/gold_gpt41)",
   "embedding": "text-embedding-3-small",
   "graphrag": "Microsoft GraphRAG 2.7.2 (Local and Basic search), gpt-4.1-mini via LiteLLM (dated version not recorded)"
  },
@@ -37,83 +37,15 @@
   "sha256_released": "d9a42d945aeaf04622bda43f0bc5d01d9d5c549b1524c94803fc6af4ae850aa6",
   "note": "comments removed; functional settings identical to the run"
  },
- "code": {
-  "note": "comments removed or shortened to English; code otherwise as run, except that internal references were removed from a few printed messages and an unused local model path was replaced by the environment variable E5_MODEL",
-  "files": {
-   "15_GraphRAG질의.py": {
-    "sha256_as_run": "508efbb8d6a2e9a1fb3322fff7cca19b938ffbc4569a0ddf2af0ca6b01a41f8f",
-    "sha256_released": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f"
-   },
-   "16b_LLM판정.py": {
-    "sha256_as_run": "d2135e1651e52ef9192de519e53ff1602956969a08b9882b99033b94f345b1a7",
-    "sha256_released": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57"
-   },
-   "22_Vanilla색인.py": {
-    "sha256_as_run": "f9c85dd6c8addac55b8c839ac543da0a54e847ceac3d2617e42cb1cd87c3972a",
-    "sha256_released": "6ceb5d470a36b8f63e4aab565ae32690ba09a403dc6e0c32ca75cfa53bc1bd0b"
-   },
-   "25_Vanilla검색.py": {
-    "sha256_as_run": "d26b561ba03aeba06404a5fdfba1a90520b771ce82e78ed5c13637adac0b30dd",
-    "sha256_released": "29c7390299c5a85712d77a4f4b7f949031b2a4730bd342255002a4c6a6ac8858"
-   },
-   "26_질의.py": {
-    "sha256_as_run": "42cc290750afbc743fab2f4c798db13e8fe6e65174d2aff6bbbe202b45082f47",
-    "sha256_released": "64df3c67a923b8400dee11497edf894bedacc0c4a943da77958d6d9a207ba4d0"
-   },
-   "27_채점.py": {
-    "sha256_as_run": "ff80e470b86e5162bf767482b5d3e910495cc976da0784b833235dfc8592aae1",
-    "sha256_released": "502afde0c13470ede95f224eca44d3082a56a3f1b9e0dcfe3d494fc101144274"
-   },
-   "v3공통.py": {
-    "sha256_as_run": "fbbdf79ee158b9da0991da8654419d133671827231eb79e4784e3c12ae1db56f",
-    "sha256_released": "ca180c64459d1bffb8ded8436b8a6d8377f47b3c855885244f4a1d62e20eaf59"
-   },
-   "15c_GraphRAG기본검색.py": {
-    "sha256_as_run": "87e64585731b208ef3fcf3a1efde77119856adc6c6890982aa662ef785f7ddfa",
-    "sha256_released": "4aad96d3967125d97b24095b5ed8b1cc7b5d269b20412599a3878e6121b71ed0"
-   }
-  },
-  "26_질의.py": "the Closed-Book, Vanilla RAG and Gold Evidence runs used the previous version of this file; the only difference is the --retrieval option added for the BM25-only ablation"
- },
  "files_sha256": {
   ".gitignore": "a03e2bec5d2d04d09168c3a968fe04152364479aa2de93117cb16259b0e6e7bf",
-  "LICENSE.md": "d6ef54186fe88bbeb85294dd1548f38806a675ab01c115cb1462e046f63d6841",
-  "README.md": "d31981edb24dc3fc574a5c68bd7e837ce4076efbed116dc209e978fe08b09c4f",
-  "code/15_GraphRAG질의.py": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f",
-  "code/15c_GraphRAG기본검색.py": "4aad96d3967125d97b24095b5ed8b1cc7b5d269b20412599a3878e6121b71ed0",
-  "code/16b_LLM판정.py": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57",
-  "code/22_Vanilla색인.py": "6ceb5d470a36b8f63e4aab565ae32690ba09a403dc6e0c32ca75cfa53bc1bd0b",
-  "code/25_Vanilla검색.py": "29c7390299c5a85712d77a4f4b7f949031b2a4730bd342255002a4c6a6ac8858",
-  "code/26_질의.py": "64df3c67a923b8400dee11497edf894bedacc0c4a943da77958d6d9a207ba4d0",
-  "code/27_채점.py": "502afde0c13470ede95f224eca44d3082a56a3f1b9e0dcfe3d494fc101144274",
-  "code/v3공통.py": "ca180c64459d1bffb8ded8436b8a6d8377f47b3c855885244f4a1d62e20eaf59",
+  "LICENSE.md": "004deb07b244e14c585d9bbdf3cf98b81877cea27024270774c10884e75e1b65",
+  "README.md": "443a635ef77c3e262223ab0fa0c43b32cb264cd0f2bd4472f7b994abac07d4c9",
   "data/answers.jsonl": "69ccaeec2d01955f40f11569dab59dfe449868f31940232c029d7e16b3c5c28c",
   "data/article_ids.tsv": "0c1b1680c9c4624785d17baccb98c858c4d8b4edd7679db4553e0fa7fa63d293",
-  "data/author_sample.tsv": "341287963134455c7aaf8f64dab0a4ef01258c37dc68344614cccec8dc43f363",
-  "data/corpus_stats.json": "fdaabf282f526a4b3e124fd50c27e11d277df49cd721823066640f8f5dea7f07",
   "data/evidence.jsonl": "e2791b2d9c314f5410a01bafb7f0dc34643be7f537d08c62f10128afde95474e",
-  "data/ledger_ids.tsv": "eab023a4a34293b93eaf3ba65eb172ad27b259ccb1161662a7bc4e0deb22d84c",
+  "data/identity_names.tsv": "51eeeb2d24efcf376878a88dc6ac2fe03e32376e3441428a97d33ec96b27d57b",
   "data/questions.jsonl": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
-  "data/temporal_prev_month.tsv": "1b071a045493e77ba601b472f04f6b1a9eb4168a5ade52511d7c94d86bbd5200",
-  "data/validation_summary.json": "3a82c4c2c1e6d8a182cdb680303514b1ea56a5effe194ce8f0aa77972ab22da4",
-  "diagnostics/answer_string.tsv": "ac952fd532c804afaaba031f452e9fcdac582474f5efb3acdbf5cef0f2750e1c",
-  "diagnostics/basic_answer_string.tsv": "8fcd08aeec05a20b459f8f66b1983e2caf720f24574734794e0e4c0a7241f4c9",
-  "diagnostics/graph_checks/auto_flags.json": "5b2a6b560020f6914fd2f22fa6ef9733efb5e9775b21ba737941ff3c69fc56d4",
-  "diagnostics/graph_checks/hanja_split20.jsonl": "5802ff2c48d5883e45065a114ddff84419713f5b6ae4984393c2ac153a461aab",
-  "diagnostics/graph_checks/non_verbatim_names20.jsonl": "1681e7822b5ed8b27acb55f90171a7cb5f7077bf8b82e45ed727870320e85b5b",
-  "diagnostics/graph_checks/recheck35.jsonl": "acf0f32835cffe3a8d16756a508a9c0a96ee88d169b2cb50ea46d9e71879e3f4",
-  "diagnostics/graph_checks/relationships30.jsonl": "2784792f7b7e8a24cfd7b5e35502d8d0e679393c8d0ad2920197127f21660409",
-  "diagnostics/graph_checks/same_name_merge20.jsonl": "59dabefd51f19ad6c47b086f7dd48a28313913c02421bc651af39d5eefbea563",
-  "diagnostics/graph_checks/table_iv_candidates.jsonl": "8a14ebc6f6a00bd8ae9b613d4ce7e0dae652488f6c0277165058dd2402df18b7",
-  "diagnostics/identity_items.tsv": "47d2c8a749048652f1cccf73d3a9cc1a8d8e28790547ac20cdd04a9fdab67e5e",
-  "diagnostics/identity_pairs.tsv": "90474768e3d0a139759009c2c6d4bc9461e980b3ddb654f4797d6d026e1e2ed1",
-  "diagnostics/multihop.tsv": "0e3c8886ba2969a038e1d001ecd649db7e05a92ebc89d241234733dabfcb7d0b",
-  "diagnostics/temporal.tsv": "749d2ff0baa0d298c3401ab9d62ba16000265b81fa4227f684ff584be415eebc",
-  "diagnostics/vanilla_answer_string.tsv": "d28ef1341fd5427ae4cf7374523e2f4a778cbec4bce7dad0bda49bcb019fb5a1",
-  "graph/entities_ids.tsv": "43ebe4e82d010137e5bda60241bb56939b039fd07da53612bebcfa237e54b6ff",
-  "graph/relationships_ids.tsv": "387f4c107c24c862e0b317e2c30af99fc5ad5f88862be711e35de4755e6f87ee",
-  "graph/text_units_ids.tsv": "a034bc56fcabd62563c80a87eef6908f138f9c51a0ad2e4fa5202caaa5d04967",
-  "graphrag/index_stats.json": "60e3abd37960b3e13d1ff2d5876be50646d94e076aa15c5e1e2b5c4d6c682c70",
   "graphrag/prompts/basic_search_system_prompt.txt": "026b8a1e6029142f056aab9ace58a2b4aecb31340e8d6c366389d3e7a2720211",
   "graphrag/prompts/community_report_graph.txt": "dd5909455b93039efc05da0fb51f30b502b4d2010da0d06eb485a0dae7990963",
   "graphrag/prompts/community_report_text.txt": "1622c6e0c6cc4951f5a5e63ea49aa9cf39ecd71a3aecaa5bdd6c2fa209aa455b",
@@ -129,53 +61,28 @@
   "graphrag/prompts/summarize_descriptions.txt": "a7d2bb71e9bf5e011348f34025342b7f740e7dbfe7f41e80c8f909aede3d8be8",
   "graphrag/settings.yaml": "d9a42d945aeaf04622bda43f0bc5d01d9d5c549b1524c94803fc6af4ae850aa6",
   "prompts/judge_llm_eq.txt": "262f63812e64fc37e5aef77dfcd9a8bd0a8ae0ea8348673cecba27cf88cd9609",
-  "prompts/reader_closed.txt": "d1ae086ac3eb5859c6c1db6f11d84bbe6d9326c7e3cf510da04c6ce623a39efa",
   "prompts/reader_gold.txt": "e74ce70414c88576bc896fe678080c600103b7bb5f8c5c6c4c2e6212471bb60a",
-  "prompts/reader_vanilla.txt": "ef2bebab6885af10b534c209da19bd2bc2e9824f5ff0521ff019d7a1cf340fa2",
-  "runs/closed/answers.jsonl": "4c6e6e24548d70c68ca38fdcd1d228246697417c2993da747738c35f53735bb0",
-  "runs/closed/judged.jsonl": "bc597ce087ef0410068360dccb2b6e205b6e9c2c64f6cc890669c77c6a09b455",
-  "runs/closed/manifest.json": "f5f5453195000e8ba8b4583d772c7e22288f84a4e0be5a4225a8a26358c94bf2",
   "runs/gold/answers.jsonl": "f7b0aed5355574ced79f387617b5a19d95766fe37e80c2e6e6bde4cb0cc26e95",
   "runs/gold/judged.jsonl": "811488734504715f178a4cecf93a416c3e3d275aed9bf2d265dc481418c24c7b",
   "runs/gold/manifest.json": "10e34da126fd59e1d87c7f9d828152b8bc77f4c815959bb26865fa04032be9e1",
   "runs/gold_gpt41/answers.jsonl": "825c52a03cd2b0b20620e78c48509aee22371950bbf3017ef57efd6b18189fe0",
-  "runs/gold_gpt41/judged.jsonl": "e2966a699370830c8cbe17fa2bfc9e5d9ba164f90df3ae31c1976d31f258b5c3",
   "runs/gold_gpt41/manifest.json": "fff3c46b9f1810c18368210edd11e5fcc1a538f9d352ef7ec091ffdb467b3333",
   "runs/graphrag/answers.jsonl": "fde58119546823d59dcefdd33ffa284a9a177c630833073e07bdbda69d23571d",
-  "runs/graphrag/context_index.jsonl": "41c46348cf21611c26ad94019b9885c47b2e3589d8b97fb196cc9b6362cc55d9",
   "runs/graphrag/judged.jsonl": "b36df9e06f14d3e234601fd7148c5f21bf496e9c352f4d08aaf4b277b2c5132d",
   "runs/graphrag/manifest.json": "c235b66bc920c87433eea5f5de251ba0d11b5a61caa2233fb2c49662dad5562b",
   "runs/graphrag_basic/answers.jsonl": "0b9dad36affc49a22d28bc0033cd004d16a51f85d6da67d3e9b7025399f0b306",
   "runs/graphrag_basic/judged.jsonl": "8d3b3cbd5d1bddfebf3e257393e112288846d860d25ab7d893060fc2767d9c68",
   "runs/graphrag_basic/manifest.json": "0165f5bb048104ccbcaafa4c897c71d4a09962c9ce3c03253cea0adee4919e1d",
   "runs/graphrag_ctx/answers.jsonl": "0edf751dd407be9d36585709398ed83444bc3ec9ac66a8e80c2abefdbc9baa6e",
-  "runs/graphrag_ctx/judged.jsonl": "24250e812422dfbd5df4db53fedd482ba1ef69b086860c1b1755322051bf911e",
   "runs/graphrag_ctx/manifest.json": "5940ee5267b5718a2b7c6e742bf634353e09d9fc58002761c2dc37cbebdc8967",
   "runs/graphrag_ctx/sample.json": "3b47cbd8b3b27352da929d9109355ca19cc8b9055d3db20bccd89908a16cf844",
   "runs/judge_manifest.json": "fe2274a1003608d0ed7dffc8834cec0c3cb29c1056aae876d4b0a9e6ca02a7e7",
-  "runs/vanilla/answers.jsonl": "5af1bcfcc276d1280e0a8b5045bcb17208634b047405de0d4a0cc28746fdb264",
-  "runs/vanilla/judged.jsonl": "5e78e2084349263f423cc044084e46d9a9e605ecc20589f91a8f34feba362134",
-  "runs/vanilla/manifest.json": "02fed15d2b48d0a300d1b380bd1ff8df2cc78bb42c4a63e9307a3da4cd319b67",
-  "runs/vanilla/manifest_retrieval.json": "11a4c2e7f7e339b3b52603dc7294700526293185c36419413f71509812434144",
-  "runs/vanilla/retrieval.jsonl": "bb86881617dd58463593ed4a53a802a76f71ba2a661e957c17a6ba864b74b6dd",
-  "runs/vanilla_bm25/answers.jsonl": "c1c70e0cd675640636459f34c5bed7f646386933bd78b445bbad746bb302b90d",
-  "runs/vanilla_bm25/judged.jsonl": "93373a43791bd6d6c5924841308e3ae9d86f81bb286cbba31e25d44484596ea1",
-  "runs/vanilla_bm25/manifest.json": "93cf4fe2d465a72513fdd11017814c056c73d191bae80483944e569f96fa5e22",
-  "scripts/build_wiki_skeleton.py": "d3e1392c9c22037a5d151f378e9963d6e0038ae1f53776dc24b9aa8a9fe4e7b8",
-  "scripts/evidence_arrival.py": "8c844126ee23012ed9860cee04b1232fca591907fbba329aea77c99de2de11c1",
-  "scripts/final_paper_checks.py": "67d51e5b7404cb8f2694a1af0ab31c6abeb3baf74aae401d73314f10b0ef6251",
-  "scripts/full_period_check.py": "69a166403aeee393595e73fa006bb60d922f9ea87161fa237aaa7acc19d7bf9e",
-  "scripts/paired_ci.py": "449469aa863481917f3b22ea00eb78ae9067579de41187009b7fcda08bb19c8f",
-  "scripts/paper_diagnostics.py": "0595740e3dd1db3f968bc75fbdd4eabfc8c344c3de17bccb839f3bc3ff68828b",
+  "scripts/check_paper.py": "5bbf69ee15d43d3cf65227095f1c1a80eb0554b4918eff75a9aba023a7c6b420",
   "scripts/rebuild_corpus.py": "0b0d265b1b2adcc7cd75702b7c471362d2f5d1b2cfb1a80202cbfe01d8e922a9",
-  "scripts/score.py": "3070fc808f2ec45dfb1e4da6f25534ed878a8fea63abcf5f4b449247b543ab62",
-  "scripts/test_score.py": "2177733286f86c277dea5b3c5f425fdecc8cfc3aa6d8c9725608cd1528aef720",
-  "scripts/verify_paper.py": "1a2a9e042ee3756f6e4433a9464ba6a2977c4a62a3ba12ee4657e5d609dbe565",
-  "scripts/vi_recompute.py": "765c7cd9572ca9b95c8c4136a85382819334047108b4977df5e33bb5d526721e",
-  "wiki_skeleton/wiki_skeleton.jsonl": "ac48252987851eb94f72a170fc532dd0b85d91241421761bfc643491f66ce73a"
+  "scripts/score.py": "88fd2cd745ed520670cc18b4a10d51cf83e54fc4965d37664ede0c5253b93d10"
  },
  "runs_added_after_main_runs": [
-  "runs/vanilla_bm25 (BM25 only)",
-  "runs/graphrag_basic (GraphRAG Basic search)"
+  "runs/graphrag_basic (GraphRAG Basic Search)",
+  "runs/gold_gpt41 (Gold-context with gpt-4.1)"
  ]
 }

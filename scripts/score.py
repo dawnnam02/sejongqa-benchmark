@@ -1,17 +1,17 @@
 """SejongQA scorer (self-contained, standard library only).
 
 Usage:
-    python scripts/score.py runs/vanilla/answers.jsonl [--judged runs/vanilla/judged.jsonl]
+    python scripts/score.py runs/graphrag/answers.jsonl [--judged runs/graphrag/judged.jsonl]
 
-Reproduces the EM, Pair EM, LLM-Eq and abstention columns of Table III from the released
-answers. EM normalization (same as reference/27_채점.py):
+Reproduces the EM, Pair EM, LLM-Eq and abstention values of Table II from the released
+answers. EM normalization (the rule used for the paper):
     NFKC -> remove parenthesized text -> remove Hanja -> remove punctuation and spaces -> lowercase.
     An answer is correct if it equals the gold answer or any alias after normalization.
     Gold candidates that become empty after normalization are ignored (unless all are empty).
 Pair EM: a minimal pair (Identity or Temporal, same pair_id) counts only if both items are EM-correct.
 Abstention: the answer contains the Korean string "근거 부족" ("insufficient evidence"); it counts as an error.
-95% CI: 2,000 bootstrap resamples, seed 20260929, pairs (Identity/Temporal) or items (Multi-hop) as units,
-stratified by category. Intervals can differ in the last digit from the paper, which used reference/27_채점.py.
+95% CI (not reported in the paper): 2,000 bootstrap resamples, seed 20260929, pairs (Identity/Temporal)
+or items (Relation Chain) as units, stratified by category.
 """
 import argparse
 import collections
