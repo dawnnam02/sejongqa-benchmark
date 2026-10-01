@@ -12,7 +12,7 @@
  "models": {
   "item_drafting_revision_resolving": "Claude Code sub-agents, Claude Opus 5.5 (claude-opus-5-5)",
   "wiki_authoring": "Claude Opus 5 (authors' record of the model; no run log released)",
-  "reader_and_judge": "gpt-4.1-mini-2025-04-14; Gold Evidence also re-read with gpt-4.1-2025-04-14 (runs/gold_gpt41)",
+  "reader_and_judge": "gpt-4.1-mini-2025-04-14; Gold-context also re-read with gpt-4.1-2025-04-14 (runs/gold_gpt41)",
   "embedding": "text-embedding-3-small",
   "graphrag": "Microsoft GraphRAG 2.7.2 (Local and Basic search), gpt-4.1-mini via LiteLLM (dated version not recorded)"
  },
@@ -78,7 +78,7 @@
  "files_sha256": {
   ".gitignore": "a03e2bec5d2d04d09168c3a968fe04152364479aa2de93117cb16259b0e6e7bf",
   "LICENSE.md": "d6ef54186fe88bbeb85294dd1548f38806a675ab01c115cb1462e046f63d6841",
-  "README.md": "3848a4d08e2ea438192a19d4de4e11c30d74f3b7d56e2c1a17875f89e90ba4be",
+  "README.md": "d31981edb24dc3fc574a5c68bd7e837ce4076efbed116dc209e978fe08b09c4f",
   "code/15_GraphRAG질의.py": "dc386fd74241275efa4e58d4812e5f5b5c86e0c85ed295a5712b8618dd11499f",
   "code/15c_GraphRAG기본검색.py": "4aad96d3967125d97b24095b5ed8b1cc7b5d269b20412599a3878e6121b71ed0",
   "code/16b_LLM판정.py": "782f297613f2378d4be2dbb61143103ff605e59ee7a21d66b33f76acd296bb57",
@@ -163,6 +163,7 @@
   "runs/vanilla_bm25/manifest.json": "93cf4fe2d465a72513fdd11017814c056c73d191bae80483944e569f96fa5e22",
   "scripts/build_wiki_skeleton.py": "d3e1392c9c22037a5d151f378e9963d6e0038ae1f53776dc24b9aa8a9fe4e7b8",
   "scripts/evidence_arrival.py": "8c844126ee23012ed9860cee04b1232fca591907fbba329aea77c99de2de11c1",
+  "scripts/final_paper_checks.py": "67d51e5b7404cb8f2694a1af0ab31c6abeb3baf74aae401d73314f10b0ef6251",
   "scripts/full_period_check.py": "69a166403aeee393595e73fa006bb60d922f9ea87161fa237aaa7acc19d7bf9e",
   "scripts/paired_ci.py": "449469aa863481917f3b22ea00eb78ae9067579de41187009b7fcda08bb19c8f",
   "scripts/paper_diagnostics.py": "0595740e3dd1db3f968bc75fbdd4eabfc8c344c3de17bccb839f3bc3ff68828b",
