@@ -1,0 +1,18 @@
+{
+ "system": "graphrag_ctx",
+ "run_date": "2026-09-29",
+ "model_requested": "gpt-4.1-mini",
+ "model_returned": "gpt-4.1-mini-2025-04-14",
+ "temperature": 0,
+ "max_tokens": 100,
+ "top_k": null,
+ "system_prompt": "당신은 조선 세종대 실록 기사에 관한 질문에 답한다.\n아래 [자료]에 주어진 표(개체·관계·보고서·기사 조각)만 근거로 답하라. 자료 밖의 지식을 쓰지 마라.\n답변 형식: 짧은 답 하나. 단어나 짧은 구로만 답하고 설명·근거 표기는 쓰지 않는다. 답할 수 없으면 '근거 부족'이라고만 쓴다.",
+ "system_prompt_sha256": "5545ccdf9835ab811e63487d4191a039d352d36cb53eeae4ec75a918f3ba75d9",
+ "n_questions": 200,
+ "questions_sha256": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
+ "corpus_sha256": "9dee02459dbcc660d752df009b2cf7c4d955f3125e85e12c8664ab8d97ecf6c6",
+ "input": "stored GraphRAG Local contexts of the 200 items in sample.json",
+ "sample_ids_sha256": "f33389a76d5992ec234068cd996a5286484a3fb518be062d7af1c20bd78bee22",
+ "sample_ids_sha256_definition": "sha256 of json.dumps(sample['ids']) (the JSON-serialized ID list), not of the file bytes",
+ "smoke_test": "the first five items were answered in a pipeline smoke-test call with identical settings and are included in the 200"
+}

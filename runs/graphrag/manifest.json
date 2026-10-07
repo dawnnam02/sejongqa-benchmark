@@ -1,0 +1,52 @@
+{
+ "system": "graphrag",
+ "run_date": "2026-09-29",
+ "library": "Microsoft GraphRAG 2.7.2",
+ "search": "local (native prompt)",
+ "model_requested": "gpt-4.1-mini",
+ "model_returned": "gpt-4.1-mini (via LiteLLM)",
+ "temperature": 0.0,
+ "max_tokens": null,
+ "top_k": {
+  "top_k_entities": 10,
+  "top_k_relationships": 10,
+  "max_context_tokens": 12000,
+  "text_unit_prop": 0.5,
+  "community_prop": 0.25,
+  "community_level": 2
+ },
+ "response_type": "짧은 답 하나. 단어나 짧은 구로만 답하고 설명·근거 표기는 쓰지 않는다. 주어진 자료로 답할 수 없으면 '근거 부족'이라고만 쓴다.",
+ "system_prompt_sha256": "52f26f5642a62127245f49ab2e8787a3f143cbb77f74123d834172591f9e9fd5",
+ "n_questions": 975,
+ "questions_sha256": "305d3911bfeee7beb9875823e012035c963e9fe5c617f8abb3a937d31a661c48",
+ "corpus_sha256": "9dee02459dbcc660d752df009b2cf7c4d955f3125e85e12c8664ab8d97ecf6c6",
+ "settings_sha256_at_run": "765731d79e4a40ef6fc2456d030e81e7fbbed5d1283b9d4baefb6571776b7f73",
+ "prompts_sha256": {
+  "basic_search_system_prompt.txt": "026b8a1e6029142f056aab9ace58a2b4aecb31340e8d6c366389d3e7a2720211",
+  "community_report_graph.txt": "dd5909455b93039efc05da0fb51f30b502b4d2010da0d06eb485a0dae7990963",
+  "community_report_text.txt": "1622c6e0c6cc4951f5a5e63ea49aa9cf39ecd71a3aecaa5bdd6c2fa209aa455b",
+  "drift_reduce_prompt.txt": "792b906898bb4f2c72b0647aa81e20e57155d252fc55754c4a9f31543f33ef17",
+  "drift_search_system_prompt.txt": "141783780fb2d6aff8fe3077aa8b585a072e8b09b4b19cedf31851e020044b07",
+  "extract_claims.txt": "5bfa097332b69708d8a7d5e348f0696d8b7a3a37b3b6d5dd6d1f53f94b4e4f36",
+  "extract_graph.txt": "5c62347f4685df93c6d065b421560276dba19270bdb7dc23eb3127dbcf108d71",
+  "global_search_knowledge_system_prompt.txt": "b51eff360b2e08bcbd34d5eeff803b541e5178eaaa1c51da57d16fc36131822c",
+  "global_search_map_system_prompt.txt": "5b0c4a052245d1d2328422184f7bf5ebcd33f124dae8695953d7d68f4440da39",
+  "global_search_reduce_system_prompt.txt": "6bc9e3f23e5509c10d3332f0d19c6cd85ee2d4d7b94e3f60f8ed5f094e717185",
+  "local_search_system_prompt.txt": "52f26f5642a62127245f49ab2e8787a3f143cbb77f74123d834172591f9e9fd5",
+  "question_gen_system_prompt.txt": "cc559f0243f6039c877636a08cc6f39c0e09baa27768a979e2f9ede3adb50e30",
+  "summarize_descriptions.txt": "a7d2bb71e9bf5e011348f34025342b7f740e7dbfe7f41e80c8f909aede3d8be8"
+ },
+ "index_parquet_sha256": {
+  "communities.parquet": "6ac1bb752abc126ec40510f554fbda6641b81a2363ec66c375ed45230822578d",
+  "community_reports.parquet": "151bc82542eb1808f5d4c14564b32a6f36192e0cb68e95677a1a6bd78b8d9afa",
+  "documents.parquet": "19b027bc7487618a588353a046c22b2661a4c18d334123419fa3fe6ad3cf8909",
+  "entities.parquet": "987f1101e944df03a44744988d8911d8d939cca1da16349917397387cd4ea219",
+  "relationships.parquet": "75c1a06e9331afe1880030961ca46b706a30a17b958a33b024c81ad5361a9769",
+  "text_units.parquet": "56db88fda4f1f6e827c7bb3752fe0641c84c53f843356707e8b87a9a409a3b7b"
+ },
+ "usage_gpt-4.1-mini": {
+  "prompt_tokens": 7282852,
+  "completion_tokens": 4266
+ },
+ "smoke_test": "the first five items were answered in a pipeline smoke-test call with identical settings and are included in the 975"
+}

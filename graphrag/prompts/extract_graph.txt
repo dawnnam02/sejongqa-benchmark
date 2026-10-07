@@ -1,0 +1,115 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity exactly as written in the Korean text (한글 표기 그대로). Do not translate, romanize, or capitalize it. If the text gives Chinese characters in parentheses, keep them out of the name and put them in the description.
+- entity_type: One of the following types: [{entity_types}]
+- entity_description: Comprehensive description of the entity's attributes and activities, based only on the text
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in Korean as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into Korean, just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+entity_types: [인물, 관직, 관청, 지명, 나라, 사건, 제도, 문헌]
+text:
+<<ARTICLE 01-06-13[03]>>
+
+------------------------
+output:
+("entity"{tuple_delimiter}왜인 처분 논의{tuple_delimiter}사건{tuple_delimiter}1419년(세종 1년) 6월 13일 기사에 기록된 일. 시임과 산관 2품 이상에게 대마도에 속한 왜인을 처리하여 분산해 두는 것의 가부를 논의하게 하였고, 죽이자는 의견과 살리자는 의견이 갈렸다)
+{record_delimiter}
+("entity"{tuple_delimiter}홍여방{tuple_delimiter}인물{tuple_delimiter}홍여방(洪汝方). 왜인 처분 논의에서 부녀자 이외에는 모두 죽여야 한다고 헌의하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}민여익{tuple_delimiter}인물{tuple_delimiter}민여익(閔汝翼). 왜인 처분 논의에서 건장한 자는 모두 죽여야 한다고 헌의하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}변계량{tuple_delimiter}인물{tuple_delimiter}변계량(卞季良). 왜인 처분 논의에서 순종하지 않는 자만 죽여야 한다고 헌의하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}상왕{tuple_delimiter}인물{tuple_delimiter}왜인 가운데 20세 이하 남자와 재주 있는 자는 조정 관원에게, 나머지는 각 고을에 노비로 나누어 주고, 순종하지 않는 자는 소재지 고을에서 처리하게 하라고 말하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}조말생{tuple_delimiter}인물{tuple_delimiter}조말생(趙末生). 왜인들이 중국에 죄를 짓고 우리나라에 소란을 일으켰으니 다 죽여야 한다고 아뢰었다)
+{record_delimiter}
+("entity"{tuple_delimiter}박은{tuple_delimiter}인물{tuple_delimiter}박은(朴訔). 이원 등과 함께 왜인을 특별히 살리는 처분이 훌륭하다고 아뢰었다)
+{record_delimiter}
+("entity"{tuple_delimiter}이원{tuple_delimiter}인물{tuple_delimiter}이원(李原). 박은 등과 함께 왜인을 특별히 살리는 처분이 훌륭하다고 아뢰었다)
+{record_delimiter}
+("entity"{tuple_delimiter}대마도{tuple_delimiter}지명{tuple_delimiter}대마도(對馬島). 처분 논의 대상인 왜인들이 속한 섬)
+{record_delimiter}
+("relationship"{tuple_delimiter}홍여방{tuple_delimiter}왜인 처분 논의{tuple_delimiter}홍여방은 부녀자 외에는 모두 죽이자는 의견을 냈다{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}민여익{tuple_delimiter}왜인 처분 논의{tuple_delimiter}민여익은 건장한 자는 모두 죽이자는 의견을 냈다{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}변계량{tuple_delimiter}왜인 처분 논의{tuple_delimiter}변계량은 순종하지 않는 자만 죽이자는 의견을 냈다{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}상왕{tuple_delimiter}왜인 처분 논의{tuple_delimiter}상왕이 왜인을 관원과 고을에 나누어 주어 노비로 삼게 하는 처분을 말하였다{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}조말생{tuple_delimiter}상왕{tuple_delimiter}상왕의 처분에 대해 조말생은 왜인을 다 죽여야 한다고 반대 의견을 아뢰었다{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}박은{tuple_delimiter}이원{tuple_delimiter}박은과 이원은 함께 왜인을 살리는 처분을 지지하는 말을 아뢰었다{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}대마도{tuple_delimiter}왜인 처분 논의{tuple_delimiter}논의 대상인 왜인들이 대마도에 속해 있었다{tuple_delimiter}6)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+entity_types: [인물, 관직, 관청, 지명, 나라, 사건, 제도, 문헌]
+text:
+<<ARTICLE 06-04-24[02]>>
+
+------------------------
+output:
+("entity"{tuple_delimiter}유정현{tuple_delimiter}인물{tuple_delimiter}유정현(柳廷顯). 1424년(세종 6년) 4월 24일 당시 의금부 제조로서 조원을 율문대로 논죄하고 곽장을 참형에 처하기를 청하였으나 윤허받지 못하였고, 방금이 허술하다는 질책에 사죄하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}의금부 제조{tuple_delimiter}관직{tuple_delimiter}의금부의 제조. 이 기사에서 유정현이 맡고 있던 관직)
+{record_delimiter}
+("entity"{tuple_delimiter}의금부{tuple_delimiter}관청{tuple_delimiter}죄수를 가두고 국문하는 관청. 근래 방금이 허술하여 죄수 조원이 도망하고 곽장이 자살하는 변고가 있었다)
+{record_delimiter}
+("entity"{tuple_delimiter}조원{tuple_delimiter}인물{tuple_delimiter}조원(曺元). 의금부 죄수로 도망쳤으며, 의금부 제조 유정현 등이 율문대로 논죄하기를 청하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}곽장{tuple_delimiter}인물{tuple_delimiter}곽장(郭璋). 의금부 죄수로 자살하였으며, 유정현 등이 죽었지만 참형에 처하기를 청하였다)
+{record_delimiter}
+("entity"{tuple_delimiter}주상{tuple_delimiter}인물{tuple_delimiter}유정현 등의 청을 모두 윤허하지 않고, 의금부 죄수의 변고는 방금이 허술해서라고 질책하였다)
+{record_delimiter}
+("relationship"{tuple_delimiter}유정현{tuple_delimiter}의금부 제조{tuple_delimiter}유정현은 이 기사 당시 의금부 제조였다{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}의금부 제조{tuple_delimiter}의금부{tuple_delimiter}의금부 제조는 의금부의 관직이다{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}유정현{tuple_delimiter}조원{tuple_delimiter}유정현 등이 조원을 율문대로 논죄하기를 청하였다{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}유정현{tuple_delimiter}곽장{tuple_delimiter}유정현 등이 이미 죽은 곽장을 참형에 처하기를 청하였다{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}주상{tuple_delimiter}유정현{tuple_delimiter}주상이 유정현 등의 청을 윤허하지 않고 방금이 허술하다고 질책하자 유정현 등이 사죄하였다{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}조원{tuple_delimiter}의금부{tuple_delimiter}조원은 의금부에 갇혀 있다가 도망쳤다{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}곽장{tuple_delimiter}의금부{tuple_delimiter}곽장은 의금부 죄수로 있다가 자살하였다{tuple_delimiter}7)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+entity_types: [{entity_types}]
+text: {input_text}
+######################
+output:

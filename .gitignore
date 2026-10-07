@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Local corpus and rebuilt files (article texts must not be redistributed)
+corpus/
+articles.csv
+*.parquet
+*.npy
+lancedb/
+cache/
+output/
+logs/
+
+# Large or temporary files
+*.zip
+*.7z
+*.tar
+*.gz
+*.tmp
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Restored prompt contains two source articles; do not commit it.
+*.restored.txt

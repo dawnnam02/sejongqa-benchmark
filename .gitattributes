@@ -1,0 +1,8 @@
+# Text files are stored with LF line endings.
+* text=auto eol=lf
+
+# Keep these files byte-identical (CRLF): their SHA-256 values are recorded in the run manifests
+# and checked when the masked prompt is restored.
+data/questions.jsonl -text
+data/answers.jsonl -text
+graphrag/prompts/extract_graph.txt -text
